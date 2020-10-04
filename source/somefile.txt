@@ -1,0 +1,12 @@
+2-Four Seasons Pizza                                                      4
+Four Seasons Pizza                                                        3
+2-Masala dosa,3-Chocolate Truffle Pastry                                  3
+1-Fish 'n' chips,2-Fajita                                                 3
+Hummus                                                                    3
+                                                                         ..
+1-Four Seasons Pizza,3-Blueberry Pastry                                   1
+2-Crispy Chicken Burger,1-Butter Scotch ice cream                         1
+2-Fish 'n' chips,1-Chicken Risotto                                        1
+2-Crispy Chicken Master Burger,1-Chicken Ceasar Salad,2-Fish 'n' chips    1
+1-Potato chips,1-Chocolate Truffle Pastry                                 1
+Name: order_details, Length: 828, dtype: int64

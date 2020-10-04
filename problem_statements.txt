@@ -1,0 +1,5 @@
+1. which branch has the max sales, calculate order amount (base price available)
+2. most and least ordered product across all branches
+3. month-wise trend for all branches
+
+Hey, wassup. Hope you are doing good, eating well and taking good sleep. In this video, I am going to talk about 

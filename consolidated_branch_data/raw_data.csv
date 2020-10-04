@@ -1,0 +1,1021 @@
+branch_id,order_date,order_time,customer_name,order_details,order_amount,rating
+2,20-Apr-19,16:11,Freda,"2-French toast,2-Crispy Chicken Burger,3-Mushroom Risotto",0,5
+2,29-Jun-19,13:56,Adolphus,"5-Grilled Chicken Salad,2-Fajita,2-Four Seasons Pizza",0,3
+4,22-Sep-19,21:14,Napoleon,"1-Banoffee Pie,4-Four Seasons Pizza",0,5
+5,12-Feb-20,17:33,nirma,1-Crispy Chicken Burger,0,3
+6,18-Jul-19,19:23,Santos,"1-Crispy Chicken Master Burger,3-Mushroom Risotto",0,2
+7,02-Jan-20,15:34,Sadie,"1-Chicken rice,1-Tomato and Garlic Risotto",0,4
+8,20-Sep-19,21:12,arti,"2-Idli Sambhar,2-Chicken Ceasar Salad,1-Chocolate Truffle Pastry",0,1
+8,27-Dec-19,17:07,Norwood,"2-Potato chips,3-Tomato and Garlic Risotto",0,5
+?,"""?ª?",v,[??,?tKÚ??ì???O?O,0,S
+Ñ,?,?ñ,2*,? ??Ö231álY?Ñ?,0,æ
+,,,,,,
+3,19-Oct-19,18:43,Deepak,Grilled Chicken Salad,0,2
+7,12-Nov-19,17:27,Janette,"2-Hummus,3-Croissant,3-Fajita",0,4
+4,19-Jun-19,11:55,Patricia,"1-Buttered popcorn,2-Chocolate Mousse",0,4
+8,05-Apr-19,19:11,Monica,"2-Masala dosa,1-Chicken Ceasar Salad",0,4
+2,26-Apr-19,11:31,Lon,"1-Idli Sambhar,2-Waffle with Strawberry",0,3
+10,13-Jun-19,14:50,Nishant,Chocolate Shake,0,5
+3,16-Dec-19,12:26,Stanton,"1-Hummus,3-Waffle with Strawberry,1-Crispy Chicken Master Burger",0,2
+9,27-Apr-19,21:53,Isha,"1-Chicken Burger,2-Chicken Ceasar Salad",0,1
+5,05-Dec-19,11:33,Mac,"2-Masala dosa,3-Waffle with Strawberry",0,2
+5,24-Jan-20,14:39,rubi,"2-Chicken Cheeseburst Pizza,3-Butter Scotch ice cream",0,4
+4,14-Nov-19,16:50,Andre,"2-Fish 'n' chips,3-Chocolate Shake",0,3
+1,22-Apr-19,14:29,June,Blueberry Pastry,0,1
+5,13-Aug-19,15:02,Elwyn,"2-Potato chips,3-Smoked Chicken Salad",0,4
+7,17-Nov-19,15:50,Derald,"1-Crispy Chicken Master Burger,3-Chocolate Shake",0,2
+7,19-Jul-19,18:42,Noble,"1-Coke,3-Fajita",0,4
+3,12-Apr-19,21:28,Darla,"2-Coke,1-Donuts",0,1
+1,21-May-19,21:53,Inez,"1-Chicken rice,1-Smoked Chicken Salad",0,1
+9,19-Oct-19,12:17,Bart,"1-Banoffee Pie,1-Chicken Ceasar Salad",0,5
+8,17-Mar-20,14:46,Jonas,Chicken rice,0,2
+4,11-Jan-20,16:45,Jenny,"1-Idli Sambhar,3-Waffle with Strawberry",0,1
+8,14-Jul-19,18:49,Mahlon,"2-Masala dosa,1-Fajita,4-Tomato and Garlic Risotto",0,1
+,,,,,,4
+4,28-Feb-20,12:52,Benedict,"2-Crispy Chicken Burger,1-Mushroom Risotto,1-Crispy Chicken Master Burger",0,1
+7,12-Oct-19,17:36,Alvie,"1-Grilled Chicken Salad,3-Blueberry Pastry",0,1
+3,30-Nov-19,15:57,Grace,"2-Chicken rice,1-Chocolate Shake",0,3
+5,17-Nov-19,18:11,Preeti,"2-Banoffee Pie,1-Fajita",0,2
+7,01-Jul-19,18:32,shahin,"2-Idli Sambhar,3-Chicken Ceasar Salad",0,5
+1,23-Oct-19,12:57,Quentin,"1-Crispy Chicken Burger,1-Mushroom Risotto",0,5
+3,11-Oct-19,17:10,Derek,"2-Crispy Chicken Master Burger,3-Donuts,2-Butter Scotch ice cream",0,5
+5,06-Oct-19,16:02,Denzil,"1-French toast,3-Fajita",0,5
+8,01-Jun-19,12:32,Faith,"5-Crispy Chicken Burger,3-Chocolate Shake",0,1
+2,28-Dec-19,20:02,neetu,"1-Banoffee Pie,2-Chocolate Truffle Pastry",0,2
+6,14-Mar-20,18:38,Sadie,"4-Masala dosa,2-Tomato and Garlic Risotto",0,1
+3,27-Feb-20,12:26,Waldo,"1-Chicken Burger,3-Donuts,5-Tomato and Garlic Risotto",0,2
+,,,,,,3
+3,23-Nov-19,15:56,Burt,"1-Chicken rice,1-Smoked Chicken Salad,1-Crispy Chicken Master Burger",0,3
+7,26-Jan-20,16:57,Kirk,"1-Chicken rice,3-Mushroom Risotto,4-Mushroom Pizza",0,4
+5,08-Apr-19,20:46,megha,"1-Banoffee Pie,2-Mushroom Risotto",0,3
+4,29-Mar-20,20:13,Gwen,"2-Potato chips,2-Blueberry Pastry",0,3
+7,31-May-19,21:14,Rogelio,1-Garlic Bread,0,5
+4,10-Mar-20,17:06,Elisha,"1-French toast,1-Fajita,5-Chicken Cheeseburst Pizza",0,5
+,,,,,,4
+3,19-Jul-19,16:27,Raphael,"1-Four Seasons Pizza,1-Chocolate Mousse,3-Donuts,1-Coke",0,2
+8,18-Oct-19,10:34,Delton,"1-Grilled Chicken Salad,1-Butter Scotch ice cream",0,3
+2,06-Jun-19,10:20,Toby,1-Waffle with Strawberry,0,1
+8,08-Mar-20,16:20,Lavon,"1-Coke,1-Chicken Risotto",0,1
+5,28-May-19,15:18,Jacky,"1-Idli Sambhar,1-Blueberry Pastry",0,1
+4,26-Nov-19,17:57,Elisha,"2-Idli Sambhar,2-Waffle with Banana",0,3
+3,10-Sep-19,20:20,Lucinda,"1-Potato chips,1-Tomato and Garlic Risotto",0,2
+2,21-Apr-19,10:25,Dale,"1-Garlic Bread,2-Tomato and Garlic Risotto",0,1
+10,23-Feb-20,21:16,Damon,"1-Buttered popcorn,1-Smoked Chicken Salad",0,4
+9,27-Jan-20,10:12,Edd,"2-Grilled Chicken Salad,2-Chocolate Mousse,2-Butter Scotch ice cream",0,3
+10,22-Apr-19,17:58,James,"2-Banoffee Pie,2-Mushroom Risotto",0,2
+2,25-Oct-19,21:52,Ike,5-Waffle with Strawberry,0,1
+3,03-Oct-19,11:18,Lenore,"2-French toast,3-Chicken Ceasar Salad",0,3
+2,01-Apr-19,18:52,Margaret,"1-Crispy Chicken Burger,3-Mushroom Risotto",0,5
+7,29-May-19,21:43,Mable,"1-Chicken rice,2-Mushroom Risotto",0,2
+7,31-Jul-19,21:42,Dewitt,"1-Banoffee Pie,2-Mushroom Risotto",0,1
+,,,,,,
+,,,,,,
+7,26-Mar-20,17:25,shanti,"1-Idli Sambhar,2-Tomato and Garlic Risotto",0,2
+9,08-Jun-19,19:37,Gretchen,"1-Fish 'n' chips,3-Chocolate Truffle Pastry",0,1
+9,27-Dec-19,12:02,Dello,"1-Fish 'n' chips,2-Croissant,5-Tomato and Garlic Risotto",0,2
+9,28-Aug-19,10:10,Dock,"2-Potato chips,2-Chocolate Shake",0,3
+8,09-Aug-19,17:14,Alford,"2-French toast,1-Mushroom Risotto",0,2
+4,08-Feb-20,19:40,kaushal,"1-Buttered popcorn,3-Waffle with Strawberry",0,1
+9,06-Feb-20,17:48,shanti,"1-French toast,1-Mushroom Pizza",0,4
+5,30-Jun-19,16:33,Vicente,"1-Crispy Chicken Master Burger,1-Croissant",0,4
+10,02-Jun-19,19:27,Dale,"2-Fish 'n' chips,2-Fajita",0,2
+3,03-Jul-19,11:09,Nickolas,"2-Potato chips,1-Tomato and Garlic Risotto",0,2
+9,11-Oct-19,11:06,Gay,"2-Fish 'n' chips,1-Chocolate Mousse",0,2
+2,04-Mar-20,16:26,Kelly,"1-Garlic Bread,3-Chocolate Truffle Pastry",0,3
+1,04-Feb-20,11:24,Claudette,"2-Coke,3-Waffle with Strawberry",0,1
+1,02-Oct-19,13:43,Elliot,"1-Fish 'n' chips,2-Fajita",0,5
+9,23-May-19,17:44,Meredith,"1-Four Seasons Pizza,2-Butter Scotch ice cream",0,1
+4,25-Apr-19,13:35,rinki,"2-Buttered popcorn,1-Waffle with Banana,3-Waffle with Strawberry",0,4
+2,18-Sep-19,10:42,Clare,"1-Banoffee Pie,1-Croissant",0,4
+5,04-May-19,10:36,Cyrus,"1-Hummus,1-Blueberry Pastry",0,4
+3,27-Oct-19,16:00,Deepak,"2-Chicken Cheeseburst Pizza,1-Chicken Ceasar Salad",0,3
+3,13-Sep-19,19:36,nancy,"2-Idli Sambhar,3-Blueberry Pastry",0,5
+3,06-Jul-19,20:30,devika,"2-Idli Sambhar,3-Chicken Ceasar Salad,5-Smoked Chicken Salad",0,4
+3,26-Jan-20,12:12,megha,"2-Crispy Chicken Master Burger,3-Smoked Chicken Salad",0,4
+2,07-Feb-20,15:03,Robbie,"1-Chicken rice,1-Smoked Chicken Salad",0,3
+2,09-Jan-20,10:48,Eldred,"1-Banoffee Pie,3-Croissant,5-Smoked Chicken Salad",0,5
+5,05-Feb-20,11:04,Waldo,"1-Buttered popcorn,1-Tomato and Garlic Risotto,2-Fish 'n' chips",0,3
+5,19-Jun-19,13:53,pushpa,"1-Fish 'n' chips,3-Hamburger,4-Coke,5-Smoked Chicken Salad",0,3
+7,07-Jul-19,17:37,Naina,"1-Four Seasons Pizza,1-Waffle with Strawberry,5-Smoked Chicken Salad",0,4
+4,26-Jan-20,12:20,Verl,"2-Chicken Cheeseburst Pizza,1-Chocolate Mousse,5-Smoked Chicken Salad",0,1
+3,21-Jun-19,17:13,Verlyn,"1-Idli Sambhar,1-Donuts,5-Smoked Chicken Salad",0,5
+7,28-Nov-19,10:54,Ronny,"2-Chicken Burger,2-Croissant,3-Donuts,5-Smoked Chicken Salad",0,2
+3,28-Dec-19,10:47,Sid,"2-Potato chips,1-Chocolate Mousse",0,2
+1,06-Jan-20,12:21,Ginger,"1-Hummus,1-Tomato and Garlic Risotto",0,2
+8,04-Feb-20,12:40,Hilton,"2-Coke,1-Fajita",0,3
+1,03-Sep-19,15:03,Kaye,"2-Chicken rice,2-Blueberry Pastry",0,3
+1,19-Feb-20,20:11,Merton,"2-Four Seasons Pizza,2-Chicken Risotto",0,1
+5,13-Sep-19,16:01,Joyce,"2-Banoffee Pie,1-Chicken Risotto",0,4
+10,22-Feb-20,12:44,Miller,"2-Garlic Bread,2-Fajita",0,4
+4,07-Nov-19,20:56,Steven,"1-Coke,3-Blueberry Pastry",0,5
+3,20-Mar-20,19:33,Gale,"1-Hummus,2-Chicken Risotto",0,2
+9,30-Oct-19,14:21,Artis,"2-Garlic Bread,3-Croissant,1-Chocolate Truffle Pastry",0,4
+3,06-Feb-20,18:51,Carleton,"1-Crispy Chicken Master Burger,3-Donuts",0,1
+8,19-Oct-19,19:08,Arvid,"2-Four Seasons Pizza,1-Blueberry Pastry,1-Chocolate Truffle Pastry",0,5
+2,25-Dec-19,14:37,Toby,"1-Potato chips,3-Fajita",0,1
+1,20-Jul-19,18:48,Loy,"1-Crispy Chicken Master Burger,2-Mushroom Pizza",0,2
+8,25-Dec-19,20:27,Sandy,"1-Coke,2-Chocolate Truffle Pastry",0,3
+9,21-Apr-19,13:12,Oren,"1-Banoffee Pie,1-Chicken Risotto",0,4
+8,25-Aug-19,20:33,Arvid,"2-Buttered popcorn,1-Hamburger",0,5
+3,19-Sep-19,17:47,Palak,"2-Crispy Chicken Master Burger,1-Hamburger,5-Smoked Chicken Salad",0,4
+5,20-Mar-20,10:43,rani,"1-French toast,2-Chocolate Truffle Pastry,3-Donuts,1-Coke",0,3
+4,17-Jun-19,16:02,Bernice,French toast,0,4
+10,03-May-19,15:17,Zane,"2-Grilled Chicken Salad,1-Donuts",0,1
+3,22-May-19,14:51,Curtiss,Smoked Chicken Salad,0,1
+9,28-May-19,16:10,Lou,Butter Scotch ice cream,0,4
+9,16-Feb-20,16:06,Ashish,"1-Hummus,1-Chicken Risotto",0,4
+8,09-May-19,13:36,Rosetta,"1-Crispy Chicken Burger,1-Chocolate Mousse",0,4
+9,01-May-19,17:34,Dillard,"1-Crispy Chicken Burger,1-Butter Scotch ice cream",0,1
+7,12-Jan-20,21:10,Derek,"2-Buttered popcorn,3-Hamburger",0,4
+1,16-Aug-19,17:06,Marland,"1-Coke,2-Chicken Risotto",0,1
+5,09-May-19,12:48,pushpa,"1-Hummus,2-Donuts",0,2
+2,05-Aug-19,20:12,Verlin,"2-Idli Sambhar,3-Mushroom Risotto",0,1
+6,01-May-19,16:59,anandi,"1-Buttered popcorn,1-Donuts",0,5
+6,27-Nov-19,18:29,John,"2-Chicken rice,3-Donuts",0,3
+5,26-Jan-20,17:15,Willian,"2-Four Seasons Pizza,2-Chocolate Mousse",0,4
+2,24-Aug-19,21:28,Mia,"2-Chicken Burger,1-Waffle with Banana",0,5
+1,01-Sep-19,12:18,Alicia,"2-Garlic Bread,2-Tomato and Garlic Risotto",0,5
+5,01-Jan-20,11:22,Agustin,"2-Hummus,8-Chocolate Shake",0,4
+4,15-Oct-19,17:32,Stanton,"2-Coke,1-Smoked Chicken Salad",0,1
+6,12-May-19,13:35,Melba,"2-Chicken Burger,1-Waffle with Banana",0,4
+4,16-Nov-19,14:30,rekha,"2-Fish 'n' chips,2-Mushroom Pizza",0,2
+2,23-Oct-19,18:34,anjali,"1-Coke,1-Butter Scotch ice cream",0,4
+9,21-Jun-19,11:17,Nicolas,"1-Coke,2-Hamburger",0,3
+7,16-Mar-20,12:23,Mahlon,"1-French toast,2-Hamburger",0,3
+10,18-May-19,10:32,George,"1-French toast,1-Mushroom Risotto",0,2
+2,03-Jun-19,10:57,Ashish,"1-Crispy Chicken Master Burger,1-Blueberry Pastry,1-Chocolate Truffle Pastry",0,2
+6,24-May-19,17:59,nisha,"2-Crispy Chicken Master Burger,1-Chocolate Mousse",0,4
+2,04-Oct-19,12:59,sarita,2-Banoffee Pie,0,5
+6,15-Dec-19,15:43,Dello,"2-Masala dosa,2-Donuts",0,3
+1,27-Aug-19,10:55,Dominque,"2-Fish 'n' chips,1-Mushroom Pizza",0,1
+8,14-Oct-19,16:20,Walker,"1-Banoffee Pie,2-Chicken Ceasar Salad",0,2
+3,15-Apr-19,13:24,Norton,"2-Crispy Chicken Burger,1-Chocolate Mousse",0,2
+5,02-Jan-20,10:13,Melanie,"2-Coke,2-Chicken Ceasar Salad",0,5
+10,23-Mar-20,11:43,Jonnie,"1-Buttered popcorn,3-Chicken Risotto",0,5
+6,24-Aug-19,16:00,Alejandro,"2-Banoffee Pie,1-Mushroom Risotto",0,1
+4,09-Mar-20,19:09,Mark,"1-Chicken Burger,1-Croissant",0,2
+10,14-Mar-20,14:29,Myrna,"1-Idli Sambhar,2-Waffle with Banana",0,5
+1,29-Jan-20,19:03,Bryce,"2-Chicken Cheeseburst Pizza,3-Mushroom Pizza",0,4
+6,06-Dec-19,17:52,Lucy,"1-Banoffee Pie,1-Donuts",0,5
+8,27-May-19,10:36,Santo,"1-Masala dosa,3-Mushroom Pizza",0,5
+8,19-Dec-19,14:56,Pam,"2-Fish 'n' chips,3-Chicken Ceasar Salad",0,1
+8,06-May-19,11:07,Darold,"2-Potato chips,1-Mushroom Pizza",0,3
+2,13-Sep-19,20:12,Terrell,Hamburger,0,4
+8,29-Apr-19,18:27,Curtiss,"1-Hummus,3-Waffle with Strawberry",0,5
+1,21-Jan-20,21:02,Margaret,"1-Buttered popcorn,2-Chocolate Mousse",0,4
+2,20-May-19,17:42,varsha,"1-Masala dosa,1-Mushroom Pizza",0,2
+8,27-Feb-20,21:34,Bart,"2-Crispy Chicken Burger,1-Fajita",0,5
+4,04-Jun-19,12:46,Glendon,"2-Fish 'n' chips,2-Chocolate Shake",0,5
+8,13-Aug-19,16:56,Margarito,"1-Garlic Bread,1-Mushroom Risotto",0,4
+1,30-Nov-19,18:11,laxmi,"2-Banoffee Pie,2-Mushroom Pizza",0,2
+5,05-Apr-19,15:09,Judi,"2-Hummus,2-Chicken Risotto",0,4
+3,26-Apr-19,15:57,Colin,"1-Hummus,1-Waffle with Banana",0,4
+8,06-Nov-19,10:56,Hayward,Buttered popcorn,0,5
+4,16-Feb-20,13:23,Dillard,"1-Crispy Chicken Master Burger,2-Hamburger",0,4
+8,04-Nov-19,20:37,Sebastian,"1-Chicken rice,3-Butter Scotch ice cream,2-Buttered popcorn",0,3
+8,15-Mar-20,18:26,Loyal,"1-Chicken rice,3-Hamburger",0,4
+8,18-Oct-19,10:43,David,"1-Garlic Bread,1-Chocolate Truffle Pastry,1-Coke",0,4
+8,21-Mar-20,15:47,Judi,"1-Crispy Chicken Burger,1-Fajita",0,3
+8,09-Oct-19,10:31,Cheri,Chicken Cheeseburst Pizza,0,1
+1,05-Jun-19,17:50,shikha,"2-Crispy Chicken Master Burger,2-Chocolate Shake",0,1
+10,11-Nov-19,12:49,Artis,"2-Idli Sambhar,3-Mushroom Pizza",0,3
+6,08-Mar-20,11:09,Jerry,"2-Four Seasons Pizza,3-Butter Scotch ice cream",0,2
+1,29-Jan-20,19:24,Gertrude,"2-French toast,2-Donuts",0,5
+2,04-Jan-20,19:59,Deane,"1-Garlic Bread,3-Chocolate Shake",0,5
+10,29-Sep-19,12:25,Von,"1-Grilled Chicken Salad,2-Butter Scotch ice cream",0,4
+9,04-Oct-19,18:49,Glynn,"1-Fish 'n' chips,2-Hamburger",0,2
+3,14-May-19,20:13,Dexter,"1-Chicken rice,3-Mushroom Pizza",0,4
+7,06-May-19,10:17,Cloyd,"1-Chicken Burger,3-Chocolate Mousse",0,5
+4,21-Dec-19,11:22,shahin,"2-Chicken Burger,2-Mushroom Pizza,2-Buttered popcorn",0,2
+4,31-Aug-19,19:27,Katie,Donuts,0,1
+9,27-Mar-20,16:45,monika,"2-Masala dosa,3-Waffle with Banana",0,1
+9,22-Mar-20,12:08,Judson,"2-Potato chips,1-Tomato and Garlic Risotto",0,5
+1,16-Aug-19,14:51,Wayland,"1-Fish 'n' chips,2-Mushroom Risotto",0,1
+5,21-Jul-19,19:33,naziya,"2-Coke,3-Blueberry Pastry",0,3
+2,30-Nov-19,21:00,Granville,"2-Hummus,3-Chicken Ceasar Salad",0,4
+8,06-Apr-19,10:20,Quinton,"1-Fish 'n' chips,1-Smoked Chicken Salad,3-Donuts,3-Coke",0,1
+7,26-Feb-20,13:58,Taylor,"2-French toast,2-Mushroom Pizza",0,4
+1,02-Oct-19,21:12,nirma,"2-Chicken rice,3-Chicken Risotto",0,5
+7,25-Sep-19,13:50,Rosalind,4-Masala dosa,0,2
+7,16-Dec-19,13:17,Duwayne,"2-French toast,2-Chicken Risotto",0,4
+3,29-Sep-19,13:26,Murphy,"2-Chicken Burger,1-Chocolate Mousse",0,1
+1,23-Mar-20,19:47,Ruth,"1-Crispy Chicken Master Burger,3-Fajita",0,1
+1,27-Mar-20,15:33,shahin,"2-Idli Sambhar,2-Chicken Ceasar Salad",0,3
+4,14-Jun-19,19:06,Gertrude,"1-Chicken Burger,3-Chocolate Shake",0,5
+7,28-Nov-19,18:56,Jonas,"1-French toast,3-Chocolate Mousse",0,5
+1,02-Apr-19,21:14,Rubin,"2-Grilled Chicken Salad,2-Smoked Chicken Salad,1-Coke",0,1
+3,04-Nov-19,14:41,Oren,"2-Grilled Chicken Salad,3-Mushroom Pizza",0,2
+10,08-Feb-20,17:49,Israel,"2-Garlic Bread,1-Chicken Risotto",0,3
+3,09-Oct-19,14:57,Merton,"2-Four Seasons Pizza,2-Hamburger",0,3
+1,11-Nov-19,20:34,Adolphus,"1-Fish 'n' chips,1-Donuts",0,2
+1,11-Apr-19,18:50,Delton,"1-Chicken rice,3-Chocolate Truffle Pastry,2-Butter Scotch ice cream",0,3
+2,05-May-19,12:03,Lucious,"2-French toast,3-Smoked Chicken Salad",0,3
+9,04-Nov-19,19:01,Clovis,"1-Garlic Bread,1-Hamburger",0,5
+6,26-Feb-20,12:29,Clem,"1-Idli Sambhar,2-Tomato and Garlic Risotto",0,5
+9,18-Apr-19,20:56,Dwaine,Chocolate Mousse,0,3
+5,02-Jun-19,18:26,Nicolas,"1-Fish 'n' chips,3-Croissant",0,5
+4,29-Jun-19,17:12,Gerold,"2-French toast,1-Croissant,5-Smoked Chicken Salad",0,1
+,,,,,,2
+9,10-Jul-19,20:18,Eldridge,Croissant,0,4
+9,04-Feb-20,17:07,dipanshi,"2-Garlic Bread,2-Butter Scotch ice cream",0,2
+9,11-Jun-19,20:57,Oneal,"1-Crispy Chicken Master Burger,3-Waffle with Strawberry",0,3
+6,19-Nov-19,13:48,Dominque,"2-French toast,3-Chicken Ceasar Salad",0,1
+1,19-Nov-19,21:27,Eula,"1-French toast,5-Fajita",0,2
+6,21-Jun-19,10:24,Bart,"1-Crispy Chicken Burger,2-Tomato and Garlic Risotto",0,2
+6,27-Jun-19,17:26,kajal,"1-Potato chips,3-Waffle with Banana",0,2
+3,18-Jul-19,12:34,Robbie,"2-Hummus,2-Fajita",0,3
+,,,,,,5
+3,16-Sep-19,17:00,Durwood,Masala dosa,0,1
+9,07-Jan-20,15:48,aashma,"2-Buttered popcorn,1-Mushroom Pizza",0,5
+3,13-Nov-19,14:19,Dwaine,"2-Fish 'n' chips,3-Waffle with Strawberry",0,2
+6,11-Jul-19,15:46,devika,"1-Fish 'n' chips,3-Chocolate Truffle Pastry",0,1
+6,08-May-19,11:21,John,Hummus,0,1
+5,10-Jun-19,15:27,Beryl,"2-Four Seasons Pizza,3-Donuts,1-Crispy Chicken Master Burger",0,4
+6,28-Feb-20,20:10,pooja,"2-Potato chips,2-Chocolate Shake",0,2
+8,27-Sep-19,14:58,Arlyn,Four Seasons Pizza,0,2
+6,17-Aug-19,10:14,Andre,"2-Chicken Burger,3-Chocolate Shake",0,3
+9,02-Jun-19,13:40,Ora,"1-Masala dosa,3-Chicken Ceasar Salad",0,3
+2,26-Jan-20,20:28,Debra,"2-Coke,1-Mushroom Pizza",0,4
+7,21-Apr-19,20:46,Eloy,"1-French toast,2-Tomato and Garlic Risotto",0,1
+8,11-May-19,13:54,Joanna,"1-Potato chips,3-Croissant",0,3
+8,14-Aug-19,17:49,Audrey,"1-Crispy Chicken Master Burger,5-Chicken Risotto,1-Chocolate Truffle Pastry",0,1
+9,13-Oct-19,13:43,April,"2-Garlic Bread,2-Tomato and Garlic Risotto",0,3
+6,27-Nov-19,19:55,Edd,"1-Fish 'n' chips,1-Fajita",0,3
+7,03-Jul-19,19:50,Garfield,"2-Idli Sambhar,2-Croissant",0,4
+,,,,,,1
+6,26-Apr-19,17:45,Brady,"1-Chicken rice,3-Chocolate Truffle Pastry",0,4
+2,22-Dec-19,11:29,Colin,"1-Idli Sambhar,3-Fajita",0,2
+4,04-Sep-19,19:19,madhuri,"1-Chicken rice,2-Smoked Chicken Salad",0,4
+5,02-Dec-19,16:16,Jordan,"2-Garlic Bread,1-Waffle with Strawberry",0,2
+3,07-Sep-19,17:30,radha,"1-Coke,1-Waffle with Banana,3-Donuts,2-Coke",0,1
+1,09-Apr-19,20:51,Benton,"2-Buttered popcorn,1-Chocolate Truffle Pastry",0,1
+3,03-Sep-19,17:48,Hope,Crispy Chicken Burger,0,1
+9,28-Feb-20,21:40,Sydney,"1-Coke,3-Chicken Risotto",0,1
+6,30-Mar-20,15:06,Mitchel,"1-Chicken Burger,1-Waffle with Strawberry",0,5
+3,05-Sep-19,12:48,Theadore,"2-Buttered popcorn,2-Mushroom Risotto",0,4
+4,01-Apr-19,17:33,Logan,"2-Coke,1-Croissant",0,4
+6,25-May-19,12:17,sapna,"2-French toast,2-Waffle with Banana",0,5
+6,14-Dec-19,14:09,Rambo,"2-Chicken Cheeseburst Pizza,6-Chocolate Mousse",0,5
+10,02-Mar-20,15:43,Norwood,"2-Masala dosa,1-Mushroom Risotto",0,4
+4,27-Mar-20,15:06,mamta,"1-Four Seasons Pizza,2-Blueberry Pastry",0,3
+6,17-Nov-19,20:05,Loran,"1-Buttered popcorn,3-Mushroom Pizza",0,1
+8,14-Mar-20,10:51,Rubin,"4-French toast,2-Waffle with Banana,4-Buttered popcorn",0,4
+8,14-Jul-19,15:19,Rena,"1-Coke,3-Tomato and Garlic Risotto",0,4
+1,21-Mar-20,12:44,Muriel,"2-Crispy Chicken Burger,2-Mushroom Pizza",0,2
+9,08-Apr-19,11:36,Carlo,"1-Chicken Cheeseburst Pizza,2-Donuts",0,4
+9,21-Sep-19,18:13,Earnestine,"2-Four Seasons Pizza,1-Chocolate Shake,2-Butter Scotch ice cream",0,5
+9,30-Nov-19,16:23,Jennings,"2-Chicken Cheeseburst Pizza,3-Chicken Ceasar Salad",0,4
+3,24-Sep-19,10:40,Vicky,"2-Potato chips,2-Hamburger",0,5
+3,26-Oct-19,11:45,Mckinley,"1-Idli Sambhar,3-Mushroom Pizza",0,4
+4,13-Sep-19,10:21,Eunice,"2-Crispy Chicken Burger,6-Hamburger",0,1
+5,14-Mar-20,10:55,Ruby,"2-Idli Sambhar,3-Smoked Chicken Salad",0,5
+2,11-May-19,13:38,radha,"1-Idli Sambhar,3-Chicken Risotto",0,2
+8,24-Jan-20,20:03,Sam,"2-Chicken Burger,1-Waffle with Banana",0,1
+10,29-Jul-19,16:53,sunita,"2-Coke,2-Fajita",0,2
+3,04-Jul-19,17:44,Aurelio,"2-Chicken rice,2-Hamburger",0,2
+3,10-Oct-19,16:24,Benedict,"2-Chicken Burger,1-Donuts",0,4
+5,15-Nov-19,18:18,aarti,"1-Chicken Cheeseburst Pizza,3-Blueberry Pastry",0,2
+7,16-Apr-19,15:02,Rohan,"1-Chicken Cheeseburst Pizza,2-Smoked Chicken Salad,4-Coke",0,4
+2,18-Mar-20,15:52,suhagini,"2-Banoffee Pie,1-Chicken Ceasar Salad",0,2
+6,18-Feb-20,13:42,Rupert,"1-Hummus,1-Chocolate Shake",0,5
+9,03-Dec-19,20:23,Lucinda,"1-Four Seasons Pizza,1-Waffle with Strawberry",0,3
+1,18-Jul-19,19:14,Katie,"2-Chicken rice,3-Chicken Risotto",0,2
+2,12-Jun-19,19:12,Gustav,"1-Idli Sambhar,1-Chocolate Mousse",0,5
+8,12-Jul-19,10:22,baby,"1-Chicken Cheeseburst Pizza,2-Chocolate Mousse",0,3
+6,30-Dec-19,14:18,dali,"2-Chicken Cheeseburst Pizza,1-Blueberry Pastry",0,3
+2,01-May-19,21:04,Alicia,"2-Chicken Cheeseburst Pizza,1-Tomato and Garlic Risotto",0,1
+6,31-Oct-19,20:35,Cleve,"2-Potato chips,1-Mushroom Pizza",0,2
+1,14-Sep-19,15:56,Ike,1-Idli Sambhar,0,2
+1,12-Oct-19,11:30,Emmitt,"2-Chicken Burger,2-Fajita",0,2
+2,11-Oct-19,11:49,Elwin,"2-Idli Sambhar,1-Donuts",0,5
+7,05-Jan-20,21:59,Melody,"1-Masala dosa,2-Butter Scotch ice cream",0,1
+6,27-Mar-20,21:26,sheetal,"1-Idli Sambhar,3-Chicken Ceasar Salad",0,3
+1,17-Feb-20,18:29,Eloy,"1-Masala dosa,3-Donuts",0,1
+6,20-Nov-19,16:55,Jerry,"1-Chicken Cheeseburst Pizza,2-Blueberry Pastry",0,4
+2,03-Apr-19,17:55,Sadie,Buttered popcorn,0,2
+7,17-Jun-19,15:17,Donal,"2-Grilled Chicken Salad,3-Chocolate Shake",0,4
+6,07-Sep-19,14:53,Judge,"2-Crispy Chicken Master Burger,2-Chocolate Truffle Pastry",0,3
+5,08-Jun-19,11:52,Kurt,"1-Crispy Chicken Burger,3-Croissant",0,5
+9,17-Oct-19,16:40,shanti,"1-Chicken Cheeseburst Pizza,2-Tomato and Garlic Risotto",0,5
+7,14-Jun-19,13:00,Felton,"2-Garlic Bread,2-Chocolate Shake",0,4
+3,15-Aug-19,13:04,shalu,"1-French toast,3-Chicken Ceasar Salad",0,2
+2,10-Oct-19,15:50,Judson,"2-Chicken rice,3-Mushroom Risotto",0,4
+6,31-Oct-19,13:42,Sebastian,"1-Chicken Cheeseburst Pizza,2-Chocolate Truffle Pastry",0,4
+6,06-Jun-19,10:52,neha,"1-Chicken rice,2-Croissant",0,3
+2,11-May-19,11:26,Lauren,"1-Grilled Chicken Salad,1-Mushroom Pizza",0,2
+8,04-Dec-19,20:20,Earnestine,"2-Crispy Chicken Master Burger,2-Smoked Chicken Salad",0,5
+6,24-Feb-20,21:36,Aron,"2-Chicken rice,1-Tomato and Garlic Risotto",0,3
+4,06-Nov-19,12:41,Matt,"2-Coke,2-Smoked Chicken Salad",0,5
+6,10-Feb-20,12:38,Blair,"2-Chicken rice,1-Mushroom Risotto",0,1
+1,20-Jun-19,12:06,Mose,"2-Chicken Cheeseburst Pizza,2-Tomato and Garlic Risotto",0,3
+3,28-Feb-20,14:25,Winfield,"1-Fish 'n' chips,2-Waffle with Banana",0,3
+4,17-Apr-19,12:40,Alvie,"2-Chicken rice,2-Blueberry Pastry",0,1
+5,15-Oct-19,11:03,Santos,"1-Masala dosa,3-Chocolate Mousse",0,2
+3,09-Jan-20,17:29,Shelby,"1-Masala dosa,1-Blueberry Pastry",0,1
+5,21-Jul-19,19:57,Arlan,"1-Four Seasons Pizza,2-Tomato and Garlic Risotto",0,1
+8,11-Feb-20,14:15,saloni,"2-Fish 'n' chips,1-Smoked Chicken Salad",0,4
+1,04-Jul-19,21:32,Sondra,"2-Crispy Chicken Burger,2-Fajita",0,3
+1,23-Feb-20,12:11,Rhonda,"2-Crispy Chicken Burger,3-Chicken Risotto,3-Waffle with Strawberry",0,2
+2,15-Apr-19,13:34,Theo,Smoked Chicken Salad,0,3
+1,22-Aug-19,11:04,Wally,"2-Four Seasons Pizza,2-Chocolate Truffle Pastry,2-Fish 'n' chips",0,2
+10,20-Jan-20,11:41,Art,4-Four Seasons Pizza,0,2
+2,09-Aug-19,11:53,Helene,"1-Coke,3-Hamburger",0,1
+3,18-Sep-19,20:16,Nelson,"2-Grilled Chicken Salad,3-Chicken Ceasar Salad",0,1
+6,11-Sep-19,14:49,Sonja,"2-Crispy Chicken Master Burger,3-Waffle with Banana",0,5
+5,07-Dec-19,14:15,Ambrose,"1-Buttered popcorn,1-Chocolate Mousse",0,3
+4,19-Jan-20,14:53,General,"1-Buttered popcorn,3-Fajita",0,1
+2,20-Jul-19,21:10,lovely,"1-Chicken Cheeseburst Pizza,2-Smoked Chicken Salad",0,2
+2,04-Jan-20,21:43,Terrell,"1-French toast,1-Waffle with Banana",0,2
+3,05-Oct-19,17:12,Arlyn,"2-Chicken Cheeseburst Pizza,2-Waffle with Strawberry",0,3
+8,14-Dec-19,21:51,Howell,"2-Idli Sambhar,2-Donuts",0,3
+5,14-Feb-20,19:31,smt.,"2-Garlic Bread,3-Waffle with Banana",0,2
+6,18-May-19,10:47,Adrienne,"2-Coke,3-Croissant",0,3
+6,17-Apr-19,16:23,Audrey,"1-Grilled Chicken Salad,3-Chicken Ceasar Salad",0,2
+4,25-Apr-19,14:41,Raphael,"1-Chicken rice,4-Chicken Risotto",0,1
+5,08-Apr-19,14:21,dali,"2-Potato chips,3-Croissant",0,4
+1,22-May-19,17:04,Wally,"2-Grilled Chicken Salad,2-Chocolate Shake",0,3
+2,29-Dec-19,18:49,Bertrand,"1-Buttered popcorn,1-Blueberry Pastry",0,1
+6,05-Dec-19,14:04,Arvil,"2-Four Seasons Pizza,2-Tomato and Garlic Risotto",0,1
+5,19-Jan-20,21:34,Lindsey,"2-Garlic Bread,2-Fajita",0,3
+5,28-Mar-20,18:49,sapna,"2-French toast,3-Fajita",0,5
+6,23-Apr-19,12:29,Cornell,"1-Hummus,3-Mushroom Risotto",0,2
+1,27-Nov-19,10:13,Arlin,"5-Crispy Chicken Burger,3-Butter Scotch ice cream",0,5
+3,30-Jul-19,15:21,Grace,"2-French toast,3-Fajita",0,5
+5,16-Sep-19,20:40,Art,"2-Buttered popcorn,1-Tomato and Garlic Risotto,1-Chocolate Truffle Pastry",0,3
+3,11-Nov-19,11:38,Fannie,"4-Masala dosa,2-Blueberry Pastry",0,5
+5,27-Sep-19,17:49,Sonja,"1-Chicken Burger,1-Butter Scotch ice cream",0,2
+2,01-Jan-20,12:45,reena,"2-Potato chips,2-Waffle with Banana,1-Coke",0,2
+2,18-May-19,14:33,Gonzalo,"1-Potato chips,3-Chocolate Truffle Pastry",0,1
+7,11-Jun-19,10:57,Ahmed,"2-Masala dosa,3-Chocolate Truffle Pastry",0,1
+3,03-Dec-19,16:03,Nadine,"1-Hummus,1-Blueberry Pastry",0,2
+1,11-Sep-19,10:16,Art,"2-Four Seasons Pizza,3-Mushroom Risotto",0,3
+3,28-Jul-19,17:41,Kathie,"2-Four Seasons Pizza,1-Croissant",0,3
+1,12-Feb-20,12:38,rubi,"4-Crispy Chicken Burger,3-Chicken Risotto,2-Buttered popcorn",0,1
+1,09-Aug-19,12:16,Omar,"2-Chicken rice,2-Butter Scotch ice cream",0,5
+2,25-Jun-19,15:27,Lorna,"1-Masala dosa,3-Tomato and Garlic Risotto",0,3
+6,20-Feb-20,18:56,Ferdinand,"1-Buttered popcorn,2-Fajita",0,4
+4,25-May-19,10:54,Darla,"2-Buttered popcorn,2-Mushroom Pizza",0,1
+9,15-Apr-19,17:30,Theadore,"2-Potato chips,2-Croissant",0,2
+2,30-Sep-19,14:17,smt.,"2-Chicken Cheeseburst Pizza,1-Chocolate Mousse",0,1
+9,14-Jan-20,18:41,Lafayette,"1-French toast,1-Waffle with Banana",0,3
+9,31-Oct-19,17:18,Eddy,"1-Banoffee Pie,3-Chocolate Shake",0,3
+8,17-Nov-19,12:42,Junius,"1-Chicken Burger,1-Waffle with Banana",0,4
+10,01-Jun-19,11:17,Matt,"2-Fish 'n' chips,3-Mushroom Pizza",0,4
+1,23-Jan-20,20:09,April,"2-Chicken Burger,1-Smoked Chicken Salad",0,4
+5,17-Jun-19,20:55,Walker,"2-Crispy Chicken Master Burger,1-Chicken Ceasar Salad,2-Fish 'n' chips",0,2
+7,27-Aug-19,15:40,Jayne,"1-Coke,2-Chocolate Shake",0,3
+4,18-Jun-19,12:28,Lucy,1-Waffle with Strawberry,0,3
+6,22-Jul-19,16:57,Ottis,Coke,0,5
+8,19-May-19,13:48,Diann,"1-Chicken Burger,2-Croissant",0,3
+1,19-May-19,18:55,Stan,"1-Grilled Chicken Salad,1-Waffle with Banana",0,4
+9,02-Sep-19,16:11,reena,"2-Grilled Chicken Salad,1-Hamburger",0,1
+2,25-Feb-20,12:13,Rosalind,"2-French toast,1-Hamburger",0,2
+4,05-Oct-19,13:25,Casimir,"1-Buttered popcorn,1-Chocolate Truffle Pastry",0,3
+3,17-Nov-19,21:34,Garth,"1-Idli Sambhar,1-Chocolate Truffle Pastry",0,1
+6,03-Jun-19,14:29,Celia,1-Tomato and Garlic Risotto,0,2
+2,03-Jan-20,19:10,Cloyd,"1-Potato chips,2-Donuts",0,4
+10,10-Jan-20,18:54,Amit,"2-Idli Sambhar,3-Mushroom Risotto",0,1
+6,17-Jul-19,13:21,Guillermo,"1-Banoffee Pie,1-Waffle with Banana",0,5
+2,14-Dec-19,11:29,priyanka,"1-Chicken Burger,3-Donuts",0,3
+10,13-May-19,16:23,Early,"2-Garlic Bread,2-Mushroom Pizza",0,5
+2,08-Apr-19,19:54,Jewell,"2-Garlic Bread,3-Blueberry Pastry",0,3
+5,14-Aug-19,11:05,Priya,"2-Garlic Bread,1-Mushroom Pizza",0,4
+6,12-Apr-19,21:07,Daisy,2-French toast,0,1
+6,16-Jun-19,12:02,Lila,"1-Hummus,2-Waffle with Strawberry",0,4
+6,01-Aug-19,10:27,Palak,"2-French toast,1-Waffle with Strawberry",0,4
+10,18-Jun-19,14:54,Verl,Chicken rice,0,4
+8,31-Aug-19,21:41,suman,"1-Fish 'n' chips,2-Fajita",0,5
+2,10-Feb-20,21:36,Vicky,Banoffee Pie,0,1
+7,13-Nov-19,18:59,Beryl,"1-French toast,1-Fajita",0,1
+6,31-Jul-19,13:53,Monica,"1-Four Seasons Pizza,3-Blueberry Pastry",0,2
+6,29-Mar-20,14:28,Cruz,"2-Coke,1-Waffle with Strawberry",0,2
+4,31-May-19,17:04,Ottis,"2-Fish 'n' chips,1-Chocolate Shake",0,4
+6,16-May-19,16:30,Gerold,2-Coke,0,5
+1,03-Apr-19,13:44,William,"1-Buttered popcorn,1-Mushroom Risotto",0,5
+1,14-Apr-19,20:25,Wardell,"1-Chicken Burger,2-Butter Scotch ice cream",0,2
+3,21-Mar-20,13:57,Jordan,"2-Hummus,2-Donuts",0,4
+4,02-Apr-19,16:42,Pam,"1-Buttered popcorn,2-Smoked Chicken Salad",0,5
+4,12-Jun-19,10:14,Dillard,"2-Potato chips,3-Mushroom Pizza",0,2
+6,17-Apr-19,16:04,Granville,"1-Buttered popcorn,2-Hamburger",0,4
+5,14-Apr-19,17:53,Mac,"1-Fish 'n' chips,2-Fajita",0,5
+10,21-Jun-19,18:39,Rolf,"1-Chicken Cheeseburst Pizza,2-Butter Scotch ice cream",0,1
+6,05-Jan-20,21:40,Margarito,"2-Banoffee Pie,1-Mushroom Risotto",0,2
+5,12-Apr-19,11:44,Della,"2-Crispy Chicken Burger,3-Butter Scotch ice cream,2-Butter Scotch ice cream",0,4
+6,19-Nov-19,20:09,Durward,"1-French toast,1-Waffle with Banana,2-Butter Scotch ice cream",0,5
+6,24-Mar-20,20:25,Edsel,"1-Chicken Cheeseburst Pizza,1-Donuts,2-Butter Scotch ice cream",0,4
+6,19-Feb-20,14:05,Rishabh,"2-Masala dosa,3-Blueberry Pastry,3-Waffle with Strawberry",0,4
+2,29-Jun-19,14:00,Arvil,"2-Garlic Bread,3-Tomato and Garlic Risotto,1-Chocolate Truffle Pastry",0,5
+10,02-Aug-19,17:36,Arlan,"1-Chicken Burger,2-Croissant",0,2
+4,20-Jan-20,18:15,Hardy,"2-Banoffee Pie,1-Smoked Chicken Salad",0,1
+6,03-Jul-19,13:22,Cliff,"2-Buttered popcorn,2-Fajita",0,2
+6,31-Aug-19,17:16,soni,"1-Banoffee Pie,3-Chicken Risotto",0,1
+4,20-Feb-20,13:56,Buck,"2-Buttered popcorn,3-Blueberry Pastry",0,1
+9,16-Mar-20,16:37,Melba,"2-Crispy Chicken Master Burger,2-Chicken Ceasar Salad",0,2
+6,06-Nov-19,12:44,Duwayne,"2-Idli Sambhar,3-Chocolate Mousse,2-Butter Scotch ice cream",0,3
+1,09-Apr-19,13:50,Ron,"1-Chicken Burger,3-Waffle with Banana",0,4
+6,18-Jan-20,15:43,Edsel,"2-Hummus,2-Mushroom Pizza",0,4
+8,26-Jun-19,14:48,Ashish,"2-Chicken Burger,2-Fajita",0,3
+2,31-Aug-19,15:53,Darold,"2-Potato chips,2-Butter Scotch ice cream",0,2
+2,26-Jan-20,19:51,Palmer,"2-French toast,3-Smoked Chicken Salad",0,1
+10,03-Jul-19,21:55,Ivory,"1-Banoffee Pie,1-Chocolate Mousse",0,5
+7,22-Sep-19,14:54,Norton,"2-Grilled Chicken Salad,1-Tomato and Garlic Risotto",0,2
+6,26-Nov-19,13:12,Eddy,"1-Idli Sambhar,1-Hamburger",0,3
+6,23-Oct-19,13:57,Valentine,"1-Coke,2-Fajita,2-Buttered popcorn",0,1
+6,04-May-19,19:23,Duncan,"2-Buttered popcorn,2-Chocolate Shake",0,2
+5,17-May-19,14:08,Frank,"2-Chicken rice,1-Tomato and Garlic Risotto",0,3
+4,19-Oct-19,21:06,Elliot,"2-Crispy Chicken Burger,3-Chocolate Mousse",0,3
+5,09-Apr-19,13:05,Della,"1-Chicken Cheeseburst Pizza,2-Tomato and Garlic Risotto",0,1
+9,07-Feb-20,17:32,Diann,2-Hummus,0,1
+3,28-May-19,10:24,Nishant,"1-Coke,3-Donuts",0,5
+7,05-Mar-20,18:59,Alford,"2-Hummus,2-Mushroom Risotto",0,2
+6,17-Apr-19,21:34,Miller,"1-French toast,2-Butter Scotch ice cream",0,2
+4,28-Mar-20,16:04,Rhonda,"2-Chicken Burger,2-Croissant",0,1
+3,11-Mar-20,14:42,Ruthie,"2-Fish 'n' chips,1-Waffle with Banana",0,1
+4,12-Mar-20,15:55,Eldred,"2-Chicken rice,1-Butter Scotch ice cream",0,4
+1,25-Jul-19,15:10,Fay,"4-Chicken Cheeseburst Pizza,4-Waffle with Banana",0,1
+6,13-Apr-19,16:12,Orrin,"1-French toast,1-Smoked Chicken Salad",0,2
+6,29-Sep-19,15:41,Ruthie,"5-Buttered popcorn,2-Fajita",0,2
+5,25-Jan-20,14:38,Robbie,"1-Four Seasons Pizza,1-Chicken Risotto",0,2
+7,27-Aug-19,12:48,June,"2-Chicken Burger,3-Croissant",0,1
+9,24-Jul-19,12:23,Sallie,"2-Garlic Bread,3-Chocolate Truffle Pastry",0,1
+9,17-Oct-19,21:35,Daisy,Chocolate Truffle Pastry,0,4
+2,28-Apr-19,16:07,Ruby,"1-Chicken Burger,1-Hamburger",0,3
+3,15-Mar-20,14:13,neeru,"2-Fish 'n' chips,2-Hamburger",0,5
+6,09-May-19,21:09,Audrey,"1-Banoffee Pie,3-Mushroom Risotto",0,3
+3,24-Sep-19,19:28,Jonnie,"2-Crispy Chicken Master Burger,2-Waffle with Strawberry",0,4
+7,05-Apr-19,21:29,Cleon,"2-Chicken Burger,3-Mushroom Risotto",0,1
+2,08-Jul-19,14:57,Chuck,"1-Coke,2-Mushroom Pizza",0,5
+2,22-Apr-19,15:23,Val,1-Waffle with Strawberry,0,4
+3,17-Nov-19,11:14,Verne,Chocolate Shake,0,4
+3,05-Jul-19,12:14,Fidel,Croissant,0,5
+4,24-Jun-19,10:33,Judge,"2-Masala dosa,3-Blueberry Pastry",0,5
+6,20-Apr-19,13:25,Gwen,"1-Masala dosa,2-Chicken Risotto",0,3
+9,19-May-19,18:09,Eloy,2-Four Seasons Pizza,0,5
+4,09-Nov-19,14:06,Bernice,"2-Chicken Cheeseburst Pizza,2-Mushroom Risotto,1-Crispy Chicken Master Burger",0,4
+6,11-May-19,14:13,Denzil,"1-Coke,2-Chicken Risotto,2-Butter Scotch ice cream",0,2
+6,16-Nov-19,21:19,Ivory,"1-Chicken Cheeseburst Pizza,3-Croissant",0,3
+4,21-Jun-19,21:25,Hayward,"1-Coke,3-Croissant",0,5
+6,29-Jun-19,14:44,rinki,"1-Buttered popcorn,1-Fajita",0,5
+3,23-Jan-20,20:45,Natalie,"1-Banoffee Pie,1-Mushroom Pizza",0,2
+4,27-Mar-20,21:26,Garfield,"1-Chicken Cheeseburst Pizza,3-Chocolate Shake",0,5
+9,02-Mar-20,16:20,Eloise,"1-Banoffee Pie,3-Waffle with Banana,2-Butter Scotch ice cream",0,2
+2,23-Feb-20,18:07,suman,"2-Banoffee Pie,2-Donuts",0,4
+7,01-Mar-20,11:21,nisha,"2-Buttered popcorn,3-Hamburger",0,4
+6,21-Sep-19,20:33,Helen,"2-Four Seasons Pizza,3-Chocolate Truffle Pastry",0,4
+8,04-Sep-19,13:13,Noble,"2-Potato chips,2-Chicken Ceasar Salad",0,1
+7,30-Oct-19,15:39,Eldridge,"2-Hummus,1-Butter Scotch ice cream",0,3
+6,23-Oct-19,10:19,Paul,"1-Hummus,2-Blueberry Pastry",0,4
+6,14-Jan-20,18:08,Clare,"1-Buttered popcorn,3-Waffle with Banana",0,5
+6,18-Aug-19,16:53,Joyce,"2-Idli Sambhar,1-Chocolate Shake",0,3
+2,21-Mar-20,16:27,Violet,"2-Masala dosa,2-Chocolate Shake",0,1
+1,27-May-19,17:01,Clem,"2-Four Seasons Pizza,1-Tomato and Garlic Risotto",0,1
+6,22-Feb-20,21:50,Hope,"1-Banoffee Pie,2-Chicken Ceasar Salad",0,4
+6,09-Mar-20,10:11,Sid,"2-Buttered popcorn,1-Croissant",0,5
+7,28-Dec-19,20:30,Verne,"2-Idli Sambhar,2-Chocolate Shake",0,2
+6,18-Mar-20,21:02,kiran,"2-Banoffee Pie,1-Chicken Ceasar Salad",0,1
+7,10-Sep-19,14:14,Joaquin,"1-Four Seasons Pizza,2-Hamburger",0,5
+4,08-Jan-20,14:40,Bertrand,"1-Masala dosa,3-Tomato and Garlic Risotto,1-Crispy Chicken Master Burger",0,5
+7,18-Mar-20,16:08,Blair,"1-Garlic Bread,2-Croissant,1-Crispy Chicken Master Burger",0,2
+5,23-Jun-19,15:16,Glendon,"2-Crispy Chicken Burger,1-Chicken Risotto",0,5
+1,16-Dec-19,12:37,Adolfo,"2-Grilled Chicken Salad,3-Chocolate Mousse",0,1
+5,10-Jan-20,18:14,Verlyn,"2-Buttered popcorn,3-Croissant",0,2
+6,22-Jun-19,12:25,Guillermo,Masala dosa,0,2
+5,03-Dec-19,12:14,Lindsey,"1-Grilled Chicken Salad,2-Chocolate Mousse",0,2
+7,24-Oct-19,16:57,Dewitt,"2-Potato chips,1-Mushroom Pizza",0,4
+7,16-May-19,12:51,Roseann,"2-Chicken rice,2-Mushroom Pizza",0,4
+10,08-Sep-19,16:02,Omar,"1-Chicken Cheeseburst Pizza,1-Butter Scotch ice cream",0,3
+4,25-Dec-19,18:16,shivani,"1-Fish 'n' chips,3-Chocolate Truffle Pastry",0,5
+8,05-May-19,17:37,Reynold,"1-Crispy Chicken Burger,2-Smoked Chicken Salad",0,4
+4,09-Jan-20,12:08,Giles,"2-Masala dosa,3-Chocolate Truffle Pastry",0,5
+10,29-Sep-19,15:49,Verlyn,"1-Coke,2-Waffle with Banana",0,5
+6,18-Oct-19,16:29,Valentine,"1-Chicken rice,1-Donuts",0,5
+2,05-Jun-19,21:28,Seth,"2-Grilled Chicken Salad,1-Blueberry Pastry,2-Buttered popcorn",0,4
+5,02-Feb-20,17:51,Ruthie,"1-Buttered popcorn,1-Chocolate Truffle Pastry",0,1
+3,18-Jan-20,15:50,Amit,"2-Idli Sambhar,1-Chicken Ceasar Salad",0,2
+2,08-Jun-19,10:33,Lynette,"1-Four Seasons Pizza,2-Chocolate Shake",0,5
+2,09-Dec-19,21:40,Kristine,"1-Chicken Burger,1-Croissant",0,2
+1,04-Nov-19,19:37,Rhonda,"2-Potato chips,1-Chocolate Truffle Pastry",0,4
+7,07-Nov-19,12:51,Melanie,"2-Fish 'n' chips,3-Hamburger",0,4
+2,18-Oct-19,18:26,Gale,"2-Banoffee Pie,1-Waffle with Strawberry",0,2
+6,03-Feb-20,11:17,Violet,"2-Garlic Bread,2-Mushroom Risotto",0,4
+10,27-Sep-19,12:39,Zona,"1-Coke,1-Waffle with Strawberry,3-Smoked Chicken Salad",0,1
+2,20-Feb-20,16:05,Valentine,"2-Banoffee Pie,2-Tomato and Garlic Risotto",0,4
+4,28-May-19,21:08,Asa,"1-Banoffee Pie,3-Chocolate Shake",0,2
+9,11-Feb-20,18:14,Auther,"2-Chicken Burger,3-Butter Scotch ice cream",0,2
+9,21-Oct-19,12:36,Claudie,"1-Banoffee Pie,1-Waffle with Banana",0,5
+5,26-Feb-20,16:43,Lucius,"2-Grilled Chicken Salad,1-Hamburger",0,5
+9,17-May-19,14:05,Melinda,"1-Potato chips,1-Croissant",0,3
+2,07-May-19,16:07,Melvyn,"2-Four Seasons Pizza,2-Chocolate Truffle Pastry",0,3
+6,07-Oct-19,19:24,Verl,"2-Buttered popcorn,2-Fajita",0,2
+9,07-Dec-19,12:21,Marlyn,"2-Grilled Chicken Salad,3-Chocolate Shake",0,4
+3,29-Sep-19,17:14,Diann,"1-Crispy Chicken Burger,3-Mushroom Risotto",0,3
+8,24-Aug-19,13:03,dipanshi,"2-Chicken Cheeseburst Pizza,3-Mushroom Risotto",0,1
+1,30-Mar-20,10:20,Sam,"1-Grilled Chicken Salad,2-Fajita",0,5
+5,06-Nov-19,20:52,sarita,Hummus,0,4
+4,15-Sep-19,11:13,Joan,Four Seasons Pizza,0,1
+9,27-Apr-19,11:47,Deane,"1-Crispy Chicken Burger,1-Mushroom Pizza,2-Butter Scotch ice cream",0,3
+10,12-May-19,17:45,Rupert,"1-Idli Sambhar,3-Blueberry Pastry",0,5
+2,19-Jul-19,12:59,Oneal,"1-Potato chips,3-Butter Scotch ice cream",0,1
+1,03-Sep-19,17:37,Wilber,"1-Chicken Cheeseburst Pizza,3-Tomato and Garlic Risotto",0,1
+4,19-Jan-20,19:05,Penelope,"2-Crispy Chicken Master Burger,3-Mushroom Risotto",0,2
+8,04-Feb-20,14:42,Rochelle,"2-Garlic Bread,1-Hamburger,2-Coke",0,2
+3,09-Apr-19,12:09,puja,"1-Coke,3-Smoked Chicken Salad",0,2
+7,02-Sep-19,20:41,Durward,"2-Potato chips,2-Smoked Chicken Salad",0,3
+4,18-Mar-20,20:02,Parker,"1-Garlic Bread,2-Butter Scotch ice cream",0,2
+4,21-Jun-19,21:26,Estel,Mushroom Risotto,0,1
+5,29-Nov-19,21:04,Adolfo,"2-Garlic Bread,3-Waffle with Strawberry",0,4
+5,13-May-19,10:18,Ronny,"2-French toast,2-Mushroom Risotto",0,1
+4,06-Nov-19,11:11,Rohan,"1-Garlic Bread,2-Chicken Ceasar Salad",0,2
+6,29-Jun-19,10:55,Terri,"2-Buttered popcorn,2-Chicken Risotto",0,1
+1,15-Feb-20,20:37,Durwood,"1-Grilled Chicken Salad,2-Fajita",0,2
+1,08-Apr-19,21:54,Israel,"2-Crispy Chicken Burger,2-Mushroom Pizza",0,3
+10,15-May-19,16:18,rinki,"2-Buttered popcorn,3-Croissant",0,3
+9,23-Jul-19,18:27,geeta,"1-Buttered popcorn,1-Hamburger",0,1
+6,16-Mar-20,11:01,seema,"1-Coke,2-Mushroom Pizza",0,3
+8,06-May-19,11:01,Milan,"2-French toast,2-Mushroom Pizza",0,5
+4,11-Jun-19,19:18,sanju,"1-Four Seasons Pizza,3-Chicken Ceasar Salad",0,4
+5,28-Oct-19,12:05,Lucious,"2-Buttered popcorn,3-Fajita",0,4
+3,29-Aug-19,17:47,Reid,"1-Potato chips,2-Croissant",0,1
+3,08-Mar-20,17:12,Arlo,"2-Idli Sambhar,3-Tomato and Garlic Risotto",0,2
+4,29-Jun-19,11:02,babby,"1-Fish 'n' chips,3-Hamburger",0,5
+7,17-Mar-20,17:15,Leonardo,"2-French toast,2-Chocolate Truffle Pastry",0,3
+7,13-Feb-20,16:37,Jayne,"2-Crispy Chicken Master Burger,2-Chocolate Truffle Pastry",0,3
+6,31-Dec-19,14:59,Vicente,"1-Chicken Burger,3-Chocolate Mousse",0,3
+4,02-Apr-19,17:15,Dominque,"1-Crispy Chicken Burger,1-Chocolate Truffle Pastry",0,2
+1,22-May-19,21:34,Sandy,"2-Garlic Bread,2-Chicken Ceasar Salad",0,3
+6,25-Mar-20,10:15,tamanna,"1-Potato chips,3-Tomato and Garlic Risotto",0,4
+7,10-Feb-20,18:09,Durward,"1-Fish 'n' chips,2-Chocolate Truffle Pastry",0,3
+10,23-Oct-19,16:40,Vicky,"2-Crispy Chicken Master Burger,1-Donuts,2-Fish 'n' chips",0,5
+2,21-May-19,17:15,Dorsey,"1-Coke,3-Blueberry Pastry,2-Butter Scotch ice cream",0,3
+8,23-Aug-19,17:57,minakshi,"2-French toast,3-Blueberry Pastry",0,2
+6,23-Jul-19,17:32,Chuck,"1-French toast,2-Hamburger",0,5
+2,21-Sep-19,14:50,Garrett,Chicken Burger,0,3
+5,24-Mar-20,14:37,rani,"2-Masala dosa,9-Butter Scotch ice cream",0,2
+7,03-Jun-19,17:40,Gregorio,"2-Masala dosa,2-Chicken Risotto",0,5
+5,30-Jan-20,12:42,Sondra,"2-Hummus,1-Smoked Chicken Salad",0,5
+8,20-Jun-19,16:15,Mckinley,"2-Chicken Burger,3-Tomato and Garlic Risotto",0,4
+4,13-Jul-19,17:06,Von,"1-French toast,2-Mushroom Pizza,2-Fish 'n' chips",0,4
+8,26-Feb-20,18:51,Rosalind,1-Hummus,0,1
+6,13-Aug-19,18:24,Mitchel,"2-Masala dosa,2-Waffle with Strawberry",0,5
+9,15-Mar-20,18:52,Aron,2-Four Seasons Pizza,0,1
+6,18-Jan-20,17:36,Derald,"2-Chicken Cheeseburst Pizza,1-Mushroom Risotto",0,1
+1,01-Oct-19,13:52,Arvin,"2-Chicken rice,1-Waffle with Strawberry",0,5
+9,15-Aug-19,14:26,sanju,"2-Coke,1-Chocolate Mousse",0,5
+9,20-Oct-19,12:28,Lemuel,"1-Hummus,1-Chicken Risotto",0,4
+2,29-Jul-19,10:48,Val,"2-Idli Sambhar,1-Croissant",0,2
+3,04-Jan-20,20:45,General,"1-Idli Sambhar,1-Blueberry Pastry",0,1
+1,24-May-19,21:14,Henrietta,"2-Crispy Chicken Master Burger,3-Donuts",0,2
+7,31-May-19,13:19,Michael,"1-Chicken Cheeseburst Pizza,3-Waffle with Strawberry",0,5
+6,08-Nov-19,12:01,Melton,"2-Crispy Chicken Master Burger,3-Chocolate Shake",0,2
+1,28-Feb-20,17:09,aasmin,Chicken Cheeseburst Pizza,0,3
+10,22-Sep-19,12:14,Barton,"2-Chicken Cheeseburst Pizza,3-Mushroom Pizza,1-Crispy Chicken Master Burger",0,3
+4,04-Feb-20,13:11,Benedict,"1-Potato chips,2-Chocolate Shake",0,5
+6,07-May-19,12:27,Gregorio,"2-Crispy Chicken Master Burger,1-Hamburger",0,2
+5,28-Jul-19,12:16,Puneet,"2-Idli Sambhar,2-Waffle with Banana",0,4
+8,15-Aug-19,21:04,kaushal,"1-Fish 'n' chips,3-Chicken Risotto",0,1
+5,21-Jun-19,12:45,Wally,"1-Garlic Bread,2-Croissant",0,4
+2,01-Nov-19,11:06,Dexter,"2-Garlic Bread,1-Chocolate Shake",0,4
+5,16-Dec-19,20:39,Shelton,"2-Crispy Chicken Master Burger,4-Chicken Risotto",0,5
+3,15-Sep-19,15:39,Keven,"1-Garlic Bread,3-Mushroom Risotto",0,2
+9,06-May-19,13:00,Lucian,"2-Banoffee Pie,1-Waffle with Banana",0,1
+1,01-Jun-19,12:55,Logan,"2-Crispy Chicken Burger,2-Mushroom Pizza",0,1
+8,19-Dec-19,16:42,Gay,"1-Banoffee Pie,3-Waffle with Banana",0,3
+6,16-Jun-19,10:20,Margo,"1-Crispy Chicken Burger,3-Chicken Ceasar Salad",0,4
+2,05-Sep-19,18:35,Fritz,"1-Crispy Chicken Burger,2-Smoked Chicken Salad",0,3
+9,09-Nov-19,18:27,Santo,Chicken Ceasar Salad,0,5
+9,27-May-19,20:53,Mia,"2-Chicken Cheeseburst Pizza,2-Hamburger",0,3
+3,06-Dec-19,13:27,Walton,"1-Crispy Chicken Master Burger,2-Chocolate Truffle Pastry",0,5
+10,10-Feb-20,21:48,hemlata,"1-Chicken Cheeseburst Pizza,3-Chocolate Shake",0,4
+3,24-Feb-20,15:21,kanta,"1-Buttered popcorn,1-Donuts",0,2
+1,03-Jun-19,15:31,Reed,"2-Crispy Chicken Burger,5-Mushroom Risotto",0,3
+6,05-May-19,16:29,Freda,"1-Crispy Chicken Master Burger,3-Tomato and Garlic Risotto",0,3
+8,13-Dec-19,20:35,arti,2-Four Seasons Pizza,0,5
+7,29-Aug-19,10:39,Inez,"2-Hummus,2-Donuts",0,3
+5,04-Dec-19,12:22,Romeo,"2-Chicken rice,2-Butter Scotch ice cream",0,5
+3,28-Mar-20,15:26,Melton,Crispy Chicken Master Burger,0,1
+7,24-Jan-20,21:36,Verne,Fajita,0,3
+5,19-Dec-19,15:02,aarti,"2-Potato chips,2-Waffle with Banana,1-Chocolate Shake",0,4
+7,17-Dec-19,12:08,Terri,"2-Idli Sambhar,1-Hamburger",0,1
+3,01-Jul-19,11:21,Jordan,"1-Potato chips,2-Hamburger",0,1
+4,19-Nov-19,15:59,Joaquin,"2-Masala dosa,1-Waffle with Strawberry",0,1
+8,11-Aug-19,18:46,Wardell,"1-Crispy Chicken Master Burger,3-Waffle with Banana",0,5
+3,10-May-19,17:56,Ruth,"4-Chicken rice,4-Croissant",0,5
+8,20-Mar-20,20:42,babby,"2-Hummus,2-Chocolate Shake,2-Fish 'n' chips",0,5
+2,11-Feb-20,11:40,Claudie,"1-Coke,3-Fajita",0,5
+2,28-Apr-19,15:52,Cleon,"2-Garlic Bread,2-Chocolate Truffle Pastry",0,1
+8,19-Oct-19,17:18,Laverne,"1-Grilled Chicken Salad,2-Butter Scotch ice cream",0,3
+8,22-Aug-19,19:21,Howell,Waffle with Banana,0,2
+4,19-Jun-19,10:36,Taylor,"2-Banoffee Pie,2-Mushroom Risotto",0,2
+3,31-Dec-19,10:32,Conley,"2-Banoffee Pie,1-Hamburger",0,5
+1,07-May-19,19:08,Alejandro,"2-Banoffee Pie,5-Hamburger",0,4
+6,13-Nov-19,17:37,Richard,"2-Hummus,1-Chocolate Mousse",0,4
+6,08-Sep-19,19:11,anandi,"2-Idli Sambhar,2-Hamburger",0,2
+5,23-Aug-19,20:14,Cherie,"1-Masala dosa,1-Chocolate Shake",0,1
+3,07-Jan-20,13:11,Merritt,"1-Potato chips,3-Chocolate Truffle Pastry",0,3
+6,22-Apr-19,17:32,Erma,"1-Idli Sambhar,2-Tomato and Garlic Risotto",0,3
+6,30-May-19,15:56,Garrett,"1-Fish 'n' chips,2-Tomato and Garlic Risotto",0,1
+1,04-Oct-19,18:20,sheetal,"2-Four Seasons Pizza,3-Donuts",0,1
+6,11-Jul-19,14:10,Duwayne,"1-Chicken Burger,2-Donuts",0,4
+1,24-Jul-19,14:09,Ruth,"2-Chicken rice,2-Mushroom Risotto",0,2
+6,20-Sep-19,18:30,varsha,"2-French toast,1-Blueberry Pastry,2-Buttered popcorn",0,3
+4,06-Sep-19,12:22,George,"1-Masala dosa,2-Blueberry Pastry",0,4
+4,23-Apr-19,21:59,Judson,"2-Four Seasons Pizza,3-Smoked Chicken Salad",0,1
+8,09-May-19,21:41,Charles,"1-Chicken rice,3-Mushroom Pizza",0,1
+10,26-Oct-19,10:35,poonam,"1-Crispy Chicken Master Burger,2-Croissant",0,2
+7,17-Feb-20,20:36,Kaye,"1-Hummus,3-Chocolate Mousse",0,5
+5,08-Mar-20,12:42,Maxwell,"2-Crispy Chicken Burger,1-Chicken Risotto",0,1
+5,25-Jul-19,20:57,Joesph,"1-Grilled Chicken Salad,1-Croissant",0,2
+4,08-May-19,19:53,Sam,"1-Masala dosa,1-Chicken Risotto",0,2
+10,17-Mar-20,14:14,Sebastian,"2-Fish 'n' chips,2-Fajita",0,2
+6,23-Nov-19,17:15,Cornell,"2-Garlic Bread,1-Chocolate Truffle Pastry",0,2
+7,20-Aug-19,11:47,Polly,"2-Hummus,3-Chocolate Truffle Pastry",0,1
+7,06-Sep-19,20:53,Jay,"1-French toast,1-Waffle with Banana",0,4
+6,27-Aug-19,17:04,Milan,"1-Crispy Chicken Burger,3-Smoked Chicken Salad",0,5
+3,03-Jun-19,10:56,Molly,Hamburger,0,1
+8,12-Jun-19,19:35,nisha,"1-Chicken Burger,1-Tomato and Garlic Risotto,1-Coke",0,3
+6,01-May-19,18:13,Isha,"2-Masala dosa,2-Mushroom Pizza",0,5
+7,22-Nov-19,21:35,Adrienne,"2-Crispy Chicken Master Burger,6-Waffle with Banana",0,3
+2,09-Jun-19,20:06,Lynette,"2-Chicken rice,1-Chocolate Shake",0,3
+8,12-Aug-19,14:12,Maggie,"1-Chicken Burger,1-Chocolate Truffle Pastry",0,2
+6,08-Jun-19,17:54,nishu,2-Potato chips,0,2
+4,03-Jul-19,21:06,Hardy,"2-Masala dosa,2-Croissant",0,3
+7,20-Jun-19,18:03,Barton,Crispy Chicken Burger,0,5
+6,04-Apr-19,15:18,Myrtle,"2-Masala dosa,2-Croissant",0,4
+6,15-Jan-20,20:49,Maxwell,"2-Grilled Chicken Salad,3-Fajita",0,3
+7,15-Mar-20,17:13,Dock,"2-Chicken Burger,1-Chicken Risotto",0,4
+7,19-Feb-20,20:47,Asa,"2-Chicken Cheeseburst Pizza,2-Waffle with Strawberry,1-Chocolate Truffle Pastry",0,5
+1,30-Jan-20,18:55,Varun,Idli Sambhar,0,1
+5,03-Jun-19,13:27,Regis,"2-Hummus,2-Waffle with Banana,1-Coke",0,4
+9,07-Jul-19,17:01,Amelia,"2-Grilled Chicken Salad,1-Hamburger",0,3
+9,03-Sep-19,21:48,Henrietta,"1-Chicken Burger,1-Chocolate Mousse",0,1
+4,18-Jan-20,20:33,Richard,"1-Fish 'n' chips,1-Donuts",0,2
+4,06-Jan-20,16:01,Cary,"2-Masala dosa,1-Hamburger",0,2
+5,09-Jun-19,15:00,nishu,"2-French toast,2-Chocolate Truffle Pastry,1-Coke",0,5
+5,19-Jun-19,13:51,Arvil,"1-Four Seasons Pizza,1-Chocolate Shake",0,3
+9,12-Apr-19,17:14,Early,"1-Grilled Chicken Salad,8-Blueberry Pastry",0,5
+6,11-Oct-19,12:02,suhagini,"2-Potato chips,3-Waffle with Banana",0,4
+3,11-Feb-20,14:25,Jenny,"2-Potato chips,1-Chocolate Truffle Pastry",0,5
+6,01-Nov-19,20:27,Dayton,"2-Buttered popcorn,2-Chocolate Truffle Pastry,1-Coke",0,3
+4,17-Apr-19,18:43,seema,"1-Fish 'n' chips,1-Chocolate Truffle Pastry,2-Buttered popcorn",0,4
+8,08-May-19,16:31,Nettie,"2-Garlic Bread,1-Chocolate Shake,3-Donuts",0,2
+9,17-Feb-20,19:40,Varun,"1-Buttered popcorn,2-Tomato and Garlic Risotto",0,4
+9,25-Jun-19,14:50,Melvyn,"1-Garlic Bread,1-Chocolate Shake",0,4
+7,20-May-19,19:26,Marcella,"2-Masala dosa,1-Chicken Risotto",0,5
+2,21-Jul-19,19:47,Brooks,"2-Grilled Chicken Salad,1-Fajita",0,4
+9,23-Jul-19,21:05,Cyrus,"2-Masala dosa,2-Hamburger",0,3
+1,05-Jan-20,15:33,Orin,"1-French toast,1-Smoked Chicken Salad",0,4
+8,25-Jan-20,10:53,Arlin,"2-Four Seasons Pizza,1-Butter Scotch ice cream",0,1
+9,23-May-19,10:44,Camille,"2-Banoffee Pie,3-Chocolate Shake",0,4
+7,11-Aug-19,11:29,Kenny,"1-Banoffee Pie,3-Chocolate Mousse",0,5
+6,05-Nov-19,15:05,Allison,Fish 'n' chips,0,4
+4,12-Jul-19,17:01,Eddy,"1-Idli Sambhar,6-Croissant",0,4
+3,27-Jan-20,18:27,Rolf,"1-Coke,3-Mushroom Risotto,1-Coke",0,4
+9,09-Feb-20,19:03,Isiah,"2-Idli Sambhar,1-Chocolate Mousse",0,4
+6,22-Oct-19,19:13,Lupe,"2-Banoffee Pie,1-Chocolate Truffle Pastry",0,3
+6,29-Aug-19,16:54,Delton,"1-Chicken Burger,1-Mushroom Risotto",0,2
+5,24-Jun-19,12:06,Walker,Chocolate Truffle Pastry,0,1
+4,13-Apr-19,17:02,Albina,"1-Garlic Bread,6-Waffle with Strawberry",0,3
+5,03-Aug-19,18:51,Mable,"1-Chicken Burger,2-Fajita",0,5
+10,28-Dec-19,12:24,soni,"2-Grilled Chicken Salad,2-Smoked Chicken Salad",0,3
+3,19-Jun-19,10:34,Shelby,"2-Banoffee Pie,3-Mushroom Risotto",0,4
+3,27-May-19,20:36,kanta,"1-Masala dosa,2-Hamburger",0,4
+3,02-Mar-20,18:02,Donal,"2-Potato chips,1-Fajita",0,4
+1,07-Jun-19,17:10,Kathie,"2-Idli Sambhar,2-Smoked Chicken Salad",0,4
+3,11-Oct-19,11:05,Estella,"2-Grilled Chicken Salad,5-Hamburger",0,4
+2,24-Apr-19,19:37,rinki,"2-Banoffee Pie,2-Waffle with Banana",0,2
+8,06-Dec-19,20:05,Tina,"2-French toast,1-Chicken Risotto",0,4
+10,03-Jan-20,20:02,Dwaine,"2-Chicken Burger,2-Blueberry Pastry",0,4
+8,10-Aug-19,17:24,Olga,"2-Idli Sambhar,2-Hamburger",0,5
+5,19-Sep-19,21:24,Rowland,"1-Masala dosa,1-Chocolate Mousse,2-Smoked Chicken Salad,1-Coke",0,2
+9,08-Apr-19,10:43,Rosetta,"2-Coke,1-Chocolate Truffle Pastry,3-Donuts",0,5
+1,16-Jan-20,10:37,Nicolas,"2-Grilled Chicken Salad,2-Smoked Chicken Salad,1-Coke",0,5
+3,29-Aug-19,14:30,Wayland,"1-Grilled Chicken Salad,3-Croissant",0,2
+3,02-Feb-20,19:44,rekha,"1-Chicken Burger,3-Mushroom Risotto",0,2
+10,23-Dec-19,12:55,Flora,"1-Chicken Cheeseburst Pizza,1-Chicken Ceasar Salad",0,2
+2,11-Feb-20,13:00,Barton,"1-Crispy Chicken Burger,1-Waffle with Strawberry",0,1
+6,16-Sep-19,20:36,Mamie,"2-Crispy Chicken Master Burger,2-Hamburger",0,5
+8,31-Jan-20,16:55,rajni,"1-Coke,1-Mushroom Pizza,3-Donuts,5-Coke",0,4
+2,19-Aug-19,20:32,Jonnie,Idli Sambhar,0,5
+6,21-Mar-20,20:03,Cliff,"2-Idli Sambhar,3-Tomato and Garlic Risotto",0,2
+2,19-Jun-19,21:48,Hilton,"1-Chicken Burger,1-Mushroom Risotto",0,1
+8,17-May-19,14:09,Oran,"1-Crispy Chicken Master Burger,1-Hamburger",0,3
+10,11-Oct-19,10:09,Joan,"1-Four Seasons Pizza,1-Hamburger",0,2
+1,11-Mar-20,13:12,Arlyn,"1-Buttered popcorn,3-Butter Scotch ice cream,3-Donuts",0,5
+6,16-Aug-19,17:55,Dannie,"2-Garlic Bread,1-Fajita",0,1
+8,04-Sep-19,11:04,Reba,Waffle with Strawberry,0,4
+6,28-Dec-19,21:29,Della,"2-Crispy Chicken Master Burger,1-Croissant",0,4
+4,01-Jun-19,14:43,Roseann,French toast,0,3
+6,25-May-19,13:00,Mona,"1-Banoffee Pie,3-Chocolate Truffle Pastry",0,3
+6,23-May-19,13:26,Yash,Hummus,0,3
+6,30-Oct-19,15:02,Franklyn,"1-Chicken rice,1-Tomato and Garlic Risotto",0,3
+8,07-Jul-19,15:54,Lupe,"2-Potato chips,2-Donuts",0,1
+9,28-May-19,16:54,Jonas,"2-Crispy Chicken Master Burger,3-Hamburger",0,4
+1,13-Jun-19,20:07,Holly,"1-Garlic Bread,3-Chicken Risotto",0,4
+2,11-Jul-19,15:46,kesha,"2-Four Seasons Pizza,2-Croissant",0,2
+5,21-Jul-19,19:57,shivani,"1-Potato chips,3-Chocolate Truffle Pastry",0,4
+3,14-Oct-19,14:22,Amy,"2-Four Seasons Pizza,2-Waffle with Strawberry",0,2
+6,15-May-19,16:06,reekha,"2-Masala dosa,5-Butter Scotch ice cream",0,5
+6,11-Dec-19,19:10,Ron,"2-Masala dosa,2-Smoked Chicken Salad,1-Coke",0,1
+3,29-Jul-19,14:41,Seth,"1-Buttered popcorn,1-Chicken Ceasar Salad",0,5
+3,04-Sep-19,18:57,Molly,"2-Chicken rice,1-Chicken Ceasar Salad",0,5
+4,16-Apr-19,18:02,sona,"1-French toast,2-Tomato and Garlic Risotto",0,4
+3,10-May-19,20:01,Oran,"2-Hummus,3-Chicken Risotto",0,1
+1,26-Dec-19,20:39,Rowland,"2-Buttered popcorn,3-Butter Scotch ice cream",0,5
+6,01-Feb-20,14:07,Lon,"2-Idli Sambhar,1-Waffle with Strawberry",0,5
+1,27-Jan-20,13:18,Alvis,"2-Idli Sambhar,3-Hamburger",0,1
+10,17-Dec-19,14:46,chanchal,"2-French toast,1-Chocolate Mousse",0,3
+9,23-Aug-19,18:05,geeta,"2-Garlic Bread,1-Waffle with Banana",0,2
+6,19-Aug-19,11:09,Walton,"1-Four Seasons Pizza,1-Chocolate Truffle Pastry,2-Fish 'n' chips",0,5
+1,21-May-19,15:07,Seth,Tomato and Garlic Risotto,0,4
+2,05-Feb-20,21:17,komal,"1-Four Seasons Pizza,3-Chocolate Mousse",0,5
+8,16-Sep-19,14:52,Violet,"2-Chicken Cheeseburst Pizza,2-Croissant,2-Fish 'n' chips",0,3
+10,15-Feb-20,10:31,hemlata,"1-Chicken Cheeseburst Pizza,3-Waffle with Strawberry",0,5
+6,28-Nov-19,14:03,rajni,"1-Fish 'n' chips,5-Donuts",0,5
+8,21-Nov-19,20:17,Elliot,"1-Garlic Bread,1-Croissant,2-Butter Scotch ice cream",0,1
+2,14-Dec-19,16:33,Williams,"2-Buttered popcorn,1-Chicken Ceasar Salad",0,5
+5,18-Apr-19,21:54,Isiah,"1-Crispy Chicken Master Burger,1-Mushroom Pizza",0,1
+4,26-Jun-19,16:35,minakshi,"2-Buttered popcorn,3-Waffle with Banana",0,2
+6,12-Mar-20,15:15,Clovis,"1-Coke,2-Waffle with Banana",0,3
+2,11-Aug-19,13:12,Margo,"2-Fish 'n' chips,1-Mushroom Pizza",0,5
+9,21-Apr-19,20:10,Romeo,"2-Crispy Chicken Master Burger,2-Chocolate Mousse",0,2
+4,30-Sep-19,12:31,Cleve,"1-Four Seasons Pizza,2-Mushroom Pizza",0,2
+2,05-Feb-20,10:30,Elwin,"1-Banoffee Pie,1-Chocolate Mousse",0,3
+1,04-Apr-19,17:34,Arlo,"2-Grilled Chicken Salad,1-Butter Scotch ice cream,3-Donuts",0,5
+6,11-Jan-20,15:24,Reba,"1-Grilled Chicken Salad,5-Hamburger",0,3
+7,18-Sep-19,14:54,Debra,"1-Chicken rice,2-Mushroom Pizza,2-Butter Scotch ice cream",0,1
+3,01-Apr-19,10:06,Santos,"1-Masala dosa,1-Smoked Chicken Salad",0,3
+10,27-Nov-19,14:17,neeru,Four Seasons Pizza,0,1
+6,30-Jul-19,13:34,Junius,"2-Coke,2-Chicken Ceasar Salad",0,5
+1,31-Mar-20,13:43,Durwood,"1-French toast,3-Mushroom Pizza",0,4
+4,03-Feb-20,11:07,Leeroy,Chicken Burger,0,5
+6,24-Jun-19,13:07,Early,"2-Coke,2-Mushroom Pizza,2-Butter Scotch ice cream",0,5
+7,05-Apr-19,20:36,Earnestine,"1-Potato chips,1-Chocolate Mousse",0,3
+2,07-Sep-19,13:37,Benton,"1-Crispy Chicken Burger,1-Waffle with Banana,1-Crispy Chicken Master Burger",0,2
+10,14-Oct-19,19:25,Dayton,"2-Coke,2-Chocolate Shake",0,4
+9,05-Sep-19,20:29,Rupert,"1-Four Seasons Pizza,3-Chocolate Shake",0,1
+7,03-May-19,10:47,Nettie,"2-Crispy Chicken Master Burger,3-Mushroom Pizza,1-Coke",0,4
+5,23-Oct-19,19:27,Lucius,"2-Grilled Chicken Salad,3-Waffle with Strawberry",0,4
+7,13-Nov-19,16:58,Quentin,"1-Garlic Bread,3-Butter Scotch ice cream,4-Coke",0,5
+8,28-Aug-19,19:30,Dorsey,"1-Hummus,2-Fajita",0,2
+6,05-Nov-19,14:37,Arvin,"1-Hummus,3-Waffle with Banana",0,3
+1,15-Sep-19,17:36,Vinay,"2-Hummus,2-Waffle with Strawberry",0,1
+5,13-Feb-20,18:55,Lois,"2-Chicken Cheeseburst Pizza,1-Chicken Ceasar Salad",0,2
+8,09-Apr-19,13:25,varsha,"1-Four Seasons Pizza,1-Mushroom Risotto",0,4
+10,18-Mar-20,12:09,arti,"2-Crispy Chicken Burger,3-Mushroom Risotto",0,5
+7,04-Feb-20,18:50,Varun,"2-Chicken rice,1-Mushroom Pizza",0,5
+5,20-Jul-19,19:53,sheetal,"2-Buttered popcorn,3-Chocolate Shake",0,1
+5,19-Mar-20,20:44,smt,"2-Buttered popcorn,2-Smoked Chicken Salad",0,1
+9,22-Oct-19,15:38,sapna,"1-Chicken rice,3-Chocolate Truffle Pastry",0,2
+8,03-Sep-19,20:03,nishu,"1-Four Seasons Pizza,1-Fajita",0,2
+6,13-Jul-19,15:50,David,"2-Chicken Cheeseburst Pizza,1-Hamburger",0,5
+1,03-Aug-19,10:33,Reynaldo,"1-Buttered popcorn,3-Chocolate Truffle Pastry,4-Waffle with Strawberry",0,3
+1,26-May-19,16:02,Amelia,"1-Masala dosa,1-Waffle with Strawberry",0,4
+9,05-May-19,10:07,Sherrie,"2-Idli Sambhar,3-Fajita",0,4
+6,01-May-19,14:14,monika,"2-Chicken Burger,1-Fajita",0,5
+8,07-Jun-19,21:52,Hugo,"2-Coke,3-Croissant",0,2
+3,10-Jun-19,11:14,Hugo,"1-Masala dosa,2-Mushroom Pizza",0,4
+9,07-Nov-19,14:36,kajal,"2-Chicken rice,2-Hamburger",0,2
+2,21-Feb-20,18:11,Nickolas,"2-Hummus,1-Blueberry Pastry,1-Coke",0,1
+8,26-Dec-19,18:02,devika,"2-Grilled Chicken Salad,2-Mushroom Risotto,2-Butter Scotch ice cream",0,5
+8,25-Jul-19,16:41,Duncan,"1-Banoffee Pie,3-Smoked Chicken Salad,2-Butter Scotch ice cream",0,1
+2,07-May-19,13:18,Aurelio,"1-Chicken Cheeseburst Pizza,1-Smoked Chicken Salad",0,3
+10,20-Nov-19,21:46,Helene,"1-Chicken rice,3-Hamburger",0,1
+9,06-Nov-19,13:10,Terence,"1-Four Seasons Pizza,3-Hamburger",0,1
+9,01-Aug-19,21:10,Agustin,"1-Buttered popcorn,1-Tomato and Garlic Risotto",0,2
+6,03-Oct-19,19:47,Merritt,"1-French toast,3-Croissant",0,4
+1,22-Oct-19,20:35,Derek,"2-Chicken rice,2-Waffle with Banana",0,4
+8,26-May-19,18:29,Federico,"2-Four Seasons Pizza,3-Chicken Ceasar Salad",0,3
+5,01-Aug-19,11:15,Auther,"2-Chicken Cheeseburst Pizza,1-Chocolate Shake,1-Crispy Chicken Master Burger",0,5
+7,27-Nov-19,16:13,shalu,Mushroom Pizza,0,2
+9,05-Jun-19,18:13,Sallie,"2-Garlic Bread,2-Chicken Risotto",0,1
+6,12-Jun-19,14:50,Noreen,"1-French toast,3-Chocolate Shake,1-Coke",0,1
+9,12-Aug-19,11:12,Vicente,"1-Potato chips,3-Chocolate Mousse,2-Fish 'n' chips",0,5
+9,22-Oct-19,14:14,Terence,"1-Grilled Chicken Salad,3-Mushroom Pizza",0,5
+4,25-Sep-19,20:59,Elvis,"2-Banoffee Pie,3-Mushroom Pizza",0,2
+6,30-Oct-19,14:54,Farrell,"4-Hummus,4-Chocolate Shake",0,2
+4,19-Jan-20,16:14,Edsel,"1-Chicken rice,1-Butter Scotch ice cream",0,3
+7,07-Jan-20,17:36,Ambrose,"1-French toast,1-Smoked Chicken Salad,2-Fish 'n' chips",0,5
+9,15-Apr-19,20:25,Loyal,"2-Buttered popcorn,3-Blueberry Pastry",0,2
+5,23-May-19,15:51,Artis,"2-French toast,3-Chocolate Truffle Pastry",0,1
+5,29-Jul-19,21:32,Dewitt,"1-Crispy Chicken Master Burger,2-Waffle with Banana",0,1
+9,25-Mar-20,17:16,Eloise,"1-Masala dosa,2-Chocolate Truffle Pastry",0,1
+1,03-Jul-19,14:40,Loran,"1-Idli Sambhar,3-Fajita",0,5
+9,28-Oct-19,11:20,baby,"2-Idli Sambhar,1-Mushroom Pizza",0,2
+6,01-Apr-19,16:17,Natalie,"2-Buttered popcorn,2-Blueberry Pastry",0,3
+4,17-Sep-19,20:22,sona,"2-Crispy Chicken Master Burger,1-Blueberry Pastry",0,2
+3,04-Nov-19,14:01,Reid,"1-Idli Sambhar,2-Fajita",0,3
+9,24-May-19,11:28,Donal,Tomato and Garlic Risotto,0,2
+7,12-Sep-19,14:02,Justin,"1-Masala dosa,1-Chicken Risotto",0,2
+1,10-Mar-20,12:18,Mona,"2-Fish 'n' chips,2-Butter Scotch ice cream",0,5
+6,21-Jun-19,16:38,Arvin,Fajita,0,5
+5,10-Dec-19,17:15,Nickolas,Butter Scotch ice cream,0,3
+5,22-May-19,15:27,Rubin,"2-Masala dosa,1-Chicken Ceasar Salad",0,5
+9,05-Jan-20,13:14,baby,"2-Chicken rice,2-Waffle with Strawberry,2-Fish 'n' chips",0,4
+1,09-Dec-19,17:31,Derald,"2-Coke,2-Chocolate Truffle Pastry,2-Butter Scotch ice cream",0,1
+1,08-May-19,19:07,Reynold,"2-Grilled Chicken Salad,1-Chocolate Mousse,3-Waffle with Strawberry",0,3
+6,30-Mar-20,19:46,Rolf,"2-Crispy Chicken Burger,1-Butter Scotch ice cream",0,2
+10,30-Nov-19,20:20,Porter,"1-Crispy Chicken Burger,3-Chocolate Truffle Pastry",0,5
+7,09-Sep-19,17:05,Ron,"1-Potato chips,1-Tomato and Garlic Risotto,1-French toast",0,2
+6,25-Apr-19,11:06,Romeo,"1-Crispy Chicken Master Burger,2-Chocolate Truffle Pastry,1-Coke",0,3
+2,29-Feb-20,16:43,Giles,"1-Grilled Chicken Salad,2-Hamburger",0,5
+2,25-Sep-19,20:51,Haskell,"1-Crispy Chicken Burger,2-Chocolate Shake",0,3
+5,18-Jul-19,18:08,Abhishek,"2-Fish 'n' chips,1-Butter Scotch ice cream",0,2
+4,21-Aug-19,10:42,Rishabh,"1-Four Seasons Pizza,3-Tomato and Garlic Risotto",0,2
+9,14-May-19,14:01,Myles,"1-Buttered popcorn,2-Chicken Risotto",0,2
+2,16-Aug-19,16:05,Karla,"2-Grilled Chicken Salad,3-Waffle with Banana",0,5
+3,12-May-19,19:04,Harland,"2-Chicken Cheeseburst Pizza,2-Butter Scotch ice cream",0,3
+4,24-Apr-19,21:14,Santo,"1-Masala dosa,3-Croissant",0,2
+3,10-Jun-19,11:45,Alvis,1-Chicken Burger,0,5
+9,03-Apr-19,18:53,Michael,"1-Idli Sambhar,3-Waffle with Strawberry",0,5
+10,24-Jan-20,17:19,Ilene,"2-Hummus,3-Mushroom Risotto",0,4
+3,04-Jun-19,21:57,James,"1-Coke,3-Mushroom Risotto",0,2
+6,03-Mar-20,21:05,Norton,"1-Buttered popcorn,2-Waffle with Banana,1-Coke",0,3
+4,11-Oct-19,10:52,tamanna,Chicken Ceasar Salad,0,5
+6,01-Nov-19,12:41,Verlin,"2-Chicken Cheeseburst Pizza,1-Fajita",0,4
+8,14-Dec-19,11:17,Maggie,"1-Chicken Burger,1-Donuts",0,4
+4,02-Dec-19,12:35,Carlyle,"1-French toast,1-Hamburger",0,5
+8,18-Mar-20,13:43,Richard,"1-Crispy Chicken Master Burger,2-Croissant",0,5
+3,30-Aug-19,21:04,Orin,"1-Chicken rice,2-Donuts",0,2
+3,21-Oct-19,12:30,Harland,"2-Garlic Bread,3-Butter Scotch ice cream",0,4
+2,27-Sep-19,19:15,Joesph,Potato chips,0,5
+9,05-May-19,10:57,rubi,Coke,0,2
+10,09-Mar-20,13:52,Dexter,"2-French toast,1-Waffle with Strawberry",0,1
+5,08-Aug-19,17:54,Marland,"1-Idli Sambhar,1-Donuts",0,4
+4,22-Jun-19,13:20,Waldo,"2-Chicken Burger,1-Chocolate Mousse",0,5
+1,26-Nov-19,20:17,madhuri,Chicken Risotto,0,2
+5,10-Aug-19,15:19,Reynold,"1-Crispy Chicken Burger,1-Chocolate Truffle Pastry",0,4
+3,17-Nov-19,17:00,nirma,"2-Crispy Chicken Master Burger,1-Waffle with Banana",0,2
+6,08-Mar-20,21:36,Theo,"1-Banoffee Pie,2-Chicken Risotto",0,3
+2,13-Dec-19,14:03,Tina,"2-Coke,3-Waffle with Banana",0,5
+4,03-Sep-19,10:03,sunita,"2-Masala dosa,3-Fajita",0,4
+6,21-Jun-19,19:47,lovely,"2-Crispy Chicken Master Burger,1-Waffle with Strawberry",0,2
+9,19-Jun-19,14:49,sonali,"2-Fish 'n' chips,3-Mushroom Pizza",0,1
+8,30-Dec-19,12:01,Webster,"1-Chicken Cheeseburst Pizza,3-Blueberry Pastry",0,5
+4,04-Jul-19,19:04,sarita,"2-Chicken Burger,2-Tomato and Garlic Risotto",0,1
+5,03-Sep-19,16:41,Noble,"1-Chicken Burger,3-Blueberry Pastry,1-Coke",0,5
+1,23-Dec-19,14:12,Lawerence,"1-Idli Sambhar,2-Smoked Chicken Salad",0,3
+3,06-Oct-19,18:28,Ruby,"2-French toast,3-Donuts",0,4
+2,01-Aug-19,20:12,Patti,"2-Hummus,2-Hamburger",0,2
+2,23-Feb-20,14:17,neetu,Fish 'n' chips,0,4
+6,27-Aug-19,13:07,Lorna,"2-Chicken rice,2-Smoked Chicken Salad",0,3
+5,19-Feb-20,18:40,Amy,"1-Grilled Chicken Salad,3-Chocolate Truffle Pastry",0,3
+8,31-Jan-20,13:35,Arvid,"2-Chicken Burger,1-Chocolate Shake",0,3
+8,22-Sep-19,14:22,Jennings,"1-Crispy Chicken Burger,2-Chocolate Mousse",0,4
+1,23-Jun-19,17:43,Regis,"2-French toast,3-Butter Scotch ice cream",0,5
+6,21-Oct-19,19:05,babby,"1-Potato chips,1-Smoked Chicken Salad",0,1
+8,10-May-19,10:41,Pierre,"2-Crispy Chicken Master Burger,2-Fajita",0,5
+2,17-Sep-19,13:56,Kirby,"2-Coke,1-Tomato and Garlic Risotto",0,3
+5,16-Nov-19,18:15,Elisha,Mushroom Risotto,0,3
+7,12-Dec-19,16:43,Cherie,"2-Fish 'n' chips,3-Fajita",0,4
+2,22-Dec-19,17:44,Rohan,"1-Chicken Burger,1-Hamburger",0,1
+5,14-May-19,20:32,shalu,"1-Buttered popcorn,1-Mushroom Pizza",0,3
+6,04-Feb-20,21:33,Roseann,"1-Crispy Chicken Master Burger,1-Smoked Chicken Salad",0,2
+9,25-Nov-19,20:40,Emile,"1-Banoffee Pie,2-Waffle with Strawberry",0,5
+3,14-Jun-19,21:43,Haywood,"2-Fish 'n' chips,1-Chicken Risotto",0,1
+8,03-Oct-19,18:48,naziya,"2-Crispy Chicken Master Burger,2-Mushroom Risotto",0,3
+2,01-Sep-19,20:24,Steven,"2-Fish 'n' chips,2-Tomato and Garlic Risotto",0,5
+6,28-Mar-20,20:24,Reynold,"1-Garlic Bread,3-Croissant",0,5
+8,17-Nov-19,20:08,Glenna,"2-Banoffee Pie,1-Smoked Chicken Salad",0,2
+8,30-Apr-19,13:38,Florian,"1-Chicken Burger,3-Hamburger",0,4
+1,04-Apr-19,17:58,sonali,"1-Crispy Chicken Master Burger,1-Mushroom Risotto",0,2
+3,27-Nov-19,19:45,Auther,Potato chips,0,2
+5,02-Jun-19,18:47,Eldridge,"2-Chicken rice,3-Chocolate Truffle Pastry,2-Butter Scotch ice cream",0,5
+9,06-Feb-20,15:30,Franklyn,"1-Potato chips,1-Waffle with Strawberry",0,4
+10,11-Apr-19,16:07,Rogelio,"2-Grilled Chicken Salad,2-Waffle with Strawberry",0,3
+10,14-Mar-20,20:46,Wylie,"1-Idli Sambhar,1-Chocolate Shake",0,3
+1,27-Jun-19,18:25,dipanshi,Fish 'n' chips,0,1
+4,15-Nov-19,18:03,pinki,"1-Chicken Burger,1-Mushroom Pizza",0,3
+4,01-Jun-19,10:27,Olga,Garlic Bread,0,1
+5,03-Apr-19,16:57,Rosetta,"2-French toast,1-Chocolate Truffle Pastry,1-Coke",0,2
+5,02-Dec-19,19:13,Ahmed,"2-Four Seasons Pizza,6-Hamburger",0,3
+1,26-Apr-19,15:03,Albina,"1-French toast,2-Blueberry Pastry",0,2
+6,11-Apr-19,19:27,shikha,"1-Buttered popcorn,3-Chicken Ceasar Salad",0,2
+4,11-Mar-20,15:50,Conley,Grilled Chicken Salad,0,5
+9,19-Jan-20,17:31,Nelson,"1-Crispy Chicken Burger,1-Chicken Ceasar Salad,1-Coke",0,3
+1,29-Aug-19,11:05,Reed,"2-Buttered popcorn,1-Croissant,1-Coke",0,4
+7,05-May-19,11:20,Dello,"1-Chicken Cheeseburst Pizza,2-Butter Scotch ice cream,2-Butter Scotch ice cream",0,2
+3,30-Apr-19,17:46,Louise,"1-Potato chips,2-Smoked Chicken Salad",0,1
+2,14-Apr-19,13:51,Ora,"1-Chicken rice,2-Smoked Chicken Salad",0,5
+9,13-Sep-19,16:47,Haskell,"1-Masala dosa,1-Donuts",0,5
+6,29-Dec-19,14:40,Frankie,"2-Chicken Cheeseburst Pizza,2-Croissant",0,5
+7,06-Sep-19,15:58,Dannie,"1-Banoffee Pie,1-Waffle with Strawberry",0,1
+8,22-Mar-20,13:24,Dorsey,"2-Chicken Cheeseburst Pizza,3-Chicken Ceasar Salad",0,5
+6,24-Jun-19,19:51,Rena,"2-Hummus,3-Waffle with Strawberry",0,3
+9,19-Aug-19,19:57,saloni,"1-Crispy Chicken Master Burger,1-Blueberry Pastry",0,4
+7,29-Jun-19,11:31,Meredith,"1-Crispy Chicken Burger,3-Mushroom Risotto",0,3
+10,02-Apr-19,14:09,seema,"1-Crispy Chicken Master Burger,1-Waffle with Strawberry",0,4
+9,28-Apr-19,18:53,Stan,"1-Four Seasons Pizza,3-Waffle with Banana",0,1
+6,15-Jan-20,14:56,Louise,"1-Chicken Cheeseburst Pizza,3-Mushroom Pizza",0,3
+6,14-Aug-19,10:33,Carson,"2-French toast,2-Fajita",0,4
+6,08-Nov-19,16:40,Leamon,"2-Idli Sambhar,3-Waffle with Banana",0,1
+7,15-Dec-19,20:21,Rhonda,"2-Crispy Chicken Burger,3-Mushroom Pizza",0,4
+7,07-Oct-19,13:43,Judge,"1-Idli Sambhar,1-Smoked Chicken Salad",0,2
+6,13-Jun-19,16:45,Shelby,"1-Crispy Chicken Burger,2-Chicken Risotto",0,1
+1,15-Nov-19,14:52,Rochelle,"1-Four Seasons Pizza,1-Chocolate Mousse",0,4
+9,25-Mar-20,16:03,Reynaldo,"1-Hummus,2-Hamburger",0,3
+1,22-Jul-19,11:22,Aurelio,Blueberry Pastry,0,3
+6,05-Apr-19,16:45,Mamie,"1-Fish 'n' chips,3-Waffle with Banana",0,2
+2,20-Sep-19,20:55,Ginger,"2-Idli Sambhar,1-Chicken Ceasar Salad",0,1
+8,29-Jul-19,16:47,Abhishek,"1-Buttered popcorn,1-Tomato and Garlic Risotto,3-Donuts",0,2
+9,27-Feb-20,12:06,reekha,"2-Hummus,3-Butter Scotch ice cream,1-Coke",0,3
+5,29-Jul-19,10:32,smt,"1-Grilled Chicken Salad,1-Chocolate Mousse",0,1
+5,24-Feb-20,13:34,Quinton,"1-Banoffee Pie,1-Butter Scotch ice cream",0,1
+3,14-Nov-19,20:46,Nettie,"2-Garlic Bread,2-Chocolate Truffle Pastry",0,4
+9,05-Mar-20,21:56,Jacky,"1-Chicken Cheeseburst Pizza,3-Chocolate Truffle Pastry",0,4
+2,08-Nov-19,21:29,Eloise,"1-Potato chips,2-Mushroom Risotto",0,1
+9,21-Mar-20,19:59,Jewell,"1-Four Seasons Pizza,3-Mushroom Pizza",0,4
+10,10-May-19,20:18,manju,"2-Crispy Chicken Burger,1-Fajita",0,3
+4,08-Dec-19,21:28,Joyce,"1-Crispy Chicken Master Burger,3-Waffle with Banana",0,4
+7,19-Aug-19,16:46,Vinay,"1-Four Seasons Pizza,1-Butter Scotch ice cream,2-Fish 'n' chips",0,5
+4,28-Nov-19,12:33,Kendall,"1-Buttered popcorn,2-Chocolate Shake",0,4
+8,28-Jul-19,18:00,anjali,"1-Crispy Chicken Burger,3-Waffle with Banana",0,4
+5,21-Apr-19,11:05,Lucian,"1-Grilled Chicken Salad,3-Hamburger",0,4
+5,10-May-19,13:49,Haywood,"2-Hummus,3-Chicken Risotto",0,5
+8,21-Oct-19,15:38,Lou,"1-Potato chips,1-Waffle with Strawberry",0,2
+3,21-Dec-19,10:52,Ron,"1-Coke,1-Donuts",0,3
+6,14-Dec-19,21:18,Rupert,"1-Idli Sambhar,2-Tomato and Garlic Risotto,2-Smoked Chicken Salad",0,1
+6,16-Feb-20,10:31,Genevieve,"1-Grilled Chicken Salad,3-Butter Scotch ice cream",0,2
+1,24-May-19,21:45,Helen,"1-Masala dosa,1-Mushroom Pizza",0,5
+4,04-Mar-20,18:34,Prince,"1-Buttered popcorn,3-Chocolate Mousse",0,3
+3,15-Jun-19,13:37,Lois,"1-Crispy Chicken Burger,3-Chicken Risotto",0,5
+3,09-Aug-19,21:14,Marcella,"2-Grilled Chicken Salad,1-Chocolate Mousse",0,4
+3,18-Feb-20,20:37,yasmin,"1-Garlic Bread,2-Fajita",0,2
+3,21-Jul-19,11:13,Edd,"10-Buttered popcorn,3-Chicken Ceasar Salad",0,3
+4,12-Feb-20,18:03,Guadalupe,"2-French toast,3-Hamburger",0,3
+6,25-Aug-19,11:44,Nelda,"2-Four Seasons Pizza,2-Smoked Chicken Salad",0,1
+6,11-Mar-20,15:36,Judi,Banoffee Pie,0,1
+4,29-Feb-20,14:39,Melody,"1-Potato chips,2-Butter Scotch ice cream",0,1
+8,05-Dec-19,21:15,Marlyn,"1-Coke,2-Waffle with Strawberry",0,4
+2,31-Oct-19,16:53,Gretchen,Crispy Chicken Master Burger,0,2
+4,03-Mar-20,17:46,Fritz,"2-Chicken rice,1-Fajita",0,5
+2,27-Jan-20,14:05,Rowland,"1-Fish 'n' chips,1-Chicken Risotto",0,2
+10,23-Nov-19,10:33,Dock,"2-Potato chips,1-Blueberry Pastry",0,5
+9,28-Dec-19,11:58,aashma,"2-Crispy Chicken Burger,1-Chocolate Shake,2-Fajita,3-Donuts",0,1
+2,15-Jan-20,20:01,Sherrie,"2-Fish 'n' chips,3-Croissant",0,3
+5,18-Jan-20,20:11,Sandy,"2-Fish 'n' chips,3-Chicken Ceasar Salad",0,3
+9,19-Apr-19,18:54,Von,"1-Hummus,3-Fajita",0,5
+6,16-Oct-19,15:41,Aron,"2-Idli Sambhar,1-Chocolate Truffle Pastry",0,2
+9,11-Jul-19,12:34,Claudette,"2-Idli Sambhar,1-Blueberry Pastry",0,4
+3,09-May-19,17:50,Waymon,"1-Potato chips,3-Tomato and Garlic Risotto",0,1
+4,12-Apr-19,10:57,Karla,"1-Chicken Cheeseburst Pizza,1-Waffle with Banana",0,4
+10,12-Jun-19,13:19,Kyle,"2-Idli Sambhar,2-Donuts",0,4
+8,01-Aug-19,16:13,Sallie,"1-Garlic Bread,1-Tomato and Garlic Risotto",0,1
+10,02-Nov-19,13:47,Gustav,"1-Banoffee Pie,2-Fajita",0,2
+6,02-Dec-19,13:01,John,1-French toast,0,1
+1,23-Jul-19,18:39,Ronny,"2-French toast,3-Mushroom Pizza,1-Coke",0,4
+1,19-Dec-19,15:49,Eldred,"2-French toast,1-Chicken Ceasar Salad",0,3
+7,06-Jan-20,21:50,Holly,"1-Potato chips,1-Chocolate Truffle Pastry",0,1
+9,21-Jul-19,10:04,Cruz,Mushroom Pizza,0,3
+10,28-Apr-19,20:25,aasmin,"1-Four Seasons Pizza,3-Chocolate Truffle Pastry",0,5
+5,09-Jan-20,21:14,Garth,"2-Hummus,1-Chicken Risotto",0,4
+2,27-Jun-19,17:14,Nelda,"1-Masala dosa,3-Waffle with Strawberry,1-Coke",0,3
+7,31-Oct-19,20:15,Sydney,"1-Chicken Burger,1-Chocolate Mousse",0,2
+2,06-Feb-20,18:29,Shelton,"2-Garlic Bread,1-Chicken Ceasar Salad",0,2
+8,12-Jun-19,13:53,Orrin,"1-Fish 'n' chips,3-Donuts",0,4
+3,13-May-19,11:35,Mark,"1-Garlic Bread,1-Waffle with Banana",0,3
+3,12-Mar-20,17:48,saloni,"1-Garlic Bread,1-Donuts",0,1
+6,30-Mar-20,18:10,Denzil,"2-Chicken rice,1-Waffle with Strawberry",0,1
+9,13-Dec-19,15:49,Duncan,"2-Hummus,3-Fajita",0,3
+6,29-Mar-20,17:20,Noreen,"1-Crispy Chicken Master Burger,2-Hamburger",0,5
+1,10-Aug-19,15:25,Rochelle,"1-Grilled Chicken Salad,3-Mushroom Risotto",0,5
+5,19-Jun-19,17:56,Guadalupe,"2-Coke,1-Blueberry Pastry",0,3
+3,20-Jan-20,10:22,Loy,"2-Garlic Bread,1-Blueberry Pastry",0,3
+7,26-Jul-19,17:21,Vinay,"1-Potato chips,1-Waffle with Strawberry",0,1
+1,09-Dec-19,20:11,Shelia,"3-Potato chips,4-Chicken Risotto",0,1
+6,06-May-19,13:30,Glenna,"1-Chicken rice,3-Waffle with Strawberry",0,4
+6,03-Oct-19,21:52,Ilene,"2-Idli Sambhar,1-Croissant",0,1
+8,03-Nov-19,10:24,Genevieve,"1-Banoffee Pie,2-Chicken Risotto",0,1
+6,02-Jun-19,21:41,mamta,"1-Four Seasons Pizza,2-Mushroom Risotto",0,4
+2,06-Nov-19,18:27,Shelia,"1-Coke,3-Chocolate Truffle Pastry",0,4
+6,13-Aug-19,16:34,Enoch,"1-Hummus,2-Chocolate Mousse",0,3
+8,27-Feb-20,12:03,Janette,"1-Crispy Chicken Master Burger,2-Donuts",0,2
+7,09-Mar-20,11:03,sanju,"2-Crispy Chicken Master Burger,1-Mushroom Risotto",0,3
+6,14-Oct-19,14:02,Glynn,"1-French toast,1-Chicken Ceasar Salad",0,5
+6,25-Feb-20,14:22,Jay,"2-Banoffee Pie,2-Waffle with Banana",0,3
+6,11-Oct-19,15:24,Asa,"2-Buttered popcorn,1-Tomato and Garlic Risotto",0,4
+7,09-Jun-19,16:26,Monty,2-Four Seasons Pizza,0,1
+5,25-Nov-19,17:02,Leander,"2-Crispy Chicken Master Burger,2-Smoked Chicken Salad",0,1
+10,14-May-19,17:36,Allison,"1-Fish 'n' chips,1-Mushroom Risotto",0,3
+3,07-Oct-19,15:38,Wayland,"1-Coke,2-Waffle with Banana",0,3
+Ñ,?O,,,,,4
+6,25-Jul-19,12:50,Richard,"1-Potato chips,2-Waffle with Strawberry,3-Waffle with Strawberry",0,3
+6,22-Sep-19,16:20,Palmer,"2-Fish 'n' chips,1-Chocolate Mousse",0,2
+?,«,,,62ƒe?T æ??fæ??·,,5
+6,18-Oct-19,21:19,Nishant,"1-Chicken Burger,2-Smoked Chicken Salad",0,5
+?O,?,,É??=eîi??f,,,4
+7,14-Sep-19,21:13,Noreen,"2-Masala dosa,3-Chocolate Truffle Pastry",0,5
+2,11-Apr-19,10:21,Rogelio,"2-Masala dosa,1-Chocolate Mousse",0,2
+8,02-May-19,20:35,Gonzalo,"2-Garlic Bread,3-Chocolate Mousse",0,4
+8,21-Aug-19,15:01,Walton,"2-Masala dosa,1-Croissant",0,2
+5,25-Jul-19,14:01,Wardell,"1-Garlic Bread,1-Donuts",0,5
+ƒ£,????å,,,????å,,1
+10,05-Oct-19,11:29,Deepak,"1-Masala dosa,3-Chocolate Shake,2-Butter Scotch ice cream",0,5
+3,02-Jul-19,11:13,Melinda,"2-French toast,2-Mushroom Risotto",0,3
+9,14-Aug-19,21:01,Verlin,Garlic Bread,0,4
+4,08-Jul-19,16:19,manju,"2-Chicken Burger,3-Fajita",0,5
+3,01-Jul-19,21:43,Elvis,Donuts,0,3
+7,19-Jan-20,20:49,Rambo,"2-Fish 'n' chips,2-Chicken Risotto,3-Donuts,1-Coke",0,1
+8,12-Sep-19,20:59,Joanna,"2-Chicken rice,2-Blueberry Pastry",0,4
+9,10-May-19,10:57,Damon,"1-Fish 'n' chips,1-Croissant",0,5
+10,24-Oct-19,11:57,neha,"1-Four Seasons Pizza,1-Smoked Chicken Salad",0,2
+4,10-Mar-20,20:33,Justin,"1-Fish 'n' chips,3-Smoked Chicken Salad",0,2

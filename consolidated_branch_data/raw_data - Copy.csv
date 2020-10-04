@@ -1,0 +1,1021 @@
+branch_id,order_date,order_time,customer_name,is_member,order_type,order_details,order_amount
+2,20-Apr-19,16:11,Freda,YES,delivery,"2-French toast,2-Crispy Chicken Burger,3-Mushroom Risotto",0
+2,29-Jun-19,13:56,Adolphus,NO,delivery,"5-Grilled Chicken Salad,2-Fajita,2-Four Seasons Pizza",0
+4,22-Sep-19,21:14,Napoleon,YES,delivery,"1-Banoffee Pie,4-Four Seasons Pizza",0
+5,12-Feb-20,17:33,nirma,NO,delivery,1-Crispy Chicken Burger,0
+6,18-Jul-19,19:23,Santos,YES,delivery,"1-Crispy Chicken Master Burger,3-Mushroom Risotto",0
+7,02-Jan-20,15:34,Sadie,YES,take away,"1-Chicken rice,1-Tomato and Garlic Risotto",0
+8,20-Sep-19,21:12,arti,NO,delivery,"2-Idli Sambhar,2-Chicken Ceasar Salad,1-Chocolate Truffle Pastry",0
+8,27-Dec-19,17:07,Norwood,NO,delivery,"2-Potato chips,3-Tomato and Garlic Risotto",0
+?,"""?ª?",v,[??,?,?,?tKÚ??ì???O?O,0
+Ñ,?,?ñ,2*,?,u,? ??Ö231álY?Ñ?,0
+,,,,,,,
+3,19-Oct-19,18:43,Deepak,YES,delivery,Grilled Chicken Salad,0
+7,12-Nov-19,17:27,Janette,NO,take away,"2-Hummus,3-Croissant,3-Fajita",0
+4,19-Jun-19,11:55,Patricia,NO,delivery,"1-Buttered popcorn,2-Chocolate Mousse",0
+8,05-Apr-19,19:11,Monica,YES,delivery,"2-Masala dosa,1-Chicken Ceasar Salad",0
+2,26-Apr-19,11:31,Lon,YES,delivery,"1-Idli Sambhar,2-Waffle with Strawberry",0
+10,13-Jun-19,14:50,Nishant,YES,take away,Chocolate Shake,0
+3,16-Dec-19,12:26,Stanton,YES,delivery,"1-Hummus,3-Waffle with Strawberry,1-Crispy Chicken Master Burger",0
+9,27-Apr-19,21:53,Isha,YES,delivery,"1-Chicken Burger,2-Chicken Ceasar Salad",0
+5,05-Dec-19,11:33,Mac,YES,delivery,"2-Masala dosa,3-Waffle with Strawberry",0
+5,24-Jan-20,14:39,rubi,YES,delivery,"2-Chicken Cheeseburst Pizza,3-Butter Scotch ice cream",0
+4,14-Nov-19,16:50,Andre,YES,delivery,"2-Fish 'n' chips,3-Chocolate Shake",0
+1,22-Apr-19,14:29,June,YES,delivery,Blueberry Pastry,0
+5,13-Aug-19,15:02,Elwyn,NO,delivery,"2-Potato chips,3-Smoked Chicken Salad",0
+7,17-Nov-19,15:50,Derald,YES,take away,"1-Crispy Chicken Master Burger,3-Chocolate Shake",0
+7,19-Jul-19,18:42,Noble,NO,delivery,"1-Coke,3-Fajita",0
+3,12-Apr-19,21:28,Darla,NO,delivery,"2-Coke,1-Donuts",0
+1,21-May-19,21:53,Inez,YES,take away,"1-Chicken rice,1-Smoked Chicken Salad",0
+9,19-Oct-19,12:17,Bart,NO,delivery,"1-Banoffee Pie,1-Chicken Ceasar Salad",0
+8,17-Mar-20,14:46,Jonas,YES,delivery,Chicken rice,0
+4,11-Jan-20,16:45,Jenny,NO,delivery,"1-Idli Sambhar,3-Waffle with Strawberry",0
+8,14-Jul-19,18:49,Mahlon,NO,delivery,"2-Masala dosa,1-Fajita",0
+,,,,,,,
+4,28-Feb-20,12:52,Benedict,NO,delivery,"2-Crispy Chicken Burger,1-Mushroom Risotto,1-Crispy Chicken Master Burger",0
+7,12-Oct-19,17:36,Alvie,NO,delivery,"1-Grilled Chicken Salad,3-Blueberry Pastry",0
+3,30-Nov-19,15:57,Grace,NO,delivery,"2-Chicken rice,1-Chocolate Shake",0
+5,17-Nov-19,18:11,Preeti,NO,delivery,"2-Banoffee Pie,1-Fajita",0
+7,01-Jul-19,18:32,shahin,NO,delivery,"2-Idli Sambhar,3-Chicken Ceasar Salad",0
+1,23-Oct-19,12:57,Quentin,NO,delivery,"1-Crispy Chicken Burger,1-Mushroom Risotto",0
+3,11-Oct-19,17:10,Derek,NO,delivery,"2-Crispy Chicken Master Burger,3-Donuts,2-Butter Scotch ice cream",0
+5,06-Oct-19,16:02,Denzil,YES,take away,"1-French toast,3-Fajita",0
+8,01-Jun-19,12:32,Faith,NO,delivery,"5-Crispy Chicken Burger,3-Chocolate Shake",0
+2,28-Dec-19,20:02,neetu,YES,delivery,"1-Banoffee Pie,2-Chocolate Truffle Pastry",0
+6,14-Mar-20,18:38,Sadie,YES,delivery,"4-Masala dosa,2-Tomato and Garlic Risotto",0
+3,27-Feb-20,12:26,Waldo,NO,delivery,"1-Chicken Burger,3-Donuts",0
+,,,,,,,
+3,23-Nov-19,15:56,Burt,NO,delivery,"1-Chicken rice,1-Smoked Chicken Salad,1-Crispy Chicken Master Burger",0
+7,26-Jan-20,16:57,Kirk,YES,take away,"1-Chicken rice,3-Mushroom Risotto",0
+5,08-Apr-19,20:46,megha,NO,delivery,"1-Banoffee Pie,2-Mushroom Risotto",0
+4,29-Mar-20,20:13,Gwen,NO,delivery,"2-Potato chips,2-Blueberry Pastry",0
+7,31-May-19,21:14,Rogelio,NO,take away,1-Garlic Bread,0
+4,10-Mar-20,17:06,Elisha,YES,delivery,"1-French toast,1-Fajita",0
+,,,,,,,
+3,19-Jul-19,16:27,Raphael,NO,delivery,"1-Four Seasons Pizza,1-Chocolate Mousse,3-Donuts,1-Coke",0
+8,18-Oct-19,10:34,Delton,NO,delivery,"1-Grilled Chicken Salad,1-Butter Scotch ice cream",0
+2,06-Jun-19,10:20,Toby,NO,take away,1-Waffle with Strawberry,0
+8,08-Mar-20,16:20,Lavon,NO,delivery,"1-Coke,1-Chicken Risotto",0
+5,28-May-19,15:18,Jacky,NO,delivery,"1-Idli Sambhar,1-Blueberry Pastry",0
+4,26-Nov-19,17:57,Elisha,NO,delivery,"2-Idli Sambhar,2-Waffle with Banana",0
+3,10-Sep-19,20:20,Lucinda,YES,delivery,"1-Potato chips,1-Tomato and Garlic Risotto",0
+2,21-Apr-19,10:25,Dale,YES,delivery,"1-Garlic Bread,2-Tomato and Garlic Risotto",0
+10,23-Feb-20,21:16,Damon,NO,delivery,"1-Buttered popcorn,1-Smoked Chicken Salad",0
+9,27-Jan-20,10:12,Edd,NO,delivery,"2-Grilled Chicken Salad,2-Chocolate Mousse,2-Butter Scotch ice cream",0
+10,22-Apr-19,17:58,James,NO,delivery,"2-Banoffee Pie,2-Mushroom Risotto",0
+2,25-Oct-19,21:52,Ike,NO,take away,5-Waffle with Strawberry,0
+3,03-Oct-19,11:18,Lenore,YES,delivery,"2-French toast,3-Chicken Ceasar Salad",0
+2,01-Apr-19,18:52,Margaret,YES,delivery,"1-Crispy Chicken Burger,3-Mushroom Risotto",0
+7,29-May-19,21:43,Mable,YES,delivery,"1-Chicken rice,2-Mushroom Risotto",0
+7,31-Jul-19,21:42,Dewitt,YES,delivery,"1-Banoffee Pie,2-Mushroom Risotto",0
+,,,,,,,
+,,,,,,,
+7,26-Mar-20,17:25,shanti,NO,delivery,"1-Idli Sambhar,2-Tomato and Garlic Risotto",0
+9,08-Jun-19,19:37,Gretchen,NO,delivery,"1-Fish 'n' chips,3-Chocolate Truffle Pastry",0
+9,27-Dec-19,12:02,Dello,NO,delivery,"1-Fish 'n' chips,2-Croissant",0
+9,28-Aug-19,10:10,Dock,YES,take away,"2-Potato chips,2-Chocolate Shake",0
+8,09-Aug-19,17:14,Alford,YES,delivery,"2-French toast,1-Mushroom Risotto",0
+4,08-Feb-20,19:40,kaushal,NO,delivery,"1-Buttered popcorn,3-Waffle with Strawberry",0
+9,06-Feb-20,17:48,shanti,YES,delivery,"1-French toast,1-Mushroom Pizza",0
+5,30-Jun-19,16:33,Vicente,YES,take away,"1-Crispy Chicken Master Burger,1-Croissant",0
+10,02-Jun-19,19:27,Dale,YES,take away,"2-Fish 'n' chips,2-Fajita",0
+3,03-Jul-19,11:09,Nickolas,YES,delivery,"2-Potato chips,1-Tomato and Garlic Risotto",0
+9,11-Oct-19,11:06,Gay,NO,delivery,"2-Fish 'n' chips,1-Chocolate Mousse",0
+2,04-Mar-20,16:26,Kelly,NO,delivery,"1-Garlic Bread,3-Chocolate Truffle Pastry",0
+1,04-Feb-20,11:24,Claudette,YES,take away,"2-Coke,3-Waffle with Strawberry",0
+1,02-Oct-19,13:43,Elliot,NO,delivery,"1-Fish 'n' chips,2-Fajita",0
+9,23-May-19,17:44,Meredith,YES,delivery,"1-Four Seasons Pizza,2-Butter Scotch ice cream",0
+4,25-Apr-19,13:35,rinki,NO,delivery,"2-Buttered popcorn,1-Waffle with Banana,3-Waffle with Strawberry",0
+2,18-Sep-19,10:42,Clare,YES,take away,"1-Banoffee Pie,1-Croissant",0
+5,04-May-19,10:36,Cyrus,YES,delivery,"1-Hummus,1-Blueberry Pastry",0
+3,27-Oct-19,16:00,Deepak,YES,delivery,"2-Chicken Cheeseburst Pizza,1-Chicken Ceasar Salad",0
+3,13-Sep-19,19:36,nancy,YES,delivery,"2-Idli Sambhar,3-Blueberry Pastry",0
+3,06-Jul-19,20:30,devika,YES,take away,"2-Idli Sambhar,3-Chicken Ceasar Salad",0
+3,26-Jan-20,12:12,megha,YES,delivery,"2-Crispy Chicken Master Burger,3-Smoked Chicken Salad",0
+2,07-Feb-20,15:03,Robbie,YES,delivery,"1-Chicken rice,1-Smoked Chicken Salad",0
+2,09-Jan-20,10:48,Eldred,YES,delivery,"1-Banoffee Pie,3-Croissant",0
+5,05-Feb-20,11:04,Waldo,NO,delivery,"1-Buttered popcorn,1-Tomato and Garlic Risotto,2-Fish 'n' chips",0
+5,19-Jun-19,13:53,pushpa,NO,delivery,"1-Fish 'n' chips,3-Hamburger,4-Coke",0
+7,07-Jul-19,17:37,Naina,YES,delivery,"1-Four Seasons Pizza,1-Waffle with Strawberry",0
+4,26-Jan-20,12:20,Verl,NO,delivery,"2-Chicken Cheeseburst Pizza,1-Chocolate Mousse",0
+3,21-Jun-19,17:13,Verlyn,YES,delivery,"1-Idli Sambhar,1-Donuts",0
+7,28-Nov-19,10:54,Ronny,YES,take away,"2-Chicken Burger,2-Croissant,3-Donuts",0
+3,28-Dec-19,10:47,Sid,YES,take away,"2-Potato chips,1-Chocolate Mousse",0
+1,06-Jan-20,12:21,Ginger,NO,delivery,"1-Hummus,1-Tomato and Garlic Risotto",0
+8,04-Feb-20,12:40,Hilton,NO,delivery,"2-Coke,1-Fajita",0
+1,03-Sep-19,15:03,Kaye,NO,delivery,"2-Chicken rice,2-Blueberry Pastry",0
+1,19-Feb-20,20:11,Merton,YES,delivery,"2-Four Seasons Pizza,2-Chicken Risotto",0
+5,13-Sep-19,16:01,Joyce,NO,delivery,"2-Banoffee Pie,1-Chicken Risotto",0
+10,22-Feb-20,12:44,Miller,NO,delivery,"2-Garlic Bread,2-Fajita",0
+4,07-Nov-19,20:56,Steven,YES,delivery,"1-Coke,3-Blueberry Pastry",0
+3,20-Mar-20,19:33,Gale,YES,delivery,"1-Hummus,2-Chicken Risotto",0
+9,30-Oct-19,14:21,Artis,YES,delivery,"2-Garlic Bread,3-Croissant,1-Chocolate Truffle Pastry",0
+3,06-Feb-20,18:51,Carleton,YES,delivery,"1-Crispy Chicken Master Burger,3-Donuts",0
+8,19-Oct-19,19:08,Arvid,YES,delivery,"2-Four Seasons Pizza,1-Blueberry Pastry,1-Chocolate Truffle Pastry",0
+2,25-Dec-19,14:37,Toby,YES,delivery,"1-Potato chips,3-Fajita",0
+1,20-Jul-19,18:48,Loy,NO,delivery,"1-Crispy Chicken Master Burger,2-Mushroom Pizza",0
+8,25-Dec-19,20:27,Sandy,YES,delivery,"1-Coke,2-Chocolate Truffle Pastry",0
+9,21-Apr-19,13:12,Oren,NO,delivery,"1-Banoffee Pie,1-Chicken Risotto",0
+8,25-Aug-19,20:33,Arvid,NO,delivery,"2-Buttered popcorn,1-Hamburger",0
+3,19-Sep-19,17:47,Palak,YES,delivery,"2-Crispy Chicken Master Burger,1-Hamburger",0
+5,20-Mar-20,10:43,rani,NO,delivery,"1-French toast,2-Chocolate Truffle Pastry,3-Donuts,1-Coke",0
+4,17-Jun-19,16:02,Bernice,YES,delivery,French toast,0
+10,03-May-19,15:17,Zane,NO,delivery,"2-Grilled Chicken Salad,1-Donuts",0
+3,22-May-19,14:51,Curtiss,YES,take away,Smoked Chicken Salad,0
+9,28-May-19,16:10,Lou,YES,delivery,Butter Scotch ice cream,0
+9,16-Feb-20,16:06,Ashish,NO,delivery,"1-Hummus,1-Chicken Risotto",0
+8,09-May-19,13:36,Rosetta,NO,delivery,"1-Crispy Chicken Burger,1-Chocolate Mousse",0
+9,01-May-19,17:34,Dillard,YES,delivery,"1-Crispy Chicken Burger,1-Butter Scotch ice cream",0
+7,12-Jan-20,21:10,Derek,YES,delivery,"2-Buttered popcorn,3-Hamburger",0
+1,16-Aug-19,17:06,Marland,NO,delivery,"1-Coke,2-Chicken Risotto",0
+5,09-May-19,12:48,pushpa,NO,delivery,"1-Hummus,2-Donuts",0
+2,05-Aug-19,20:12,Verlin,YES,delivery,"2-Idli Sambhar,3-Mushroom Risotto",0
+6,01-May-19,16:59,anandi,YES,delivery,"1-Buttered popcorn,1-Donuts",0
+6,27-Nov-19,18:29,John,YES,take away,"2-Chicken rice,3-Donuts",0
+5,26-Jan-20,17:15,Willian,NO,delivery,"2-Four Seasons Pizza,2-Chocolate Mousse",0
+2,24-Aug-19,21:28,Mia,YES,delivery,"2-Chicken Burger,1-Waffle with Banana",0
+1,01-Sep-19,12:18,Alicia,YES,delivery,"2-Garlic Bread,2-Tomato and Garlic Risotto",0
+5,01-Jan-20,11:22,Agustin,YES,take away,"2-Hummus,8-Chocolate Shake",0
+4,15-Oct-19,17:32,Stanton,YES,delivery,"2-Coke,1-Smoked Chicken Salad",0
+6,12-May-19,13:35,Melba,YES,delivery,"2-Chicken Burger,1-Waffle with Banana",0
+4,16-Nov-19,14:30,rekha,NO,delivery,"2-Fish 'n' chips,2-Mushroom Pizza",0
+2,23-Oct-19,18:34,anjali,YES,delivery,"1-Coke,1-Butter Scotch ice cream",0
+9,21-Jun-19,11:17,Nicolas,YES,delivery,"1-Coke,2-Hamburger",0
+7,16-Mar-20,12:23,Mahlon,YES,delivery,"1-French toast,2-Hamburger",0
+10,18-May-19,10:32,George,NO,delivery,"1-French toast,1-Mushroom Risotto",0
+2,03-Jun-19,10:57,Ashish,YES,delivery,"1-Crispy Chicken Master Burger,1-Blueberry Pastry,1-Chocolate Truffle Pastry",0
+6,24-May-19,17:59,nisha,YES,delivery,"2-Crispy Chicken Master Burger,1-Chocolate Mousse",0
+2,04-Oct-19,12:59,sarita,YES,delivery,2-Banoffee Pie,0
+6,15-Dec-19,15:43,Dello,NO,delivery,"2-Masala dosa,2-Donuts",0
+1,27-Aug-19,10:55,Dominque,YES,delivery,"2-Fish 'n' chips,1-Mushroom Pizza",0
+8,14-Oct-19,16:20,Walker,NO,delivery,"1-Banoffee Pie,2-Chicken Ceasar Salad",0
+3,15-Apr-19,13:24,Norton,NO,delivery,"2-Crispy Chicken Burger,1-Chocolate Mousse",0
+5,02-Jan-20,10:13,Melanie,YES,take away,"2-Coke,2-Chicken Ceasar Salad",0
+10,23-Mar-20,11:43,Jonnie,YES,delivery,"1-Buttered popcorn,3-Chicken Risotto",0
+6,24-Aug-19,16:00,Alejandro,YES,delivery,"2-Banoffee Pie,1-Mushroom Risotto",0
+4,09-Mar-20,19:09,Mark,NO,delivery,"1-Chicken Burger,1-Croissant",0
+10,14-Mar-20,14:29,Myrna,YES,delivery,"1-Idli Sambhar,2-Waffle with Banana",0
+1,29-Jan-20,19:03,Bryce,NO,delivery,"2-Chicken Cheeseburst Pizza,3-Mushroom Pizza",0
+6,06-Dec-19,17:52,Lucy,NO,delivery,"1-Banoffee Pie,1-Donuts",0
+8,27-May-19,10:36,Santo,YES,delivery,"1-Masala dosa,3-Mushroom Pizza",0
+8,19-Dec-19,14:56,Pam,NO,delivery,"2-Fish 'n' chips,3-Chicken Ceasar Salad",0
+8,06-May-19,11:07,Darold,YES,take away,"2-Potato chips,1-Mushroom Pizza",0
+2,13-Sep-19,20:12,Terrell,YES,delivery,Hamburger,0
+8,29-Apr-19,18:27,Curtiss,YES,delivery,"1-Hummus,3-Waffle with Strawberry",0
+1,21-Jan-20,21:02,Margaret,NO,delivery,"1-Buttered popcorn,2-Chocolate Mousse",0
+2,20-May-19,17:42,varsha,YES,delivery,"1-Masala dosa,1-Mushroom Pizza",0
+8,27-Feb-20,21:34,Bart,YES,delivery,"2-Crispy Chicken Burger,1-Fajita",0
+4,04-Jun-19,12:46,Glendon,YES,delivery,"2-Fish 'n' chips,2-Chocolate Shake",0
+8,13-Aug-19,16:56,Margarito,YES,delivery,"1-Garlic Bread,1-Mushroom Risotto",0
+1,30-Nov-19,18:11,laxmi,YES,delivery,"2-Banoffee Pie,2-Mushroom Pizza",0
+5,05-Apr-19,15:09,Judi,YES,delivery,"2-Hummus,2-Chicken Risotto",0
+3,26-Apr-19,15:57,Colin,NO,delivery,"1-Hummus,1-Waffle with Banana",0
+8,06-Nov-19,10:56,Hayward,YES,delivery,Buttered popcorn,0
+4,16-Feb-20,13:23,Dillard,NO,delivery,"1-Crispy Chicken Master Burger,2-Hamburger",0
+8,04-Nov-19,20:37,Sebastian,YES,take away,"1-Chicken rice,3-Butter Scotch ice cream,2-Buttered popcorn",0
+8,15-Mar-20,18:26,Loyal,YES,take away,"1-Chicken rice,3-Hamburger",0
+8,18-Oct-19,10:43,David,YES,delivery,"1-Garlic Bread,1-Chocolate Truffle Pastry,1-Coke",0
+8,21-Mar-20,15:47,Judi,YES,take away,"1-Crispy Chicken Burger,1-Fajita",0
+8,09-Oct-19,10:31,Cheri,YES,take away,Chicken Cheeseburst Pizza,0
+1,05-Jun-19,17:50,shikha,NO,delivery,"2-Crispy Chicken Master Burger,2-Chocolate Shake",0
+10,11-Nov-19,12:49,Artis,NO,delivery,"2-Idli Sambhar,3-Mushroom Pizza",0
+6,08-Mar-20,11:09,Jerry,YES,take away,"2-Four Seasons Pizza,3-Butter Scotch ice cream",0
+1,29-Jan-20,19:24,Gertrude,NO,take away,"2-French toast,2-Donuts",0
+2,04-Jan-20,19:59,Deane,NO,delivery,"1-Garlic Bread,3-Chocolate Shake",0
+10,29-Sep-19,12:25,Von,YES,delivery,"1-Grilled Chicken Salad,2-Butter Scotch ice cream",0
+9,04-Oct-19,18:49,Glynn,YES,take away,"1-Fish 'n' chips,2-Hamburger",0
+3,14-May-19,20:13,Dexter,NO,delivery,"1-Chicken rice,3-Mushroom Pizza",0
+7,06-May-19,10:17,Cloyd,YES,delivery,"1-Chicken Burger,3-Chocolate Mousse",0
+4,21-Dec-19,11:22,shahin,YES,take away,"2-Chicken Burger,2-Mushroom Pizza,2-Buttered popcorn",0
+4,31-Aug-19,19:27,Katie,YES,delivery,Donuts,0
+9,27-Mar-20,16:45,monika,NO,delivery,"2-Masala dosa,3-Waffle with Banana",0
+9,22-Mar-20,12:08,Judson,NO,delivery,"2-Potato chips,1-Tomato and Garlic Risotto",0
+1,16-Aug-19,14:51,Wayland,NO,delivery,"1-Fish 'n' chips,2-Mushroom Risotto",0
+5,21-Jul-19,19:33,naziya,NO,delivery,"2-Coke,3-Blueberry Pastry",0
+2,30-Nov-19,21:00,Granville,NO,delivery,"2-Hummus,3-Chicken Ceasar Salad",0
+8,06-Apr-19,10:20,Quinton,NO,delivery,"1-Fish 'n' chips,1-Smoked Chicken Salad,3-Donuts,3-Coke",0
+7,26-Feb-20,13:58,Taylor,YES,delivery,"2-French toast,2-Mushroom Pizza",0
+1,02-Oct-19,21:12,nirma,YES,take away,"2-Chicken rice,3-Chicken Risotto",0
+7,25-Sep-19,13:50,Rosalind,NO,take away,4-Masala dosa,0
+7,16-Dec-19,13:17,Duwayne,NO,delivery,"2-French toast,2-Chicken Risotto",0
+3,29-Sep-19,13:26,Murphy,YES,take away,"2-Chicken Burger,1-Chocolate Mousse",0
+1,23-Mar-20,19:47,Ruth,YES,take away,"1-Crispy Chicken Master Burger,3-Fajita",0
+1,27-Mar-20,15:33,shahin,NO,delivery,"2-Idli Sambhar,2-Chicken Ceasar Salad",0
+4,14-Jun-19,19:06,Gertrude,YES,delivery,"1-Chicken Burger,3-Chocolate Shake",0
+7,28-Nov-19,18:56,Jonas,YES,delivery,"1-French toast,3-Chocolate Mousse",0
+1,02-Apr-19,21:14,Rubin,YES,delivery,"2-Grilled Chicken Salad,2-Smoked Chicken Salad,1-Coke",0
+3,04-Nov-19,14:41,Oren,NO,delivery,"2-Grilled Chicken Salad,3-Mushroom Pizza",0
+10,08-Feb-20,17:49,Israel,YES,delivery,"2-Garlic Bread,1-Chicken Risotto",0
+3,09-Oct-19,14:57,Merton,NO,delivery,"2-Four Seasons Pizza,2-Hamburger",0
+1,11-Nov-19,20:34,Adolphus,NO,delivery,"1-Fish 'n' chips,1-Donuts",0
+1,11-Apr-19,18:50,Delton,YES,delivery,"1-Chicken rice,3-Chocolate Truffle Pastry,2-Butter Scotch ice cream",0
+2,05-May-19,12:03,Lucious,YES,take away,"2-French toast,3-Smoked Chicken Salad",0
+9,04-Nov-19,19:01,Clovis,YES,delivery,"1-Garlic Bread,1-Hamburger",0
+6,26-Feb-20,12:29,Clem,NO,delivery,"1-Idli Sambhar,2-Tomato and Garlic Risotto",0
+9,18-Apr-19,20:56,Dwaine,YES,delivery,Chocolate Mousse,0
+5,02-Jun-19,18:26,Nicolas,YES,delivery,"1-Fish 'n' chips,3-Croissant",0
+4,29-Jun-19,17:12,Gerold,YES,delivery,"2-French toast,1-Croissant",0
+,,,,,,,
+9,10-Jul-19,20:18,Eldridge,YES,take away,Croissant,0
+9,04-Feb-20,17:07,dipanshi,YES,delivery,"2-Garlic Bread,2-Butter Scotch ice cream",0
+9,11-Jun-19,20:57,Oneal,NO,delivery,"1-Crispy Chicken Master Burger,3-Waffle with Strawberry",0
+6,19-Nov-19,13:48,Dominque,NO,delivery,"2-French toast,3-Chicken Ceasar Salad",0
+1,19-Nov-19,21:27,Eula,NO,delivery,"1-French toast,5-Fajita",0
+6,21-Jun-19,10:24,Bart,YES,delivery,"1-Crispy Chicken Burger,2-Tomato and Garlic Risotto",0
+6,27-Jun-19,17:26,kajal,NO,delivery,"1-Potato chips,3-Waffle with Banana",0
+3,18-Jul-19,12:34,Robbie,YES,take away,"2-Hummus,2-Fajita",0
+,,,,,,,
+3,16-Sep-19,17:00,Durwood,YES,delivery,Masala dosa,0
+9,07-Jan-20,15:48,aashma,YES,take away,"2-Buttered popcorn,1-Mushroom Pizza",0
+3,13-Nov-19,14:19,Dwaine,NO,delivery,"2-Fish 'n' chips,3-Waffle with Strawberry",0
+6,11-Jul-19,15:46,devika,YES,delivery,"1-Fish 'n' chips,3-Chocolate Truffle Pastry",0
+6,08-May-19,11:21,John,YES,take away,Hummus,0
+5,10-Jun-19,15:27,Beryl,YES,delivery,"2-Four Seasons Pizza,3-Donuts,1-Crispy Chicken Master Burger",0
+6,28-Feb-20,20:10,pooja,YES,delivery,"2-Potato chips,2-Chocolate Shake",0
+8,27-Sep-19,14:58,Arlyn,NO,delivery,Four Seasons Pizza,0
+6,17-Aug-19,10:14,Andre,YES,delivery,"2-Chicken Burger,3-Chocolate Shake",0
+9,02-Jun-19,13:40,Ora,NO,delivery,"1-Masala dosa,3-Chicken Ceasar Salad",0
+2,26-Jan-20,20:28,Debra,NO,delivery,"2-Coke,1-Mushroom Pizza",0
+7,21-Apr-19,20:46,Eloy,NO,delivery,"1-French toast,2-Tomato and Garlic Risotto",0
+8,11-May-19,13:54,Joanna,YES,delivery,"1-Potato chips,3-Croissant",0
+8,14-Aug-19,17:49,Audrey,YES,delivery,"1-Crispy Chicken Master Burger,5-Chicken Risotto,1-Chocolate Truffle Pastry",0
+9,13-Oct-19,13:43,April,YES,delivery,"2-Garlic Bread,2-Tomato and Garlic Risotto",0
+6,27-Nov-19,19:55,Edd,YES,delivery,"1-Fish 'n' chips,1-Fajita",0
+7,03-Jul-19,19:50,Garfield,YES,take away,"2-Idli Sambhar,2-Croissant",0
+,,,,,,,
+6,26-Apr-19,17:45,Brady,NO,delivery,"1-Chicken rice,3-Chocolate Truffle Pastry",0
+2,22-Dec-19,11:29,Colin,YES,delivery,"1-Idli Sambhar,3-Fajita",0
+4,04-Sep-19,19:19,madhuri,YES,delivery,"1-Chicken rice,2-Smoked Chicken Salad",0
+5,02-Dec-19,16:16,Jordan,YES,delivery,"2-Garlic Bread,1-Waffle with Strawberry",0
+3,07-Sep-19,17:30,radha,NO,delivery,"1-Coke,1-Waffle with Banana,3-Donuts,2-Coke",0
+1,09-Apr-19,20:51,Benton,NO,delivery,"2-Buttered popcorn,1-Chocolate Truffle Pastry",0
+3,03-Sep-19,17:48,Hope,NO,delivery,Crispy Chicken Burger,0
+9,28-Feb-20,21:40,Sydney,YES,delivery,"1-Coke,3-Chicken Risotto",0
+6,30-Mar-20,15:06,Mitchel,YES,delivery,"1-Chicken Burger,1-Waffle with Strawberry",0
+3,05-Sep-19,12:48,Theadore,YES,delivery,"2-Buttered popcorn,2-Mushroom Risotto",0
+4,01-Apr-19,17:33,Logan,NO,delivery,"2-Coke,1-Croissant",0
+6,25-May-19,12:17,sapna,YES,delivery,"2-French toast,2-Waffle with Banana",0
+6,14-Dec-19,14:09,Rambo,YES,delivery,"2-Chicken Cheeseburst Pizza,6-Chocolate Mousse",0
+10,02-Mar-20,15:43,Norwood,NO,delivery,"2-Masala dosa,1-Mushroom Risotto",0
+4,27-Mar-20,15:06,mamta,YES,take away,"1-Four Seasons Pizza,2-Blueberry Pastry",0
+6,17-Nov-19,20:05,Loran,YES,delivery,"1-Buttered popcorn,3-Mushroom Pizza",0
+8,14-Mar-20,10:51,Rubin,YES,delivery,"4-French toast,2-Waffle with Banana,4-Buttered popcorn",0
+8,14-Jul-19,15:19,Rena,NO,delivery,"1-Coke,3-Tomato and Garlic Risotto",0
+1,21-Mar-20,12:44,Muriel,YES,take away,"2-Crispy Chicken Burger,2-Mushroom Pizza",0
+9,08-Apr-19,11:36,Carlo,YES,delivery,"1-Chicken Cheeseburst Pizza,2-Donuts",0
+9,21-Sep-19,18:13,Earnestine,NO,delivery,"2-Four Seasons Pizza,1-Chocolate Shake,2-Butter Scotch ice cream",0
+9,30-Nov-19,16:23,Jennings,NO,delivery,"2-Chicken Cheeseburst Pizza,3-Chicken Ceasar Salad",0
+3,24-Sep-19,10:40,Vicky,NO,delivery,"2-Potato chips,2-Hamburger",0
+3,26-Oct-19,11:45,Mckinley,YES,delivery,"1-Idli Sambhar,3-Mushroom Pizza",0
+4,13-Sep-19,10:21,Eunice,NO,delivery,"2-Crispy Chicken Burger,6-Hamburger",0
+5,14-Mar-20,10:55,Ruby,NO,delivery,"2-Idli Sambhar,3-Smoked Chicken Salad",0
+2,11-May-19,13:38,radha,YES,delivery,"1-Idli Sambhar,3-Chicken Risotto",0
+8,24-Jan-20,20:03,Sam,YES,delivery,"2-Chicken Burger,1-Waffle with Banana",0
+10,29-Jul-19,16:53,sunita,NO,delivery,"2-Coke,2-Fajita",0
+3,04-Jul-19,17:44,Aurelio,YES,delivery,"2-Chicken rice,2-Hamburger",0
+3,10-Oct-19,16:24,Benedict,NO,delivery,"2-Chicken Burger,1-Donuts",0
+5,15-Nov-19,18:18,aarti,YES,take away,"1-Chicken Cheeseburst Pizza,3-Blueberry Pastry",0
+7,16-Apr-19,15:02,Rohan,YES,take away,"1-Chicken Cheeseburst Pizza,2-Smoked Chicken Salad,4-Coke",0
+2,18-Mar-20,15:52,suhagini,NO,delivery,"2-Banoffee Pie,1-Chicken Ceasar Salad",0
+6,18-Feb-20,13:42,Rupert,YES,take away,"1-Hummus,1-Chocolate Shake",0
+9,03-Dec-19,20:23,Lucinda,YES,delivery,"1-Four Seasons Pizza,1-Waffle with Strawberry",0
+1,18-Jul-19,19:14,Katie,NO,delivery,"2-Chicken rice,3-Chicken Risotto",0
+2,12-Jun-19,19:12,Gustav,YES,delivery,"1-Idli Sambhar,1-Chocolate Mousse",0
+8,12-Jul-19,10:22,baby,YES,delivery,"1-Chicken Cheeseburst Pizza,2-Chocolate Mousse",0
+6,30-Dec-19,14:18,dali,YES,take away,"2-Chicken Cheeseburst Pizza,1-Blueberry Pastry",0
+2,01-May-19,21:04,Alicia,YES,delivery,"2-Chicken Cheeseburst Pizza,1-Tomato and Garlic Risotto",0
+6,31-Oct-19,20:35,Cleve,NO,delivery,"2-Potato chips,1-Mushroom Pizza",0
+1,14-Sep-19,15:56,Ike,NO,take away,1-Idli Sambhar,0
+1,12-Oct-19,11:30,Emmitt,NO,delivery,"2-Chicken Burger,2-Fajita",0
+2,11-Oct-19,11:49,Elwin,YES,delivery,"2-Idli Sambhar,1-Donuts",0
+7,05-Jan-20,21:59,Melody,NO,delivery,"1-Masala dosa,2-Butter Scotch ice cream",0
+6,27-Mar-20,21:26,sheetal,YES,delivery,"1-Idli Sambhar,3-Chicken Ceasar Salad",0
+1,17-Feb-20,18:29,Eloy,NO,delivery,"1-Masala dosa,3-Donuts",0
+6,20-Nov-19,16:55,Jerry,YES,delivery,"1-Chicken Cheeseburst Pizza,2-Blueberry Pastry",0
+2,03-Apr-19,17:55,Sadie,YES,delivery,Buttered popcorn,0
+7,17-Jun-19,15:17,Donal,YES,delivery,"2-Grilled Chicken Salad,3-Chocolate Shake",0
+6,07-Sep-19,14:53,Judge,YES,delivery,"2-Crispy Chicken Master Burger,2-Chocolate Truffle Pastry",0
+5,08-Jun-19,11:52,Kurt,NO,delivery,"1-Crispy Chicken Burger,3-Croissant",0
+9,17-Oct-19,16:40,shanti,YES,delivery,"1-Chicken Cheeseburst Pizza,2-Tomato and Garlic Risotto",0
+7,14-Jun-19,13:00,Felton,NO,delivery,"2-Garlic Bread,2-Chocolate Shake",0
+3,15-Aug-19,13:04,shalu,NO,delivery,"1-French toast,3-Chicken Ceasar Salad",0
+2,10-Oct-19,15:50,Judson,YES,take away,"2-Chicken rice,3-Mushroom Risotto",0
+6,31-Oct-19,13:42,Sebastian,YES,delivery,"1-Chicken Cheeseburst Pizza,2-Chocolate Truffle Pastry",0
+6,06-Jun-19,10:52,neha,YES,delivery,"1-Chicken rice,2-Croissant",0
+2,11-May-19,11:26,Lauren,YES,delivery,"1-Grilled Chicken Salad,1-Mushroom Pizza",0
+8,04-Dec-19,20:20,Earnestine,YES,delivery,"2-Crispy Chicken Master Burger,2-Smoked Chicken Salad",0
+6,24-Feb-20,21:36,Aron,NO,delivery,"2-Chicken rice,1-Tomato and Garlic Risotto",0
+4,06-Nov-19,12:41,Matt,NO,delivery,"2-Coke,2-Smoked Chicken Salad",0
+6,10-Feb-20,12:38,Blair,YES,delivery,"2-Chicken rice,1-Mushroom Risotto",0
+1,20-Jun-19,12:06,Mose,YES,delivery,"2-Chicken Cheeseburst Pizza,2-Tomato and Garlic Risotto",0
+3,28-Feb-20,14:25,Winfield,NO,delivery,"1-Fish 'n' chips,2-Waffle with Banana",0
+4,17-Apr-19,12:40,Alvie,YES,take away,"2-Chicken rice,2-Blueberry Pastry",0
+5,15-Oct-19,11:03,Santos,NO,delivery,"1-Masala dosa,3-Chocolate Mousse",0
+3,09-Jan-20,17:29,Shelby,NO,delivery,"1-Masala dosa,1-Blueberry Pastry",0
+5,21-Jul-19,19:57,Arlan,YES,take away,"1-Four Seasons Pizza,2-Tomato and Garlic Risotto",0
+8,11-Feb-20,14:15,saloni,NO,delivery,"2-Fish 'n' chips,1-Smoked Chicken Salad",0
+1,04-Jul-19,21:32,Sondra,YES,delivery,"2-Crispy Chicken Burger,2-Fajita",0
+1,23-Feb-20,12:11,Rhonda,NO,delivery,"2-Crispy Chicken Burger,3-Chicken Risotto,3-Waffle with Strawberry",0
+2,15-Apr-19,13:34,Theo,YES,delivery,Smoked Chicken Salad,0
+1,22-Aug-19,11:04,Wally,NO,delivery,"2-Four Seasons Pizza,2-Chocolate Truffle Pastry,2-Fish 'n' chips",0
+10,20-Jan-20,11:41,Art,NO,delivery,4-Four Seasons Pizza,0
+2,09-Aug-19,11:53,Helene,NO,delivery,"1-Coke,3-Hamburger",0
+3,18-Sep-19,20:16,Nelson,YES,take away,"2-Grilled Chicken Salad,3-Chicken Ceasar Salad",0
+6,11-Sep-19,14:49,Sonja,YES,take away,"2-Crispy Chicken Master Burger,3-Waffle with Banana",0
+5,07-Dec-19,14:15,Ambrose,NO,delivery,"1-Buttered popcorn,1-Chocolate Mousse",0
+4,19-Jan-20,14:53,General,YES,delivery,"1-Buttered popcorn,3-Fajita",0
+2,20-Jul-19,21:10,lovely,YES,delivery,"1-Chicken Cheeseburst Pizza,2-Smoked Chicken Salad",0
+2,04-Jan-20,21:43,Terrell,NO,delivery,"1-French toast,1-Waffle with Banana",0
+3,05-Oct-19,17:12,Arlyn,YES,take away,"2-Chicken Cheeseburst Pizza,2-Waffle with Strawberry",0
+8,14-Dec-19,21:51,Howell,YES,delivery,"2-Idli Sambhar,2-Donuts",0
+5,14-Feb-20,19:31,smt.,NO,delivery,"2-Garlic Bread,3-Waffle with Banana",0
+6,18-May-19,10:47,Adrienne,YES,delivery,"2-Coke,3-Croissant",0
+6,17-Apr-19,16:23,Audrey,YES,delivery,"1-Grilled Chicken Salad,3-Chicken Ceasar Salad",0
+4,25-Apr-19,14:41,Raphael,YES,take away,"1-Chicken rice,4-Chicken Risotto",0
+5,08-Apr-19,14:21,dali,YES,delivery,"2-Potato chips,3-Croissant",0
+1,22-May-19,17:04,Wally,NO,delivery,"2-Grilled Chicken Salad,2-Chocolate Shake",0
+2,29-Dec-19,18:49,Bertrand,NO,delivery,"1-Buttered popcorn,1-Blueberry Pastry",0
+6,05-Dec-19,14:04,Arvil,YES,delivery,"2-Four Seasons Pizza,2-Tomato and Garlic Risotto",0
+5,19-Jan-20,21:34,Lindsey,NO,delivery,"2-Garlic Bread,2-Fajita",0
+5,28-Mar-20,18:49,sapna,NO,delivery,"2-French toast,3-Fajita",0
+6,23-Apr-19,12:29,Cornell,YES,take away,"1-Hummus,3-Mushroom Risotto",0
+1,27-Nov-19,10:13,Arlin,YES,delivery,"5-Crispy Chicken Burger,3-Butter Scotch ice cream",0
+3,30-Jul-19,15:21,Grace,YES,delivery,"2-French toast,3-Fajita",0
+5,16-Sep-19,20:40,Art,NO,delivery,"2-Buttered popcorn,1-Tomato and Garlic Risotto,1-Chocolate Truffle Pastry",0
+3,11-Nov-19,11:38,Fannie,YES,delivery,"4-Masala dosa,2-Blueberry Pastry",0
+5,27-Sep-19,17:49,Sonja,NO,delivery,"1-Chicken Burger,1-Butter Scotch ice cream",0
+2,01-Jan-20,12:45,reena,NO,delivery,"2-Potato chips,2-Waffle with Banana,1-Coke",0
+2,18-May-19,14:33,Gonzalo,NO,delivery,"1-Potato chips,3-Chocolate Truffle Pastry",0
+7,11-Jun-19,10:57,Ahmed,YES,delivery,"2-Masala dosa,3-Chocolate Truffle Pastry",0
+3,03-Dec-19,16:03,Nadine,NO,delivery,"1-Hummus,1-Blueberry Pastry",0
+1,11-Sep-19,10:16,Art,YES,delivery,"2-Four Seasons Pizza,3-Mushroom Risotto",0
+3,28-Jul-19,17:41,Kathie,YES,take away,"2-Four Seasons Pizza,1-Croissant",0
+1,12-Feb-20,12:38,rubi,NO,delivery,"4-Crispy Chicken Burger,3-Chicken Risotto,2-Buttered popcorn",0
+1,09-Aug-19,12:16,Omar,YES,delivery,"2-Chicken rice,2-Butter Scotch ice cream",0
+2,25-Jun-19,15:27,Lorna,YES,delivery,"1-Masala dosa,3-Tomato and Garlic Risotto",0
+6,20-Feb-20,18:56,Ferdinand,NO,delivery,"1-Buttered popcorn,2-Fajita",0
+4,25-May-19,10:54,Darla,YES,delivery,"2-Buttered popcorn,2-Mushroom Pizza",0
+9,15-Apr-19,17:30,Theadore,NO,delivery,"2-Potato chips,2-Croissant",0
+2,30-Sep-19,14:17,smt.,NO,delivery,"2-Chicken Cheeseburst Pizza,1-Chocolate Mousse",0
+9,14-Jan-20,18:41,Lafayette,YES,delivery,"1-French toast,1-Waffle with Banana",0
+9,31-Oct-19,17:18,Eddy,YES,delivery,"1-Banoffee Pie,3-Chocolate Shake",0
+8,17-Nov-19,12:42,Junius,YES,take away,"1-Chicken Burger,1-Waffle with Banana",0
+10,01-Jun-19,11:17,Matt,YES,delivery,"2-Fish 'n' chips,3-Mushroom Pizza",0
+1,23-Jan-20,20:09,April,YES,delivery,"2-Chicken Burger,1-Smoked Chicken Salad",0
+5,17-Jun-19,20:55,Walker,NO,delivery,"2-Crispy Chicken Master Burger,1-Chicken Ceasar Salad,2-Fish 'n' chips",0
+7,27-Aug-19,15:40,Jayne,YES,delivery,"1-Coke,2-Chocolate Shake",0
+4,18-Jun-19,12:28,Lucy,NO,take away,1-Waffle with Strawberry,0
+6,22-Jul-19,16:57,Ottis,YES,delivery,Coke,0
+8,19-May-19,13:48,Diann,YES,delivery,"1-Chicken Burger,2-Croissant",0
+1,19-May-19,18:55,Stan,NO,delivery,"1-Grilled Chicken Salad,1-Waffle with Banana",0
+9,02-Sep-19,16:11,reena,YES,delivery,"2-Grilled Chicken Salad,1-Hamburger",0
+2,25-Feb-20,12:13,Rosalind,YES,delivery,"2-French toast,1-Hamburger",0
+4,05-Oct-19,13:25,Casimir,YES,delivery,"1-Buttered popcorn,1-Chocolate Truffle Pastry",0
+3,17-Nov-19,21:34,Garth,YES,delivery,"1-Idli Sambhar,1-Chocolate Truffle Pastry",0
+6,03-Jun-19,14:29,Celia,YES,delivery,1-Tomato and Garlic Risotto,0
+2,03-Jan-20,19:10,Cloyd,YES,take away,"1-Potato chips,2-Donuts",0
+10,10-Jan-20,18:54,Amit,NO,delivery,"2-Idli Sambhar,3-Mushroom Risotto",0
+6,17-Jul-19,13:21,Guillermo,YES,delivery,"1-Banoffee Pie,1-Waffle with Banana",0
+2,14-Dec-19,11:29,priyanka,NO,delivery,"1-Chicken Burger,3-Donuts",0
+10,13-May-19,16:23,Early,YES,delivery,"2-Garlic Bread,2-Mushroom Pizza",0
+2,08-Apr-19,19:54,Jewell,YES,delivery,"2-Garlic Bread,3-Blueberry Pastry",0
+5,14-Aug-19,11:05,Priya,YES,delivery,"2-Garlic Bread,1-Mushroom Pizza",0
+6,12-Apr-19,21:07,Daisy,YES,delivery,2-French toast,0
+6,16-Jun-19,12:02,Lila,NO,delivery,"1-Hummus,2-Waffle with Strawberry",0
+6,01-Aug-19,10:27,Palak,NO,delivery,"2-French toast,1-Waffle with Strawberry",0
+10,18-Jun-19,14:54,Verl,YES,delivery,Chicken rice,0
+8,31-Aug-19,21:41,suman,YES,delivery,"1-Fish 'n' chips,2-Fajita",0
+2,10-Feb-20,21:36,Vicky,YES,take away,Banoffee Pie,0
+7,13-Nov-19,18:59,Beryl,YES,take away,"1-French toast,1-Fajita",0
+6,31-Jul-19,13:53,Monica,YES,take away,"1-Four Seasons Pizza,3-Blueberry Pastry",0
+6,29-Mar-20,14:28,Cruz,NO,delivery,"2-Coke,1-Waffle with Strawberry",0
+4,31-May-19,17:04,Ottis,YES,delivery,"2-Fish 'n' chips,1-Chocolate Shake",0
+6,16-May-19,16:30,Gerold,YES,delivery,2-Coke,0
+1,03-Apr-19,13:44,William,NO,delivery,"1-Buttered popcorn,1-Mushroom Risotto",0
+1,14-Apr-19,20:25,Wardell,NO,delivery,"1-Chicken Burger,2-Butter Scotch ice cream",0
+3,21-Mar-20,13:57,Jordan,YES,take away,"2-Hummus,2-Donuts",0
+4,02-Apr-19,16:42,Pam,YES,take away,"1-Buttered popcorn,2-Smoked Chicken Salad",0
+4,12-Jun-19,10:14,Dillard,NO,delivery,"2-Potato chips,3-Mushroom Pizza",0
+6,17-Apr-19,16:04,Granville,YES,take away,"1-Buttered popcorn,2-Hamburger",0
+5,14-Apr-19,17:53,Mac,YES,delivery,"1-Fish 'n' chips,2-Fajita",0
+10,21-Jun-19,18:39,Rolf,NO,delivery,"1-Chicken Cheeseburst Pizza,2-Butter Scotch ice cream",0
+6,05-Jan-20,21:40,Margarito,YES,delivery,"2-Banoffee Pie,1-Mushroom Risotto",0
+5,12-Apr-19,11:44,Della,YES,delivery,"2-Crispy Chicken Burger,3-Butter Scotch ice cream,2-Butter Scotch ice cream",0
+6,19-Nov-19,20:09,Durward,YES,delivery,"1-French toast,1-Waffle with Banana,2-Butter Scotch ice cream",0
+6,24-Mar-20,20:25,Edsel,YES,delivery,"1-Chicken Cheeseburst Pizza,1-Donuts,2-Butter Scotch ice cream",0
+6,19-Feb-20,14:05,Rishabh,NO,delivery,"2-Masala dosa,3-Blueberry Pastry,3-Waffle with Strawberry",0
+2,29-Jun-19,14:00,Arvil,YES,delivery,"2-Garlic Bread,3-Tomato and Garlic Risotto,1-Chocolate Truffle Pastry",0
+10,02-Aug-19,17:36,Arlan,NO,delivery,"1-Chicken Burger,2-Croissant",0
+4,20-Jan-20,18:15,Hardy,NO,delivery,"2-Banoffee Pie,1-Smoked Chicken Salad",0
+6,03-Jul-19,13:22,Cliff,YES,delivery,"2-Buttered popcorn,2-Fajita",0
+6,31-Aug-19,17:16,soni,YES,delivery,"1-Banoffee Pie,3-Chicken Risotto",0
+4,20-Feb-20,13:56,Buck,NO,delivery,"2-Buttered popcorn,3-Blueberry Pastry",0
+9,16-Mar-20,16:37,Melba,NO,delivery,"2-Crispy Chicken Master Burger,2-Chicken Ceasar Salad",0
+6,06-Nov-19,12:44,Duwayne,YES,delivery,"2-Idli Sambhar,3-Chocolate Mousse,2-Butter Scotch ice cream",0
+1,09-Apr-19,13:50,Ron,YES,delivery,"1-Chicken Burger,3-Waffle with Banana",0
+6,18-Jan-20,15:43,Edsel,YES,delivery,"2-Hummus,2-Mushroom Pizza",0
+8,26-Jun-19,14:48,Ashish,NO,delivery,"2-Chicken Burger,2-Fajita",0
+2,31-Aug-19,15:53,Darold,YES,delivery,"2-Potato chips,2-Butter Scotch ice cream",0
+2,26-Jan-20,19:51,Palmer,NO,delivery,"2-French toast,3-Smoked Chicken Salad",0
+10,03-Jul-19,21:55,Ivory,NO,delivery,"1-Banoffee Pie,1-Chocolate Mousse",0
+7,22-Sep-19,14:54,Norton,NO,delivery,"2-Grilled Chicken Salad,1-Tomato and Garlic Risotto",0
+6,26-Nov-19,13:12,Eddy,YES,delivery,"1-Idli Sambhar,1-Hamburger",0
+6,23-Oct-19,13:57,Valentine,YES,take away,"1-Coke,2-Fajita,2-Buttered popcorn",0
+6,04-May-19,19:23,Duncan,YES,delivery,"2-Buttered popcorn,2-Chocolate Shake",0
+5,17-May-19,14:08,Frank,YES,delivery,"2-Chicken rice,1-Tomato and Garlic Risotto",0
+4,19-Oct-19,21:06,Elliot,YES,delivery,"2-Crispy Chicken Burger,3-Chocolate Mousse",0
+5,09-Apr-19,13:05,Della,NO,delivery,"1-Chicken Cheeseburst Pizza,2-Tomato and Garlic Risotto",0
+9,07-Feb-20,17:32,Diann,YES,delivery,2-Hummus,0
+3,28-May-19,10:24,Nishant,YES,delivery,"1-Coke,3-Donuts",0
+7,05-Mar-20,18:59,Alford,YES,delivery,"2-Hummus,2-Mushroom Risotto",0
+6,17-Apr-19,21:34,Miller,YES,delivery,"1-French toast,2-Butter Scotch ice cream",0
+4,28-Mar-20,16:04,Rhonda,NO,delivery,"2-Chicken Burger,2-Croissant",0
+3,11-Mar-20,14:42,Ruthie,YES,delivery,"2-Fish 'n' chips,1-Waffle with Banana",0
+4,12-Mar-20,15:55,Eldred,NO,delivery,"2-Chicken rice,1-Butter Scotch ice cream",0
+1,25-Jul-19,15:10,Fay,YES,take away,"4-Chicken Cheeseburst Pizza,4-Waffle with Banana",0
+6,13-Apr-19,16:12,Orrin,YES,delivery,"1-French toast,1-Smoked Chicken Salad",0
+6,29-Sep-19,15:41,Ruthie,NO,take away,"5-Buttered popcorn,2-Fajita",0
+5,25-Jan-20,14:38,Robbie,YES,take away,"1-Four Seasons Pizza,1-Chicken Risotto",0
+7,27-Aug-19,12:48,June,YES,delivery,"2-Chicken Burger,3-Croissant",0
+9,24-Jul-19,12:23,Sallie,YES,delivery,"2-Garlic Bread,3-Chocolate Truffle Pastry",0
+9,17-Oct-19,21:35,Daisy,YES,take away,Chocolate Truffle Pastry,0
+2,28-Apr-19,16:07,Ruby,NO,delivery,"1-Chicken Burger,1-Hamburger",0
+3,15-Mar-20,14:13,neeru,YES,delivery,"2-Fish 'n' chips,2-Hamburger",0
+6,09-May-19,21:09,Audrey,YES,delivery,"1-Banoffee Pie,3-Mushroom Risotto",0
+3,24-Sep-19,19:28,Jonnie,YES,delivery,"2-Crispy Chicken Master Burger,2-Waffle with Strawberry",0
+7,05-Apr-19,21:29,Cleon,NO,delivery,"2-Chicken Burger,3-Mushroom Risotto",0
+2,08-Jul-19,14:57,Chuck,YES,delivery,"1-Coke,2-Mushroom Pizza",0
+2,22-Apr-19,15:23,Val,NO,take away,1-Waffle with Strawberry,0
+3,17-Nov-19,11:14,Verne,YES,delivery,Chocolate Shake,0
+3,05-Jul-19,12:14,Fidel,YES,take away,Croissant,0
+4,24-Jun-19,10:33,Judge,YES,take away,"2-Masala dosa,3-Blueberry Pastry",0
+6,20-Apr-19,13:25,Gwen,NO,delivery,"1-Masala dosa,2-Chicken Risotto",0
+9,19-May-19,18:09,Eloy,NO,delivery,2-Four Seasons Pizza,0
+4,09-Nov-19,14:06,Bernice,YES,delivery,"2-Chicken Cheeseburst Pizza,2-Mushroom Risotto,1-Crispy Chicken Master Burger",0
+6,11-May-19,14:13,Denzil,YES,take away,"1-Coke,2-Chicken Risotto,2-Butter Scotch ice cream",0
+6,16-Nov-19,21:19,Ivory,YES,delivery,"1-Chicken Cheeseburst Pizza,3-Croissant",0
+4,21-Jun-19,21:25,Hayward,YES,delivery,"1-Coke,3-Croissant",0
+6,29-Jun-19,14:44,rinki,NO,delivery,"1-Buttered popcorn,1-Fajita",0
+3,23-Jan-20,20:45,Natalie,YES,delivery,"1-Banoffee Pie,1-Mushroom Pizza",0
+4,27-Mar-20,21:26,Garfield,YES,delivery,"1-Chicken Cheeseburst Pizza,3-Chocolate Shake",0
+9,02-Mar-20,16:20,Eloise,YES,delivery,"1-Banoffee Pie,3-Waffle with Banana,2-Butter Scotch ice cream",0
+2,23-Feb-20,18:07,suman,YES,delivery,"2-Banoffee Pie,2-Donuts",0
+7,01-Mar-20,11:21,nisha,NO,delivery,"2-Buttered popcorn,3-Hamburger",0
+6,21-Sep-19,20:33,Helen,YES,take away,"2-Four Seasons Pizza,3-Chocolate Truffle Pastry",0
+8,04-Sep-19,13:13,Noble,YES,delivery,"2-Potato chips,2-Chicken Ceasar Salad",0
+7,30-Oct-19,15:39,Eldridge,NO,delivery,"2-Hummus,1-Butter Scotch ice cream",0
+6,23-Oct-19,10:19,Paul,YES,take away,"1-Hummus,2-Blueberry Pastry",0
+6,14-Jan-20,18:08,Clare,YES,delivery,"1-Buttered popcorn,3-Waffle with Banana",0
+6,18-Aug-19,16:53,Joyce,YES,take away,"2-Idli Sambhar,1-Chocolate Shake",0
+2,21-Mar-20,16:27,Violet,YES,delivery,"2-Masala dosa,2-Chocolate Shake",0
+1,27-May-19,17:01,Clem,YES,delivery,"2-Four Seasons Pizza,1-Tomato and Garlic Risotto",0
+6,22-Feb-20,21:50,Hope,YES,delivery,"1-Banoffee Pie,2-Chicken Ceasar Salad",0
+6,09-Mar-20,10:11,Sid,YES,delivery,"2-Buttered popcorn,1-Croissant",0
+7,28-Dec-19,20:30,Verne,YES,delivery,"2-Idli Sambhar,2-Chocolate Shake",0
+6,18-Mar-20,21:02,kiran,YES,delivery,"2-Banoffee Pie,1-Chicken Ceasar Salad",0
+7,10-Sep-19,14:14,Joaquin,NO,delivery,"1-Four Seasons Pizza,2-Hamburger",0
+4,08-Jan-20,14:40,Bertrand,NO,delivery,"1-Masala dosa,3-Tomato and Garlic Risotto,1-Crispy Chicken Master Burger",0
+7,18-Mar-20,16:08,Blair,YES,delivery,"1-Garlic Bread,2-Croissant,1-Crispy Chicken Master Burger",0
+5,23-Jun-19,15:16,Glendon,NO,delivery,"2-Crispy Chicken Burger,1-Chicken Risotto",0
+1,16-Dec-19,12:37,Adolfo,NO,delivery,"2-Grilled Chicken Salad,3-Chocolate Mousse",0
+5,10-Jan-20,18:14,Verlyn,YES,delivery,"2-Buttered popcorn,3-Croissant",0
+6,22-Jun-19,12:25,Guillermo,YES,delivery,Masala dosa,0
+5,03-Dec-19,12:14,Lindsey,NO,delivery,"1-Grilled Chicken Salad,2-Chocolate Mousse",0
+7,24-Oct-19,16:57,Dewitt,YES,delivery,"2-Potato chips,1-Mushroom Pizza",0
+7,16-May-19,12:51,Roseann,NO,delivery,"2-Chicken rice,2-Mushroom Pizza",0
+10,08-Sep-19,16:02,Omar,NO,delivery,"1-Chicken Cheeseburst Pizza,1-Butter Scotch ice cream",0
+4,25-Dec-19,18:16,shivani,NO,delivery,"1-Fish 'n' chips,3-Chocolate Truffle Pastry",0
+8,05-May-19,17:37,Reynold,YES,delivery,"1-Crispy Chicken Burger,2-Smoked Chicken Salad",0
+4,09-Jan-20,12:08,Giles,NO,delivery,"2-Masala dosa,3-Chocolate Truffle Pastry",0
+10,29-Sep-19,15:49,Verlyn,NO,delivery,"1-Coke,2-Waffle with Banana",0
+6,18-Oct-19,16:29,Valentine,NO,delivery,"1-Chicken rice,1-Donuts",0
+2,05-Jun-19,21:28,Seth,YES,delivery,"2-Grilled Chicken Salad,1-Blueberry Pastry,2-Buttered popcorn",0
+5,02-Feb-20,17:51,Ruthie,YES,delivery,"1-Buttered popcorn,1-Chocolate Truffle Pastry",0
+3,18-Jan-20,15:50,Amit,NO,delivery,"2-Idli Sambhar,1-Chicken Ceasar Salad",0
+2,08-Jun-19,10:33,Lynette,YES,delivery,"1-Four Seasons Pizza,2-Chocolate Shake",0
+2,09-Dec-19,21:40,Kristine,YES,delivery,"1-Chicken Burger,1-Croissant",0
+1,04-Nov-19,19:37,Rhonda,NO,delivery,"2-Potato chips,1-Chocolate Truffle Pastry",0
+7,07-Nov-19,12:51,Melanie,YES,delivery,"2-Fish 'n' chips,3-Hamburger",0
+2,18-Oct-19,18:26,Gale,NO,delivery,"2-Banoffee Pie,1-Waffle with Strawberry",0
+6,03-Feb-20,11:17,Violet,YES,take away,"2-Garlic Bread,2-Mushroom Risotto",0
+10,27-Sep-19,12:39,Zona,NO,delivery,"1-Coke,1-Waffle with Strawberry,3-Smoked Chicken Salad",0
+2,20-Feb-20,16:05,Valentine,YES,delivery,"2-Banoffee Pie,2-Tomato and Garlic Risotto",0
+4,28-May-19,21:08,Asa,YES,delivery,"1-Banoffee Pie,3-Chocolate Shake",0
+9,11-Feb-20,18:14,Auther,YES,delivery,"2-Chicken Burger,3-Butter Scotch ice cream",0
+9,21-Oct-19,12:36,Claudie,YES,take away,"1-Banoffee Pie,1-Waffle with Banana",0
+5,26-Feb-20,16:43,Lucius,NO,delivery,"2-Grilled Chicken Salad,1-Hamburger",0
+9,17-May-19,14:05,Melinda,NO,delivery,"1-Potato chips,1-Croissant",0
+2,07-May-19,16:07,Melvyn,YES,delivery,"2-Four Seasons Pizza,2-Chocolate Truffle Pastry",0
+6,07-Oct-19,19:24,Verl,YES,delivery,"2-Buttered popcorn,2-Fajita",0
+9,07-Dec-19,12:21,Marlyn,NO,delivery,"2-Grilled Chicken Salad,3-Chocolate Shake",0
+3,29-Sep-19,17:14,Diann,NO,delivery,"1-Crispy Chicken Burger,3-Mushroom Risotto",0
+8,24-Aug-19,13:03,dipanshi,YES,delivery,"2-Chicken Cheeseburst Pizza,3-Mushroom Risotto",0
+1,30-Mar-20,10:20,Sam,YES,delivery,"1-Grilled Chicken Salad,2-Fajita",0
+5,06-Nov-19,20:52,sarita,YES,delivery,Hummus,0
+4,15-Sep-19,11:13,Joan,YES,delivery,Four Seasons Pizza,0
+9,27-Apr-19,11:47,Deane,NO,delivery,"1-Crispy Chicken Burger,1-Mushroom Pizza,2-Butter Scotch ice cream",0
+10,12-May-19,17:45,Rupert,NO,delivery,"1-Idli Sambhar,3-Blueberry Pastry",0
+2,19-Jul-19,12:59,Oneal,YES,delivery,"1-Potato chips,3-Butter Scotch ice cream",0
+1,03-Sep-19,17:37,Wilber,YES,delivery,"1-Chicken Cheeseburst Pizza,3-Tomato and Garlic Risotto",0
+4,19-Jan-20,19:05,Penelope,YES,delivery,"2-Crispy Chicken Master Burger,3-Mushroom Risotto",0
+8,04-Feb-20,14:42,Rochelle,NO,delivery,"2-Garlic Bread,1-Hamburger,2-Coke",0
+3,09-Apr-19,12:09,puja,YES,delivery,"1-Coke,3-Smoked Chicken Salad",0
+7,02-Sep-19,20:41,Durward,NO,delivery,"2-Potato chips,2-Smoked Chicken Salad",0
+4,18-Mar-20,20:02,Parker,YES,delivery,"1-Garlic Bread,2-Butter Scotch ice cream",0
+4,21-Jun-19,21:26,Estel,YES,delivery,Mushroom Risotto,0
+5,29-Nov-19,21:04,Adolfo,NO,delivery,"2-Garlic Bread,3-Waffle with Strawberry",0
+5,13-May-19,10:18,Ronny,YES,take away,"2-French toast,2-Mushroom Risotto",0
+4,06-Nov-19,11:11,Rohan,NO,delivery,"1-Garlic Bread,2-Chicken Ceasar Salad",0
+6,29-Jun-19,10:55,Terri,YES,take away,"2-Buttered popcorn,2-Chicken Risotto",0
+1,15-Feb-20,20:37,Durwood,NO,delivery,"1-Grilled Chicken Salad,2-Fajita",0
+1,08-Apr-19,21:54,Israel,YES,delivery,"2-Crispy Chicken Burger,2-Mushroom Pizza",0
+10,15-May-19,16:18,rinki,YES,delivery,"2-Buttered popcorn,3-Croissant",0
+9,23-Jul-19,18:27,geeta,NO,delivery,"1-Buttered popcorn,1-Hamburger",0
+6,16-Mar-20,11:01,seema,YES,delivery,"1-Coke,2-Mushroom Pizza",0
+8,06-May-19,11:01,Milan,YES,delivery,"2-French toast,2-Mushroom Pizza",0
+4,11-Jun-19,19:18,sanju,YES,take away,"1-Four Seasons Pizza,3-Chicken Ceasar Salad",0
+5,28-Oct-19,12:05,Lucious,YES,delivery,"2-Buttered popcorn,3-Fajita",0
+3,29-Aug-19,17:47,Reid,NO,delivery,"1-Potato chips,2-Croissant",0
+3,08-Mar-20,17:12,Arlo,NO,delivery,"2-Idli Sambhar,3-Tomato and Garlic Risotto",0
+4,29-Jun-19,11:02,babby,YES,delivery,"1-Fish 'n' chips,3-Hamburger",0
+7,17-Mar-20,17:15,Leonardo,YES,delivery,"2-French toast,2-Chocolate Truffle Pastry",0
+7,13-Feb-20,16:37,Jayne,NO,delivery,"2-Crispy Chicken Master Burger,2-Chocolate Truffle Pastry",0
+6,31-Dec-19,14:59,Vicente,YES,delivery,"1-Chicken Burger,3-Chocolate Mousse",0
+4,02-Apr-19,17:15,Dominque,YES,take away,"1-Crispy Chicken Burger,1-Chocolate Truffle Pastry",0
+1,22-May-19,21:34,Sandy,NO,delivery,"2-Garlic Bread,2-Chicken Ceasar Salad",0
+6,25-Mar-20,10:15,tamanna,NO,delivery,"1-Potato chips,3-Tomato and Garlic Risotto",0
+7,10-Feb-20,18:09,Durward,NO,delivery,"1-Fish 'n' chips,2-Chocolate Truffle Pastry",0
+10,23-Oct-19,16:40,Vicky,NO,delivery,"2-Crispy Chicken Master Burger,1-Donuts,2-Fish 'n' chips",0
+2,21-May-19,17:15,Dorsey,NO,delivery,"1-Coke,3-Blueberry Pastry,2-Butter Scotch ice cream",0
+8,23-Aug-19,17:57,minakshi,NO,delivery,"2-French toast,3-Blueberry Pastry",0
+6,23-Jul-19,17:32,Chuck,YES,delivery,"1-French toast,2-Hamburger",0
+2,21-Sep-19,14:50,Garrett,YES,delivery,Chicken Burger,0
+5,24-Mar-20,14:37,rani,NO,delivery,"2-Masala dosa,9-Butter Scotch ice cream",0
+7,03-Jun-19,17:40,Gregorio,YES,delivery,"2-Masala dosa,2-Chicken Risotto",0
+5,30-Jan-20,12:42,Sondra,YES,delivery,"2-Hummus,1-Smoked Chicken Salad",0
+8,20-Jun-19,16:15,Mckinley,NO,delivery,"2-Chicken Burger,3-Tomato and Garlic Risotto",0
+4,13-Jul-19,17:06,Von,NO,delivery,"1-French toast,2-Mushroom Pizza,2-Fish 'n' chips",0
+8,26-Feb-20,18:51,Rosalind,YES,delivery,1-Hummus,0
+6,13-Aug-19,18:24,Mitchel,YES,delivery,"2-Masala dosa,2-Waffle with Strawberry",0
+9,15-Mar-20,18:52,Aron,NO,delivery,2-Four Seasons Pizza,0
+6,18-Jan-20,17:36,Derald,YES,delivery,"2-Chicken Cheeseburst Pizza,1-Mushroom Risotto",0
+1,01-Oct-19,13:52,Arvin,NO,delivery,"2-Chicken rice,1-Waffle with Strawberry",0
+9,15-Aug-19,14:26,sanju,NO,delivery,"2-Coke,1-Chocolate Mousse",0
+9,20-Oct-19,12:28,Lemuel,YES,delivery,"1-Hummus,1-Chicken Risotto",0
+2,29-Jul-19,10:48,Val,YES,delivery,"2-Idli Sambhar,1-Croissant",0
+3,04-Jan-20,20:45,General,NO,delivery,"1-Idli Sambhar,1-Blueberry Pastry",0
+1,24-May-19,21:14,Henrietta,NO,delivery,"2-Crispy Chicken Master Burger,3-Donuts",0
+7,31-May-19,13:19,Michael,NO,delivery,"1-Chicken Cheeseburst Pizza,3-Waffle with Strawberry",0
+6,08-Nov-19,12:01,Melton,YES,delivery,"2-Crispy Chicken Master Burger,3-Chocolate Shake",0
+1,28-Feb-20,17:09,aasmin,YES,take away,Chicken Cheeseburst Pizza,0
+10,22-Sep-19,12:14,Barton,NO,delivery,"2-Chicken Cheeseburst Pizza,3-Mushroom Pizza,1-Crispy Chicken Master Burger",0
+4,04-Feb-20,13:11,Benedict,YES,take away,"1-Potato chips,2-Chocolate Shake",0
+6,07-May-19,12:27,Gregorio,NO,delivery,"2-Crispy Chicken Master Burger,1-Hamburger",0
+5,28-Jul-19,12:16,Puneet,NO,delivery,"2-Idli Sambhar,2-Waffle with Banana",0
+8,15-Aug-19,21:04,kaushal,YES,delivery,"1-Fish 'n' chips,3-Chicken Risotto",0
+5,21-Jun-19,12:45,Wally,NO,delivery,"1-Garlic Bread,2-Croissant",0
+2,01-Nov-19,11:06,Dexter,YES,delivery,"2-Garlic Bread,1-Chocolate Shake",0
+5,16-Dec-19,20:39,Shelton,YES,delivery,"2-Crispy Chicken Master Burger,4-Chicken Risotto",0
+3,15-Sep-19,15:39,Keven,NO,take away,"1-Garlic Bread,3-Mushroom Risotto",0
+9,06-May-19,13:00,Lucian,YES,delivery,"2-Banoffee Pie,1-Waffle with Banana",0
+1,01-Jun-19,12:55,Logan,YES,delivery,"2-Crispy Chicken Burger,2-Mushroom Pizza",0
+8,19-Dec-19,16:42,Gay,NO,take away,"1-Banoffee Pie,3-Waffle with Banana",0
+6,16-Jun-19,10:20,Margo,YES,delivery,"1-Crispy Chicken Burger,3-Chicken Ceasar Salad",0
+2,05-Sep-19,18:35,Fritz,NO,delivery,"1-Crispy Chicken Burger,2-Smoked Chicken Salad",0
+9,09-Nov-19,18:27,Santo,YES,delivery,Chicken Ceasar Salad,0
+9,27-May-19,20:53,Mia,YES,delivery,"2-Chicken Cheeseburst Pizza,2-Hamburger",0
+3,06-Dec-19,13:27,Walton,NO,delivery,"1-Crispy Chicken Master Burger,2-Chocolate Truffle Pastry",0
+10,10-Feb-20,21:48,hemlata,NO,delivery,"1-Chicken Cheeseburst Pizza,3-Chocolate Shake",0
+3,24-Feb-20,15:21,kanta,YES,delivery,"1-Buttered popcorn,1-Donuts",0
+1,03-Jun-19,15:31,Reed,YES,take away,"2-Crispy Chicken Burger,5-Mushroom Risotto",0
+6,05-May-19,16:29,Freda,NO,delivery,"1-Crispy Chicken Master Burger,3-Tomato and Garlic Risotto",0
+8,13-Dec-19,20:35,arti,NO,delivery,2-Four Seasons Pizza,0
+7,29-Aug-19,10:39,Inez,NO,delivery,"2-Hummus,2-Donuts",0
+5,04-Dec-19,12:22,Romeo,YES,take away,"2-Chicken rice,2-Butter Scotch ice cream",0
+3,28-Mar-20,15:26,Melton,YES,delivery,Crispy Chicken Master Burger,0
+7,24-Jan-20,21:36,Verne,YES,take away,Fajita,0
+5,19-Dec-19,15:02,aarti,YES,take away,"2-Potato chips,2-Waffle with Banana,1-Chocolate Shake",0
+7,17-Dec-19,12:08,Terri,NO,delivery,"2-Idli Sambhar,1-Hamburger",0
+3,01-Jul-19,11:21,Jordan,YES,delivery,"1-Potato chips,2-Hamburger",0
+4,19-Nov-19,15:59,Joaquin,YES,delivery,"2-Masala dosa,1-Waffle with Strawberry",0
+8,11-Aug-19,18:46,Wardell,YES,delivery,"1-Crispy Chicken Master Burger,3-Waffle with Banana",0
+3,10-May-19,17:56,Ruth,NO,delivery,"4-Chicken rice,4-Croissant",0
+8,20-Mar-20,20:42,babby,NO,delivery,"2-Hummus,2-Chocolate Shake,2-Fish 'n' chips",0
+2,11-Feb-20,11:40,Claudie,NO,delivery,"1-Coke,3-Fajita",0
+2,28-Apr-19,15:52,Cleon,YES,take away,"2-Garlic Bread,2-Chocolate Truffle Pastry",0
+8,19-Oct-19,17:18,Laverne,YES,delivery,"1-Grilled Chicken Salad,2-Butter Scotch ice cream",0
+8,22-Aug-19,19:21,Howell,YES,take away,Waffle with Banana,0
+4,19-Jun-19,10:36,Taylor,NO,delivery,"2-Banoffee Pie,2-Mushroom Risotto",0
+3,31-Dec-19,10:32,Conley,YES,delivery,"2-Banoffee Pie,1-Hamburger",0
+1,07-May-19,19:08,Alejandro,YES,delivery,"2-Banoffee Pie,5-Hamburger",0
+6,13-Nov-19,17:37,Richard,YES,delivery,"2-Hummus,1-Chocolate Mousse",0
+6,08-Sep-19,19:11,anandi,YES,delivery,"2-Idli Sambhar,2-Hamburger",0
+5,23-Aug-19,20:14,Cherie,YES,delivery,"1-Masala dosa,1-Chocolate Shake",0
+3,07-Jan-20,13:11,Merritt,YES,delivery,"1-Potato chips,3-Chocolate Truffle Pastry",0
+6,22-Apr-19,17:32,Erma,YES,take away,"1-Idli Sambhar,2-Tomato and Garlic Risotto",0
+6,30-May-19,15:56,Garrett,YES,take away,"1-Fish 'n' chips,2-Tomato and Garlic Risotto",0
+1,04-Oct-19,18:20,sheetal,YES,take away,"2-Four Seasons Pizza,3-Donuts",0
+6,11-Jul-19,14:10,Duwayne,YES,delivery,"1-Chicken Burger,2-Donuts",0
+1,24-Jul-19,14:09,Ruth,NO,delivery,"2-Chicken rice,2-Mushroom Risotto",0
+6,20-Sep-19,18:30,varsha,YES,delivery,"2-French toast,1-Blueberry Pastry,2-Buttered popcorn",0
+4,06-Sep-19,12:22,George,NO,delivery,"1-Masala dosa,2-Blueberry Pastry",0
+4,23-Apr-19,21:59,Judson,NO,delivery,"2-Four Seasons Pizza,3-Smoked Chicken Salad",0
+8,09-May-19,21:41,Charles,NO,delivery,"1-Chicken rice,3-Mushroom Pizza",0
+10,26-Oct-19,10:35,poonam,NO,delivery,"1-Crispy Chicken Master Burger,2-Croissant",0
+7,17-Feb-20,20:36,Kaye,YES,take away,"1-Hummus,3-Chocolate Mousse",0
+5,08-Mar-20,12:42,Maxwell,NO,delivery,"2-Crispy Chicken Burger,1-Chicken Risotto",0
+5,25-Jul-19,20:57,Joesph,NO,delivery,"1-Grilled Chicken Salad,1-Croissant",0
+4,08-May-19,19:53,Sam,NO,delivery,"1-Masala dosa,1-Chicken Risotto",0
+10,17-Mar-20,14:14,Sebastian,YES,take away,"2-Fish 'n' chips,2-Fajita",0
+6,23-Nov-19,17:15,Cornell,YES,delivery,"2-Garlic Bread,1-Chocolate Truffle Pastry",0
+7,20-Aug-19,11:47,Polly,YES,delivery,"2-Hummus,3-Chocolate Truffle Pastry",0
+7,06-Sep-19,20:53,Jay,YES,delivery,"1-French toast,1-Waffle with Banana",0
+6,27-Aug-19,17:04,Milan,NO,delivery,"1-Crispy Chicken Burger,3-Smoked Chicken Salad",0
+3,03-Jun-19,10:56,Molly,YES,delivery,Hamburger,0
+8,12-Jun-19,19:35,nisha,NO,delivery,"1-Chicken Burger,1-Tomato and Garlic Risotto,1-Coke",0
+6,01-May-19,18:13,Isha,YES,take away,"2-Masala dosa,2-Mushroom Pizza",0
+7,22-Nov-19,21:35,Adrienne,NO,delivery,"2-Crispy Chicken Master Burger,6-Waffle with Banana",0
+2,09-Jun-19,20:06,Lynette,NO,delivery,"2-Chicken rice,1-Chocolate Shake",0
+8,12-Aug-19,14:12,Maggie,YES,delivery,"1-Chicken Burger,1-Chocolate Truffle Pastry",0
+6,08-Jun-19,17:54,nishu,YES,delivery,2-Potato chips,0
+4,03-Jul-19,21:06,Hardy,YES,delivery,"2-Masala dosa,2-Croissant",0
+7,20-Jun-19,18:03,Barton,YES,delivery,Crispy Chicken Burger,0
+6,04-Apr-19,15:18,Myrtle,NO,delivery,"2-Masala dosa,2-Croissant",0
+6,15-Jan-20,20:49,Maxwell,YES,delivery,"2-Grilled Chicken Salad,3-Fajita",0
+7,15-Mar-20,17:13,Dock,YES,delivery,"2-Chicken Burger,1-Chicken Risotto",0
+7,19-Feb-20,20:47,Asa,NO,delivery,"2-Chicken Cheeseburst Pizza,2-Waffle with Strawberry,1-Chocolate Truffle Pastry",0
+1,30-Jan-20,18:55,Varun,YES,delivery,Idli Sambhar,0
+5,03-Jun-19,13:27,Regis,YES,delivery,"2-Hummus,2-Waffle with Banana,1-Coke",0
+9,07-Jul-19,17:01,Amelia,NO,delivery,"2-Grilled Chicken Salad,1-Hamburger",0
+9,03-Sep-19,21:48,Henrietta,NO,delivery,"1-Chicken Burger,1-Chocolate Mousse",0
+4,18-Jan-20,20:33,Richard,YES,delivery,"1-Fish 'n' chips,1-Donuts",0
+4,06-Jan-20,16:01,Cary,YES,delivery,"2-Masala dosa,1-Hamburger",0
+5,09-Jun-19,15:00,nishu,YES,delivery,"2-French toast,2-Chocolate Truffle Pastry,1-Coke",0
+5,19-Jun-19,13:51,Arvil,NO,delivery,"1-Four Seasons Pizza,1-Chocolate Shake",0
+9,12-Apr-19,17:14,Early,YES,take away,"1-Grilled Chicken Salad,8-Blueberry Pastry",0
+6,11-Oct-19,12:02,suhagini,YES,delivery,"2-Potato chips,3-Waffle with Banana",0
+3,11-Feb-20,14:25,Jenny,NO,delivery,"2-Potato chips,1-Chocolate Truffle Pastry",0
+6,01-Nov-19,20:27,Dayton,YES,take away,"2-Buttered popcorn,2-Chocolate Truffle Pastry,1-Coke",0
+4,17-Apr-19,18:43,seema,YES,delivery,"1-Fish 'n' chips,1-Chocolate Truffle Pastry,2-Buttered popcorn",0
+8,08-May-19,16:31,Nettie,YES,delivery,"2-Garlic Bread,1-Chocolate Shake,3-Donuts",0
+9,17-Feb-20,19:40,Varun,YES,take away,"1-Buttered popcorn,2-Tomato and Garlic Risotto",0
+9,25-Jun-19,14:50,Melvyn,NO,delivery,"1-Garlic Bread,1-Chocolate Shake",0
+7,20-May-19,19:26,Marcella,NO,delivery,"2-Masala dosa,1-Chicken Risotto",0
+2,21-Jul-19,19:47,Brooks,YES,delivery,"2-Grilled Chicken Salad,1-Fajita",0
+9,23-Jul-19,21:05,Cyrus,YES,delivery,"2-Masala dosa,2-Hamburger",0
+1,05-Jan-20,15:33,Orin,NO,delivery,"1-French toast,1-Smoked Chicken Salad",0
+8,25-Jan-20,10:53,Arlin,NO,delivery,"2-Four Seasons Pizza,1-Butter Scotch ice cream",0
+9,23-May-19,10:44,Camille,NO,take away,"2-Banoffee Pie,3-Chocolate Shake",0
+7,11-Aug-19,11:29,Kenny,YES,delivery,"1-Banoffee Pie,3-Chocolate Mousse",0
+6,05-Nov-19,15:05,Allison,YES,delivery,Fish 'n' chips,0
+4,12-Jul-19,17:01,Eddy,NO,delivery,"1-Idli Sambhar,6-Croissant",0
+3,27-Jan-20,18:27,Rolf,NO,delivery,"1-Coke,3-Mushroom Risotto,1-Coke",0
+9,09-Feb-20,19:03,Isiah,YES,delivery,"2-Idli Sambhar,1-Chocolate Mousse",0
+6,22-Oct-19,19:13,Lupe,YES,delivery,"2-Banoffee Pie,1-Chocolate Truffle Pastry",0
+6,29-Aug-19,16:54,Delton,NO,delivery,"1-Chicken Burger,1-Mushroom Risotto",0
+5,24-Jun-19,12:06,Walker,YES,delivery,Chocolate Truffle Pastry,0
+4,13-Apr-19,17:02,Albina,YES,delivery,"1-Garlic Bread,6-Waffle with Strawberry",0
+5,03-Aug-19,18:51,Mable,YES,delivery,"1-Chicken Burger,2-Fajita",0
+10,28-Dec-19,12:24,soni,YES,delivery,"2-Grilled Chicken Salad,2-Smoked Chicken Salad",0
+3,19-Jun-19,10:34,Shelby,YES,delivery,"2-Banoffee Pie,3-Mushroom Risotto",0
+3,27-May-19,20:36,kanta,YES,delivery,"1-Masala dosa,2-Hamburger",0
+3,02-Mar-20,18:02,Donal,NO,delivery,"2-Potato chips,1-Fajita",0
+1,07-Jun-19,17:10,Kathie,YES,take away,"2-Idli Sambhar,2-Smoked Chicken Salad",0
+3,11-Oct-19,11:05,Estella,NO,delivery,"2-Grilled Chicken Salad,5-Hamburger",0
+2,24-Apr-19,19:37,rinki,NO,delivery,"2-Banoffee Pie,2-Waffle with Banana",0
+8,06-Dec-19,20:05,Tina,NO,delivery,"2-French toast,1-Chicken Risotto",0
+10,03-Jan-20,20:02,Dwaine,NO,delivery,"2-Chicken Burger,2-Blueberry Pastry",0
+8,10-Aug-19,17:24,Olga,NO,delivery,"2-Idli Sambhar,2-Hamburger",0
+5,19-Sep-19,21:24,Rowland,YES,delivery,"1-Masala dosa,1-Chocolate Mousse,2-Smoked Chicken Salad,1-Coke",0
+9,08-Apr-19,10:43,Rosetta,YES,delivery,"2-Coke,1-Chocolate Truffle Pastry,3-Donuts",0
+1,16-Jan-20,10:37,Nicolas,YES,take away,"2-Grilled Chicken Salad,2-Smoked Chicken Salad,1-Coke",0
+3,29-Aug-19,14:30,Wayland,YES,delivery,"1-Grilled Chicken Salad,3-Croissant",0
+3,02-Feb-20,19:44,rekha,NO,delivery,"1-Chicken Burger,3-Mushroom Risotto",0
+10,23-Dec-19,12:55,Flora,NO,delivery,"1-Chicken Cheeseburst Pizza,1-Chicken Ceasar Salad",0
+2,11-Feb-20,13:00,Barton,NO,delivery,"1-Crispy Chicken Burger,1-Waffle with Strawberry",0
+6,16-Sep-19,20:36,Mamie,NO,delivery,"2-Crispy Chicken Master Burger,2-Hamburger",0
+8,31-Jan-20,16:55,rajni,NO,delivery,"1-Coke,1-Mushroom Pizza,3-Donuts,5-Coke",0
+2,19-Aug-19,20:32,Jonnie,YES,delivery,Idli Sambhar,0
+6,21-Mar-20,20:03,Cliff,YES,delivery,"2-Idli Sambhar,3-Tomato and Garlic Risotto",0
+2,19-Jun-19,21:48,Hilton,NO,delivery,"1-Chicken Burger,1-Mushroom Risotto",0
+8,17-May-19,14:09,Oran,NO,delivery,"1-Crispy Chicken Master Burger,1-Hamburger",0
+10,11-Oct-19,10:09,Joan,YES,delivery,"1-Four Seasons Pizza,1-Hamburger",0
+1,11-Mar-20,13:12,Arlyn,NO,delivery,"1-Buttered popcorn,3-Butter Scotch ice cream,3-Donuts",0
+6,16-Aug-19,17:55,Dannie,YES,take away,"2-Garlic Bread,1-Fajita",0
+8,04-Sep-19,11:04,Reba,YES,delivery,Waffle with Strawberry,0
+6,28-Dec-19,21:29,Della,YES,take away,"2-Crispy Chicken Master Burger,1-Croissant",0
+4,01-Jun-19,14:43,Roseann,YES,delivery,French toast,0
+6,25-May-19,13:00,Mona,YES,take away,"1-Banoffee Pie,3-Chocolate Truffle Pastry",0
+6,23-May-19,13:26,Yash,YES,delivery,Hummus,0
+6,30-Oct-19,15:02,Franklyn,YES,delivery,"1-Chicken rice,1-Tomato and Garlic Risotto",0
+8,07-Jul-19,15:54,Lupe,YES,take away,"2-Potato chips,2-Donuts",0
+9,28-May-19,16:54,Jonas,YES,delivery,"2-Crispy Chicken Master Burger,3-Hamburger",0
+1,13-Jun-19,20:07,Holly,YES,delivery,"1-Garlic Bread,3-Chicken Risotto",0
+2,11-Jul-19,15:46,kesha,YES,delivery,"2-Four Seasons Pizza,2-Croissant",0
+5,21-Jul-19,19:57,shivani,YES,delivery,"1-Potato chips,3-Chocolate Truffle Pastry",0
+3,14-Oct-19,14:22,Amy,YES,delivery,"2-Four Seasons Pizza,2-Waffle with Strawberry",0
+6,15-May-19,16:06,reekha,YES,delivery,"2-Masala dosa,5-Butter Scotch ice cream",0
+6,11-Dec-19,19:10,Ron,YES,delivery,"2-Masala dosa,2-Smoked Chicken Salad,1-Coke",0
+3,29-Jul-19,14:41,Seth,NO,delivery,"1-Buttered popcorn,1-Chicken Ceasar Salad",0
+3,04-Sep-19,18:57,Molly,YES,delivery,"2-Chicken rice,1-Chicken Ceasar Salad",0
+4,16-Apr-19,18:02,sona,YES,take away,"1-French toast,2-Tomato and Garlic Risotto",0
+3,10-May-19,20:01,Oran,NO,delivery,"2-Hummus,3-Chicken Risotto",0
+1,26-Dec-19,20:39,Rowland,YES,delivery,"2-Buttered popcorn,3-Butter Scotch ice cream",0
+6,01-Feb-20,14:07,Lon,YES,take away,"2-Idli Sambhar,1-Waffle with Strawberry",0
+1,27-Jan-20,13:18,Alvis,YES,delivery,"2-Idli Sambhar,3-Hamburger",0
+10,17-Dec-19,14:46,chanchal,NO,delivery,"2-French toast,1-Chocolate Mousse",0
+9,23-Aug-19,18:05,geeta,NO,delivery,"2-Garlic Bread,1-Waffle with Banana",0
+6,19-Aug-19,11:09,Walton,YES,take away,"1-Four Seasons Pizza,1-Chocolate Truffle Pastry,2-Fish 'n' chips",0
+1,21-May-19,15:07,Seth,YES,delivery,Tomato and Garlic Risotto,0
+2,05-Feb-20,21:17,komal,YES,delivery,"1-Four Seasons Pizza,3-Chocolate Mousse",0
+8,16-Sep-19,14:52,Violet,NO,delivery,"2-Chicken Cheeseburst Pizza,2-Croissant,2-Fish 'n' chips",0
+10,15-Feb-20,10:31,hemlata,NO,delivery,"1-Chicken Cheeseburst Pizza,3-Waffle with Strawberry",0
+6,28-Nov-19,14:03,rajni,YES,take away,"1-Fish 'n' chips,5-Donuts",0
+8,21-Nov-19,20:17,Elliot,NO,delivery,"1-Garlic Bread,1-Croissant,2-Butter Scotch ice cream",0
+2,14-Dec-19,16:33,Williams,YES,take away,"2-Buttered popcorn,1-Chicken Ceasar Salad",0
+5,18-Apr-19,21:54,Isiah,NO,delivery,"1-Crispy Chicken Master Burger,1-Mushroom Pizza",0
+4,26-Jun-19,16:35,minakshi,YES,delivery,"2-Buttered popcorn,3-Waffle with Banana",0
+6,12-Mar-20,15:15,Clovis,YES,take away,"1-Coke,2-Waffle with Banana",0
+2,11-Aug-19,13:12,Margo,YES,delivery,"2-Fish 'n' chips,1-Mushroom Pizza",0
+9,21-Apr-19,20:10,Romeo,NO,delivery,"2-Crispy Chicken Master Burger,2-Chocolate Mousse",0
+4,30-Sep-19,12:31,Cleve,YES,delivery,"1-Four Seasons Pizza,2-Mushroom Pizza",0
+2,05-Feb-20,10:30,Elwin,YES,delivery,"1-Banoffee Pie,1-Chocolate Mousse",0
+1,04-Apr-19,17:34,Arlo,YES,take away,"2-Grilled Chicken Salad,1-Butter Scotch ice cream,3-Donuts",0
+6,11-Jan-20,15:24,Reba,YES,delivery,"1-Grilled Chicken Salad,5-Hamburger",0
+7,18-Sep-19,14:54,Debra,NO,delivery,"1-Chicken rice,2-Mushroom Pizza,2-Butter Scotch ice cream",0
+3,01-Apr-19,10:06,Santos,YES,delivery,"1-Masala dosa,1-Smoked Chicken Salad",0
+10,27-Nov-19,14:17,neeru,YES,delivery,Four Seasons Pizza,0
+6,30-Jul-19,13:34,Junius,NO,delivery,"2-Coke,2-Chicken Ceasar Salad",0
+1,31-Mar-20,13:43,Durwood,YES,delivery,"1-French toast,3-Mushroom Pizza",0
+4,03-Feb-20,11:07,Leeroy,YES,delivery,Chicken Burger,0
+6,24-Jun-19,13:07,Early,NO,delivery,"2-Coke,2-Mushroom Pizza,2-Butter Scotch ice cream",0
+7,05-Apr-19,20:36,Earnestine,NO,delivery,"1-Potato chips,1-Chocolate Mousse",0
+2,07-Sep-19,13:37,Benton,YES,delivery,"1-Crispy Chicken Burger,1-Waffle with Banana,1-Crispy Chicken Master Burger",0
+10,14-Oct-19,19:25,Dayton,NO,delivery,"2-Coke,2-Chocolate Shake",0
+9,05-Sep-19,20:29,Rupert,YES,delivery,"1-Four Seasons Pizza,3-Chocolate Shake",0
+7,03-May-19,10:47,Nettie,NO,delivery,"2-Crispy Chicken Master Burger,3-Mushroom Pizza,1-Coke",0
+5,23-Oct-19,19:27,Lucius,NO,delivery,"2-Grilled Chicken Salad,3-Waffle with Strawberry",0
+7,13-Nov-19,16:58,Quentin,YES,take away,"1-Garlic Bread,3-Butter Scotch ice cream,4-Coke",0
+8,28-Aug-19,19:30,Dorsey,NO,delivery,"1-Hummus,2-Fajita",0
+6,05-Nov-19,14:37,Arvin,NO,delivery,"1-Hummus,3-Waffle with Banana",0
+1,15-Sep-19,17:36,Vinay,NO,delivery,"2-Hummus,2-Waffle with Strawberry",0
+5,13-Feb-20,18:55,Lois,NO,delivery,"2-Chicken Cheeseburst Pizza,1-Chicken Ceasar Salad",0
+8,09-Apr-19,13:25,varsha,YES,delivery,"1-Four Seasons Pizza,1-Mushroom Risotto",0
+10,18-Mar-20,12:09,arti,NO,delivery,"2-Crispy Chicken Burger,3-Mushroom Risotto",0
+7,04-Feb-20,18:50,Varun,YES,delivery,"2-Chicken rice,1-Mushroom Pizza",0
+5,20-Jul-19,19:53,sheetal,NO,delivery,"2-Buttered popcorn,3-Chocolate Shake",0
+5,19-Mar-20,20:44,smt,YES,delivery,"2-Buttered popcorn,2-Smoked Chicken Salad",0
+9,22-Oct-19,15:38,sapna,YES,delivery,"1-Chicken rice,3-Chocolate Truffle Pastry",0
+8,03-Sep-19,20:03,nishu,YES,take away,"1-Four Seasons Pizza,1-Fajita",0
+6,13-Jul-19,15:50,David,YES,delivery,"2-Chicken Cheeseburst Pizza,1-Hamburger",0
+1,03-Aug-19,10:33,Reynaldo,NO,delivery,"1-Buttered popcorn,3-Chocolate Truffle Pastry,4-Waffle with Strawberry",0
+1,26-May-19,16:02,Amelia,NO,delivery,"1-Masala dosa,1-Waffle with Strawberry",0
+9,05-May-19,10:07,Sherrie,NO,delivery,"2-Idli Sambhar,3-Fajita",0
+6,01-May-19,14:14,monika,YES,delivery,"2-Chicken Burger,1-Fajita",0
+8,07-Jun-19,21:52,Hugo,NO,delivery,"2-Coke,3-Croissant",0
+3,10-Jun-19,11:14,Hugo,NO,delivery,"1-Masala dosa,2-Mushroom Pizza",0
+9,07-Nov-19,14:36,kajal,YES,take away,"2-Chicken rice,2-Hamburger",0
+2,21-Feb-20,18:11,Nickolas,YES,delivery,"2-Hummus,1-Blueberry Pastry,1-Coke",0
+8,26-Dec-19,18:02,devika,NO,delivery,"2-Grilled Chicken Salad,2-Mushroom Risotto,2-Butter Scotch ice cream",0
+8,25-Jul-19,16:41,Duncan,YES,delivery,"1-Banoffee Pie,3-Smoked Chicken Salad,2-Butter Scotch ice cream",0
+2,07-May-19,13:18,Aurelio,YES,delivery,"1-Chicken Cheeseburst Pizza,1-Smoked Chicken Salad",0
+10,20-Nov-19,21:46,Helene,NO,delivery,"1-Chicken rice,3-Hamburger",0
+9,06-Nov-19,13:10,Terence,NO,delivery,"1-Four Seasons Pizza,3-Hamburger",0
+9,01-Aug-19,21:10,Agustin,YES,delivery,"1-Buttered popcorn,1-Tomato and Garlic Risotto",0
+6,03-Oct-19,19:47,Merritt,YES,take away,"1-French toast,3-Croissant",0
+1,22-Oct-19,20:35,Derek,NO,delivery,"2-Chicken rice,2-Waffle with Banana",0
+8,26-May-19,18:29,Federico,NO,delivery,"2-Four Seasons Pizza,3-Chicken Ceasar Salad",0
+5,01-Aug-19,11:15,Auther,YES,delivery,"2-Chicken Cheeseburst Pizza,1-Chocolate Shake,1-Crispy Chicken Master Burger",0
+7,27-Nov-19,16:13,shalu,YES,delivery,Mushroom Pizza,0
+9,05-Jun-19,18:13,Sallie,YES,delivery,"2-Garlic Bread,2-Chicken Risotto",0
+6,12-Jun-19,14:50,Noreen,NO,delivery,"1-French toast,3-Chocolate Shake,1-Coke",0
+9,12-Aug-19,11:12,Vicente,YES,delivery,"1-Potato chips,3-Chocolate Mousse,2-Fish 'n' chips",0
+9,22-Oct-19,14:14,Terence,YES,delivery,"1-Grilled Chicken Salad,3-Mushroom Pizza",0
+4,25-Sep-19,20:59,Elvis,YES,delivery,"2-Banoffee Pie,3-Mushroom Pizza",0
+6,30-Oct-19,14:54,Farrell,YES,delivery,"4-Hummus,4-Chocolate Shake",0
+4,19-Jan-20,16:14,Edsel,YES,delivery,"1-Chicken rice,1-Butter Scotch ice cream",0
+7,07-Jan-20,17:36,Ambrose,NO,delivery,"1-French toast,1-Smoked Chicken Salad,2-Fish 'n' chips",0
+9,15-Apr-19,20:25,Loyal,NO,delivery,"2-Buttered popcorn,3-Blueberry Pastry",0
+5,23-May-19,15:51,Artis,NO,delivery,"2-French toast,3-Chocolate Truffle Pastry",0
+5,29-Jul-19,21:32,Dewitt,NO,delivery,"1-Crispy Chicken Master Burger,2-Waffle with Banana",0
+9,25-Mar-20,17:16,Eloise,YES,take away,"1-Masala dosa,2-Chocolate Truffle Pastry",0
+1,03-Jul-19,14:40,Loran,NO,delivery,"1-Idli Sambhar,3-Fajita",0
+9,28-Oct-19,11:20,baby,YES,delivery,"2-Idli Sambhar,1-Mushroom Pizza",0
+6,01-Apr-19,16:17,Natalie,NO,delivery,"2-Buttered popcorn,2-Blueberry Pastry",0
+4,17-Sep-19,20:22,sona,NO,delivery,"2-Crispy Chicken Master Burger,1-Blueberry Pastry",0
+3,04-Nov-19,14:01,Reid,NO,take away,"1-Idli Sambhar,2-Fajita",0
+9,24-May-19,11:28,Donal,YES,delivery,Tomato and Garlic Risotto,0
+7,12-Sep-19,14:02,Justin,NO,delivery,"1-Masala dosa,1-Chicken Risotto",0
+1,10-Mar-20,12:18,Mona,NO,delivery,"2-Fish 'n' chips,2-Butter Scotch ice cream",0
+6,21-Jun-19,16:38,Arvin,YES,delivery,Fajita,0
+5,10-Dec-19,17:15,Nickolas,YES,delivery,Butter Scotch ice cream,0
+5,22-May-19,15:27,Rubin,YES,delivery,"2-Masala dosa,1-Chicken Ceasar Salad",0
+9,05-Jan-20,13:14,baby,YES,delivery,"2-Chicken rice,2-Waffle with Strawberry,2-Fish 'n' chips",0
+1,09-Dec-19,17:31,Derald,YES,delivery,"2-Coke,2-Chocolate Truffle Pastry,2-Butter Scotch ice cream",0
+1,08-May-19,19:07,Reynold,NO,delivery,"2-Grilled Chicken Salad,1-Chocolate Mousse,3-Waffle with Strawberry",0
+6,30-Mar-20,19:46,Rolf,YES,delivery,"2-Crispy Chicken Burger,1-Butter Scotch ice cream",0
+10,30-Nov-19,20:20,Porter,NO,delivery,"1-Crispy Chicken Burger,3-Chocolate Truffle Pastry",0
+7,09-Sep-19,17:05,Ron,NO,delivery,"1-Potato chips,1-Tomato and Garlic Risotto,1-French toast",0
+6,25-Apr-19,11:06,Romeo,YES,take away,"1-Crispy Chicken Master Burger,2-Chocolate Truffle Pastry,1-Coke",0
+2,29-Feb-20,16:43,Giles,NO,delivery,"1-Grilled Chicken Salad,2-Hamburger",0
+2,25-Sep-19,20:51,Haskell,NO,delivery,"1-Crispy Chicken Burger,2-Chocolate Shake",0
+5,18-Jul-19,18:08,Abhishek,YES,delivery,"2-Fish 'n' chips,1-Butter Scotch ice cream",0
+4,21-Aug-19,10:42,Rishabh,YES,delivery,"1-Four Seasons Pizza,3-Tomato and Garlic Risotto",0
+9,14-May-19,14:01,Myles,YES,delivery,"1-Buttered popcorn,2-Chicken Risotto",0
+2,16-Aug-19,16:05,Karla,YES,delivery,"2-Grilled Chicken Salad,3-Waffle with Banana",0
+3,12-May-19,19:04,Harland,NO,delivery,"2-Chicken Cheeseburst Pizza,2-Butter Scotch ice cream",0
+4,24-Apr-19,21:14,Santo,YES,delivery,"1-Masala dosa,3-Croissant",0
+3,10-Jun-19,11:45,Alvis,YES,delivery,1-Chicken Burger,0
+9,03-Apr-19,18:53,Michael,NO,delivery,"1-Idli Sambhar,3-Waffle with Strawberry",0
+10,24-Jan-20,17:19,Ilene,YES,delivery,"2-Hummus,3-Mushroom Risotto",0
+3,04-Jun-19,21:57,James,NO,delivery,"1-Coke,3-Mushroom Risotto",0
+6,03-Mar-20,21:05,Norton,NO,delivery,"1-Buttered popcorn,2-Waffle with Banana,1-Coke",0
+4,11-Oct-19,10:52,tamanna,YES,delivery,Chicken Ceasar Salad,0
+6,01-Nov-19,12:41,Verlin,NO,delivery,"2-Chicken Cheeseburst Pizza,1-Fajita",0
+8,14-Dec-19,11:17,Maggie,YES,delivery,"1-Chicken Burger,1-Donuts",0
+4,02-Dec-19,12:35,Carlyle,NO,take away,"1-French toast,1-Hamburger",0
+8,18-Mar-20,13:43,Richard,YES,delivery,"1-Crispy Chicken Master Burger,2-Croissant",0
+3,30-Aug-19,21:04,Orin,NO,delivery,"1-Chicken rice,2-Donuts",0
+3,21-Oct-19,12:30,Harland,YES,take away,"2-Garlic Bread,3-Butter Scotch ice cream",0
+2,27-Sep-19,19:15,Joesph,YES,delivery,Potato chips,0
+9,05-May-19,10:57,rubi,YES,take away,Coke,0
+10,09-Mar-20,13:52,Dexter,NO,delivery,"2-French toast,1-Waffle with Strawberry",0
+5,08-Aug-19,17:54,Marland,YES,delivery,"1-Idli Sambhar,1-Donuts",0
+4,22-Jun-19,13:20,Waldo,YES,delivery,"2-Chicken Burger,1-Chocolate Mousse",0
+1,26-Nov-19,20:17,madhuri,YES,delivery,Chicken Risotto,0
+5,10-Aug-19,15:19,Reynold,NO,delivery,"1-Crispy Chicken Burger,1-Chocolate Truffle Pastry",0
+3,17-Nov-19,17:00,nirma,YES,delivery,"2-Crispy Chicken Master Burger,1-Waffle with Banana",0
+6,08-Mar-20,21:36,Theo,NO,delivery,"1-Banoffee Pie,2-Chicken Risotto",0
+2,13-Dec-19,14:03,Tina,NO,delivery,"2-Coke,3-Waffle with Banana",0
+4,03-Sep-19,10:03,sunita,NO,delivery,"2-Masala dosa,3-Fajita",0
+6,21-Jun-19,19:47,lovely,NO,delivery,"2-Crispy Chicken Master Burger,1-Waffle with Strawberry",0
+9,19-Jun-19,14:49,sonali,NO,delivery,"2-Fish 'n' chips,3-Mushroom Pizza",0
+8,30-Dec-19,12:01,Webster,YES,delivery,"1-Chicken Cheeseburst Pizza,3-Blueberry Pastry",0
+4,04-Jul-19,19:04,sarita,YES,delivery,"2-Chicken Burger,2-Tomato and Garlic Risotto",0
+5,03-Sep-19,16:41,Noble,NO,delivery,"1-Chicken Burger,3-Blueberry Pastry,1-Coke",0
+1,23-Dec-19,14:12,Lawerence,YES,delivery,"1-Idli Sambhar,2-Smoked Chicken Salad",0
+3,06-Oct-19,18:28,Ruby,YES,delivery,"2-French toast,3-Donuts",0
+2,01-Aug-19,20:12,Patti,NO,delivery,"2-Hummus,2-Hamburger",0
+2,23-Feb-20,14:17,neetu,YES,delivery,Fish 'n' chips,0
+6,27-Aug-19,13:07,Lorna,YES,delivery,"2-Chicken rice,2-Smoked Chicken Salad",0
+5,19-Feb-20,18:40,Amy,YES,delivery,"1-Grilled Chicken Salad,3-Chocolate Truffle Pastry",0
+8,31-Jan-20,13:35,Arvid,NO,delivery,"2-Chicken Burger,1-Chocolate Shake",0
+8,22-Sep-19,14:22,Jennings,NO,delivery,"1-Crispy Chicken Burger,2-Chocolate Mousse",0
+1,23-Jun-19,17:43,Regis,YES,delivery,"2-French toast,3-Butter Scotch ice cream",0
+6,21-Oct-19,19:05,babby,YES,delivery,"1-Potato chips,1-Smoked Chicken Salad",0
+8,10-May-19,10:41,Pierre,YES,delivery,"2-Crispy Chicken Master Burger,2-Fajita",0
+2,17-Sep-19,13:56,Kirby,YES,delivery,"2-Coke,1-Tomato and Garlic Risotto",0
+5,16-Nov-19,18:15,Elisha,YES,take away,Mushroom Risotto,0
+7,12-Dec-19,16:43,Cherie,YES,delivery,"2-Fish 'n' chips,3-Fajita",0
+2,22-Dec-19,17:44,Rohan,NO,delivery,"1-Chicken Burger,1-Hamburger",0
+5,14-May-19,20:32,shalu,YES,take away,"1-Buttered popcorn,1-Mushroom Pizza",0
+6,04-Feb-20,21:33,Roseann,YES,delivery,"1-Crispy Chicken Master Burger,1-Smoked Chicken Salad",0
+9,25-Nov-19,20:40,Emile,YES,take away,"1-Banoffee Pie,2-Waffle with Strawberry",0
+3,14-Jun-19,21:43,Haywood,NO,delivery,"2-Fish 'n' chips,1-Chicken Risotto",0
+8,03-Oct-19,18:48,naziya,NO,delivery,"2-Crispy Chicken Master Burger,2-Mushroom Risotto",0
+2,01-Sep-19,20:24,Steven,YES,take away,"2-Fish 'n' chips,2-Tomato and Garlic Risotto",0
+6,28-Mar-20,20:24,Reynold,NO,delivery,"1-Garlic Bread,3-Croissant",0
+8,17-Nov-19,20:08,Glenna,NO,delivery,"2-Banoffee Pie,1-Smoked Chicken Salad",0
+8,30-Apr-19,13:38,Florian,YES,take away,"1-Chicken Burger,3-Hamburger",0
+1,04-Apr-19,17:58,sonali,NO,delivery,"1-Crispy Chicken Master Burger,1-Mushroom Risotto",0
+3,27-Nov-19,19:45,Auther,YES,take away,Potato chips,0
+5,02-Jun-19,18:47,Eldridge,YES,delivery,"2-Chicken rice,3-Chocolate Truffle Pastry,2-Butter Scotch ice cream",0
+9,06-Feb-20,15:30,Franklyn,NO,delivery,"1-Potato chips,1-Waffle with Strawberry",0
+10,11-Apr-19,16:07,Rogelio,NO,delivery,"2-Grilled Chicken Salad,2-Waffle with Strawberry",0
+10,14-Mar-20,20:46,Wylie,NO,delivery,"1-Idli Sambhar,1-Chocolate Shake",0
+1,27-Jun-19,18:25,dipanshi,YES,delivery,Fish 'n' chips,0
+4,15-Nov-19,18:03,pinki,YES,delivery,"1-Chicken Burger,1-Mushroom Pizza",0
+4,01-Jun-19,10:27,Olga,YES,delivery,Garlic Bread,0
+5,03-Apr-19,16:57,Rosetta,YES,delivery,"2-French toast,1-Chocolate Truffle Pastry,1-Coke",0
+5,02-Dec-19,19:13,Ahmed,NO,delivery,"2-Four Seasons Pizza,6-Hamburger",0
+1,26-Apr-19,15:03,Albina,NO,delivery,"1-French toast,2-Blueberry Pastry",0
+6,11-Apr-19,19:27,shikha,YES,take away,"1-Buttered popcorn,3-Chicken Ceasar Salad",0
+4,11-Mar-20,15:50,Conley,YES,take away,Grilled Chicken Salad,0
+9,19-Jan-20,17:31,Nelson,YES,delivery,"1-Crispy Chicken Burger,1-Chicken Ceasar Salad,1-Coke",0
+1,29-Aug-19,11:05,Reed,NO,delivery,"2-Buttered popcorn,1-Croissant,1-Coke",0
+7,05-May-19,11:20,Dello,YES,delivery,"1-Chicken Cheeseburst Pizza,2-Butter Scotch ice cream,2-Butter Scotch ice cream",0
+3,30-Apr-19,17:46,Louise,NO,delivery,"1-Potato chips,2-Smoked Chicken Salad",0
+2,14-Apr-19,13:51,Ora,NO,delivery,"1-Chicken rice,2-Smoked Chicken Salad",0
+9,13-Sep-19,16:47,Haskell,NO,delivery,"1-Masala dosa,1-Donuts",0
+6,29-Dec-19,14:40,Frankie,YES,take away,"2-Chicken Cheeseburst Pizza,2-Croissant",0
+7,06-Sep-19,15:58,Dannie,NO,delivery,"1-Banoffee Pie,1-Waffle with Strawberry",0
+8,22-Mar-20,13:24,Dorsey,NO,delivery,"2-Chicken Cheeseburst Pizza,3-Chicken Ceasar Salad",0
+6,24-Jun-19,19:51,Rena,YES,delivery,"2-Hummus,3-Waffle with Strawberry",0
+9,19-Aug-19,19:57,saloni,YES,delivery,"1-Crispy Chicken Master Burger,1-Blueberry Pastry",0
+7,29-Jun-19,11:31,Meredith,YES,delivery,"1-Crispy Chicken Burger,3-Mushroom Risotto",0
+10,02-Apr-19,14:09,seema,NO,delivery,"1-Crispy Chicken Master Burger,1-Waffle with Strawberry",0
+9,28-Apr-19,18:53,Stan,YES,delivery,"1-Four Seasons Pizza,3-Waffle with Banana",0
+6,15-Jan-20,14:56,Louise,NO,delivery,"1-Chicken Cheeseburst Pizza,3-Mushroom Pizza",0
+6,14-Aug-19,10:33,Carson,YES,delivery,"2-French toast,2-Fajita",0
+6,08-Nov-19,16:40,Leamon,YES,delivery,"2-Idli Sambhar,3-Waffle with Banana",0
+7,15-Dec-19,20:21,Rhonda,YES,delivery,"2-Crispy Chicken Burger,3-Mushroom Pizza",0
+7,07-Oct-19,13:43,Judge,YES,delivery,"1-Idli Sambhar,1-Smoked Chicken Salad",0
+6,13-Jun-19,16:45,Shelby,NO,delivery,"1-Crispy Chicken Burger,2-Chicken Risotto",0
+1,15-Nov-19,14:52,Rochelle,YES,take away,"1-Four Seasons Pizza,1-Chocolate Mousse",0
+9,25-Mar-20,16:03,Reynaldo,YES,delivery,"1-Hummus,2-Hamburger",0
+1,22-Jul-19,11:22,Aurelio,YES,take away,Blueberry Pastry,0
+6,05-Apr-19,16:45,Mamie,NO,delivery,"1-Fish 'n' chips,3-Waffle with Banana",0
+2,20-Sep-19,20:55,Ginger,NO,delivery,"2-Idli Sambhar,1-Chicken Ceasar Salad",0
+8,29-Jul-19,16:47,Abhishek,NO,delivery,"1-Buttered popcorn,1-Tomato and Garlic Risotto,3-Donuts",0
+9,27-Feb-20,12:06,reekha,NO,delivery,"2-Hummus,3-Butter Scotch ice cream,1-Coke",0
+5,29-Jul-19,10:32,smt,YES,delivery,"1-Grilled Chicken Salad,1-Chocolate Mousse",0
+5,24-Feb-20,13:34,Quinton,YES,delivery,"1-Banoffee Pie,1-Butter Scotch ice cream",0
+3,14-Nov-19,20:46,Nettie,NO,delivery,"2-Garlic Bread,2-Chocolate Truffle Pastry",0
+9,05-Mar-20,21:56,Jacky,NO,delivery,"1-Chicken Cheeseburst Pizza,3-Chocolate Truffle Pastry",0
+2,08-Nov-19,21:29,Eloise,YES,delivery,"1-Potato chips,2-Mushroom Risotto",0
+9,21-Mar-20,19:59,Jewell,YES,delivery,"1-Four Seasons Pizza,3-Mushroom Pizza",0
+10,10-May-19,20:18,manju,NO,delivery,"2-Crispy Chicken Burger,1-Fajita",0
+4,08-Dec-19,21:28,Joyce,YES,delivery,"1-Crispy Chicken Master Burger,3-Waffle with Banana",0
+7,19-Aug-19,16:46,Vinay,NO,delivery,"1-Four Seasons Pizza,1-Butter Scotch ice cream,2-Fish 'n' chips",0
+4,28-Nov-19,12:33,Kendall,NO,delivery,"1-Buttered popcorn,2-Chocolate Shake",0
+8,28-Jul-19,18:00,anjali,YES,delivery,"1-Crispy Chicken Burger,3-Waffle with Banana",0
+5,21-Apr-19,11:05,Lucian,YES,take away,"1-Grilled Chicken Salad,3-Hamburger",0
+5,10-May-19,13:49,Haywood,NO,delivery,"2-Hummus,3-Chicken Risotto",0
+8,21-Oct-19,15:38,Lou,YES,take away,"1-Potato chips,1-Waffle with Strawberry",0
+3,21-Dec-19,10:52,Ron,YES,delivery,"1-Coke,1-Donuts",0
+6,14-Dec-19,21:18,Rupert,YES,take away,"1-Idli Sambhar,2-Tomato and Garlic Risotto,2-Smoked Chicken Salad",0
+6,16-Feb-20,10:31,Genevieve,YES,take away,"1-Grilled Chicken Salad,3-Butter Scotch ice cream",0
+1,24-May-19,21:45,Helen,NO,delivery,"1-Masala dosa,1-Mushroom Pizza",0
+4,04-Mar-20,18:34,Prince,NO,delivery,"1-Buttered popcorn,3-Chocolate Mousse",0
+3,15-Jun-19,13:37,Lois,YES,take away,"1-Crispy Chicken Burger,3-Chicken Risotto",0
+3,09-Aug-19,21:14,Marcella,NO,delivery,"2-Grilled Chicken Salad,1-Chocolate Mousse",0
+3,18-Feb-20,20:37,yasmin,YES,delivery,"1-Garlic Bread,2-Fajita",0
+3,21-Jul-19,11:13,Edd,NO,delivery,"10-Buttered popcorn,3-Chicken Ceasar Salad",0
+4,12-Feb-20,18:03,Guadalupe,YES,delivery,"2-French toast,3-Hamburger",0
+6,25-Aug-19,11:44,Nelda,YES,delivery,"2-Four Seasons Pizza,2-Smoked Chicken Salad",0
+6,11-Mar-20,15:36,Judi,YES,delivery,Banoffee Pie,0
+4,29-Feb-20,14:39,Melody,NO,delivery,"1-Potato chips,2-Butter Scotch ice cream",0
+8,05-Dec-19,21:15,Marlyn,NO,delivery,"1-Coke,2-Waffle with Strawberry",0
+2,31-Oct-19,16:53,Gretchen,YES,take away,Crispy Chicken Master Burger,0
+4,03-Mar-20,17:46,Fritz,NO,delivery,"2-Chicken rice,1-Fajita",0
+2,27-Jan-20,14:05,Rowland,YES,delivery,"1-Fish 'n' chips,1-Chicken Risotto",0
+10,23-Nov-19,10:33,Dock,YES,delivery,"2-Potato chips,1-Blueberry Pastry",0
+9,28-Dec-19,11:58,aashma,NO,delivery,"2-Crispy Chicken Burger,1-Chocolate Shake,2-Fajita,3-Donuts",0
+2,15-Jan-20,20:01,Sherrie,YES,take away,"2-Fish 'n' chips,3-Croissant",0
+5,18-Jan-20,20:11,Sandy,YES,take away,"2-Fish 'n' chips,3-Chicken Ceasar Salad",0
+9,19-Apr-19,18:54,Von,YES,take away,"1-Hummus,3-Fajita",0
+6,16-Oct-19,15:41,Aron,NO,delivery,"2-Idli Sambhar,1-Chocolate Truffle Pastry",0
+9,11-Jul-19,12:34,Claudette,NO,delivery,"2-Idli Sambhar,1-Blueberry Pastry",0
+3,09-May-19,17:50,Waymon,NO,delivery,"1-Potato chips,3-Tomato and Garlic Risotto",0
+4,12-Apr-19,10:57,Karla,YES,delivery,"1-Chicken Cheeseburst Pizza,1-Waffle with Banana",0
+10,12-Jun-19,13:19,Kyle,YES,delivery,"2-Idli Sambhar,2-Donuts",0
+8,01-Aug-19,16:13,Sallie,YES,delivery,"1-Garlic Bread,1-Tomato and Garlic Risotto",0
+10,02-Nov-19,13:47,Gustav,NO,delivery,"1-Banoffee Pie,2-Fajita",0
+6,02-Dec-19,13:01,John,NO,take away,1-French toast,0
+1,23-Jul-19,18:39,Ronny,YES,delivery,"2-French toast,3-Mushroom Pizza,1-Coke",0
+1,19-Dec-19,15:49,Eldred,YES,delivery,"2-French toast,1-Chicken Ceasar Salad",0
+7,06-Jan-20,21:50,Holly,NO,delivery,"1-Potato chips,1-Chocolate Truffle Pastry",0
+9,21-Jul-19,10:04,Cruz,YES,take away,Mushroom Pizza,0
+10,28-Apr-19,20:25,aasmin,YES,delivery,"1-Four Seasons Pizza,3-Chocolate Truffle Pastry",0
+5,09-Jan-20,21:14,Garth,NO,delivery,"2-Hummus,1-Chicken Risotto",0
+2,27-Jun-19,17:14,Nelda,YES,take away,"1-Masala dosa,3-Waffle with Strawberry,1-Coke",0
+7,31-Oct-19,20:15,Sydney,YES,delivery,"1-Chicken Burger,1-Chocolate Mousse",0
+2,06-Feb-20,18:29,Shelton,NO,delivery,"2-Garlic Bread,1-Chicken Ceasar Salad",0
+8,12-Jun-19,13:53,Orrin,YES,delivery,"1-Fish 'n' chips,3-Donuts",0
+3,13-May-19,11:35,Mark,NO,delivery,"1-Garlic Bread,1-Waffle with Banana",0
+3,12-Mar-20,17:48,saloni,YES,take away,"1-Garlic Bread,1-Donuts",0
+6,30-Mar-20,18:10,Denzil,YES,delivery,"2-Chicken rice,1-Waffle with Strawberry",0
+9,13-Dec-19,15:49,Duncan,NO,delivery,"2-Hummus,3-Fajita",0
+6,29-Mar-20,17:20,Noreen,YES,delivery,"1-Crispy Chicken Master Burger,2-Hamburger",0
+1,10-Aug-19,15:25,Rochelle,YES,delivery,"1-Grilled Chicken Salad,3-Mushroom Risotto",0
+5,19-Jun-19,17:56,Guadalupe,YES,delivery,"2-Coke,1-Blueberry Pastry",0
+3,20-Jan-20,10:22,Loy,NO,delivery,"2-Garlic Bread,1-Blueberry Pastry",0
+7,26-Jul-19,17:21,Vinay,YES,delivery,"1-Potato chips,1-Waffle with Strawberry",0
+1,09-Dec-19,20:11,Shelia,NO,delivery,"3-Potato chips,4-Chicken Risotto",0
+6,06-May-19,13:30,Glenna,YES,delivery,"1-Chicken rice,3-Waffle with Strawberry",0
+6,03-Oct-19,21:52,Ilene,YES,delivery,"2-Idli Sambhar,1-Croissant",0
+8,03-Nov-19,10:24,Genevieve,NO,delivery,"1-Banoffee Pie,2-Chicken Risotto",0
+6,02-Jun-19,21:41,mamta,YES,delivery,"1-Four Seasons Pizza,2-Mushroom Risotto",0
+2,06-Nov-19,18:27,Shelia,YES,take away,"1-Coke,3-Chocolate Truffle Pastry",0
+6,13-Aug-19,16:34,Enoch,YES,take away,"1-Hummus,2-Chocolate Mousse",0
+8,27-Feb-20,12:03,Janette,NO,delivery,"1-Crispy Chicken Master Burger,2-Donuts",0
+7,09-Mar-20,11:03,sanju,YES,delivery,"2-Crispy Chicken Master Burger,1-Mushroom Risotto",0
+6,14-Oct-19,14:02,Glynn,YES,delivery,"1-French toast,1-Chicken Ceasar Salad",0
+6,25-Feb-20,14:22,Jay,YES,take away,"2-Banoffee Pie,2-Waffle with Banana",0
+6,11-Oct-19,15:24,Asa,YES,take away,"2-Buttered popcorn,1-Tomato and Garlic Risotto",0
+7,09-Jun-19,16:26,Monty,YES,delivery,2-Four Seasons Pizza,0
+5,25-Nov-19,17:02,Leander,YES,delivery,"2-Crispy Chicken Master Burger,2-Smoked Chicken Salad",0
+10,14-May-19,17:36,Allison,NO,delivery,"1-Fish 'n' chips,1-Mushroom Risotto",0
+3,07-Oct-19,15:38,Wayland,YES,take away,"1-Coke,2-Waffle with Banana",0
+Ñ,?O,,,,,,
+6,25-Jul-19,12:50,Richard,YES,delivery,"1-Potato chips,2-Waffle with Strawberry,3-Waffle with Strawberry",0
+6,22-Sep-19,16:20,Palmer,YES,delivery,"2-Fish 'n' chips,1-Chocolate Mousse",0
+?,«,,,,,62ƒe?T æ??fæ??·,
+6,18-Oct-19,21:19,Nishant,YES,take away,"1-Chicken Burger,2-Smoked Chicken Salad",0
+?O,?,,É??=eîi??f,,,,
+7,14-Sep-19,21:13,Noreen,YES,take away,"2-Masala dosa,3-Chocolate Truffle Pastry",0
+2,11-Apr-19,10:21,Rogelio,NO,delivery,"2-Masala dosa,1-Chocolate Mousse",0
+8,02-May-19,20:35,Gonzalo,NO,delivery,"2-Garlic Bread,3-Chocolate Mousse",0
+8,21-Aug-19,15:01,Walton,YES,delivery,"2-Masala dosa,1-Croissant",0
+5,25-Jul-19,14:01,Wardell,YES,delivery,"1-Garlic Bread,1-Donuts",0
+ƒ£,????å,,,,,????å,
+10,05-Oct-19,11:29,Deepak,YES,delivery,"1-Masala dosa,3-Chocolate Shake,2-Butter Scotch ice cream",0
+3,02-Jul-19,11:13,Melinda,NO,delivery,"2-French toast,2-Mushroom Risotto",0
+9,14-Aug-19,21:01,Verlin,YES,delivery,Garlic Bread,0
+4,08-Jul-19,16:19,manju,YES,take away,"2-Chicken Burger,3-Fajita",0
+3,01-Jul-19,21:43,Elvis,YES,delivery,Donuts,0
+7,19-Jan-20,20:49,Rambo,NO,delivery,"2-Fish 'n' chips,2-Chicken Risotto,3-Donuts,1-Coke",0
+8,12-Sep-19,20:59,Joanna,YES,delivery,"2-Chicken rice,2-Blueberry Pastry",0
+9,10-May-19,10:57,Damon,NO,delivery,"1-Fish 'n' chips,1-Croissant",0
+10,24-Oct-19,11:57,neha,NO,delivery,"1-Four Seasons Pizza,1-Smoked Chicken Salad",0
+4,10-Mar-20,20:33,Justin,NO,delivery,"1-Fish 'n' chips,3-Smoked Chicken Salad",0
