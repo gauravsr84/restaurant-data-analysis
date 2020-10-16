@@ -10,10 +10,9 @@ branch_dish_quantity = {} # stores the number of ordered dishes tagged with the 
 print("Reading Input CSV for branch wise data...")
 raw_data = pd.read_csv("../consolidated_branch_data/raw_data.csv")
 
-# alphabet = string.ascii_letters+string.punctuation
 print("Removing blank and invalid rows from input csv...")
 raw_data = raw_data.dropna(how = 'any') 
-raw_data.drop(raw_data[~raw_data['branch_id'].str.isdigit()].index, inplace = True) # to be fixed - if characters are not found, then breaks here
+raw_data.drop(raw_data[~raw_data['branch_id'].str.isdigit()].index, inplace = True)
 raw_data["rating"] = raw_data["rating"].astype(int)
 
 
@@ -88,5 +87,3 @@ print(branch_dish_quantity)
 
 print("Sales of each branch month wise")
 print(branch_wise_sales)
-# print(order_details)
-# print(raw_data)
