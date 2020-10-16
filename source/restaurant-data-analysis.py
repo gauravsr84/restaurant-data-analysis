@@ -8,7 +8,7 @@ branch_dish_quantity = {} # stores the number of ordered dishes tagged with the 
 
 # Parsing and saving the CSV data
 print("Reading Input CSV for branch wise data...")
-raw_data = pd.read_csv("../consolidated_branch_data/raw_data.csv", encoding='latin1')
+raw_data = pd.read_csv("../consolidated_branch_data/raw_data.csv")
 
 # alphabet = string.ascii_letters+string.punctuation
 print("Removing blank and invalid rows from input csv...")
@@ -19,7 +19,7 @@ raw_data["rating"] = raw_data["rating"].astype(int)
 
 # raw_data = raw_data.drop(raw_data["branch_id"].str.isdigit())
 print("Reading base price csv...")
-base_price_data = pd.read_csv("../consolidated_branch_data/base_price.csv", encoding='latin1').dropna()
+base_price_data = pd.read_csv("../consolidated_branch_data/base_price.csv").dropna()
 base_price_data["Price"] = base_price_data["Price"].astype(int)
 
 def get_sale_month(order_date):
