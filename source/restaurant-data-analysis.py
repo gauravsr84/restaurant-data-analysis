@@ -56,13 +56,13 @@ for index,row in raw_data.iterrows():
 	for order in order_detail:
 		try:
 			items = order.split("-")
-			item = base_price_data[base_price_data.eq(items[1]).any(1)]
+			item = base_price_data.loc[base_price_data['Item'].str.contains(items[1])] 
 			quantity = int(items[0])
 			price = item["Price"].values[0]
 			total_order_amount = quantity * price
 			get_ordered_dishes(row["branch_id"], items[1], quantity)
 		except:
-			item = base_price_data[base_price_data.eq(order).any(1)]
+			item = base_price_data.loc[base_price_data['Item'].str.contains(order)]
 			price = item["Price"].values[0]
 			total_order_amount = price
 			get_ordered_dishes(row["branch_id"], order, 1)
@@ -74,16 +74,19 @@ for index,row in raw_data.iterrows():
 
 print("Writing branch-dish-quantity data to csv for analysis...")
 df = pd.DataFrame.from_dict(branch_dish_quantity, orient="index")
-df.T.to_csv("../consolidated_branch_data/branch_dish_quantity.csv")
+df.T.to_csv("../output/branch_dish_quantity.csv")
 
 print("Writing branch-wise-sales data to csv for analysis...")
 df = pd.DataFrame.from_dict(branch_wise_sales, orient="index")
-df.T.to_csv("../consolidated_branch_data/branch_wise_sales.csv")
+df.T.to_csv("../output/branch_wise_sales.csv")
 
 print("Average of ratings per branch...")
 print(raw_data.groupby("branch_id")["rating"].mean())
 
+print("Number of ordered dishes in each branch..")
 print(branch_dish_quantity)
+
+print("Sales of each branch month wise")
 print(branch_wise_sales)
 # print(order_details)
 # print(raw_data)
