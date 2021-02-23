@@ -1,4 +1,5 @@
 name: upload and deploy lambda
+on: push
 uses: appleboy/lambda-action@master
 with:
   aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
