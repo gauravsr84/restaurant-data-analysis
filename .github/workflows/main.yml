@@ -1,12 +1,12 @@
 name: upload and deploy lambda
 on: push
 uses: appleboy/lambda-action@master
-  with:
-    aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-    aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-    aws_region: us-east-1
-    function_name: lambda_handler
-    zip_file: lambda_bundle.zip
+with:
+  aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+  aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+  aws_region: us-east-1
+  function_name: lambda_handler
+  zip_file: lambda_bundle.zip
 jobs:
   say_hello:
     runs-on: windows-latest
