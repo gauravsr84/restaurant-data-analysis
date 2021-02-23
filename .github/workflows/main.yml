@@ -7,3 +7,6 @@ with:
   aws_region: us-east-1
   function_name: lambda_handler
   zip_file: lambda_bundle.zip
+jobs:
+  say_hello:
+    runs-on: windows-latest
