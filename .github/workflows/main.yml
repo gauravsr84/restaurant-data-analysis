@@ -10,3 +10,6 @@ with:
 jobs:
   say_hello:
     runs-on: windows-latest
+    steps:
+    - run: |
+        echo "Hello"
