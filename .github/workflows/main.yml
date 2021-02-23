@@ -1,33 +1,39 @@
-name: AWS Lambda Deploy Function
-on: push
-# You may pin to the exact commit or the version.
-# uses: zeagord/aws-lambda-deploy-function@63409e95ba826bc89e9c7ca35e4bf3922bf00090
-uses: zeagord/aws-lambda-deploy-function@0.0.3
-with:
-  # Jar or Zip package of the lambda
-  artifact: lambda_bundle.zip
-  # Name of the Lambda function
-  function-name: lambda_handler 
-  # Runtime fo the Lambda, Java11 or Node11
-  runtime: python 3.7 
-  # Name of the Handler
-  handler: lambda_handler 
-  # AWS secret key
-  AWS_SECRET_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-  # AWS secret key ID
-  AWS_SECRET_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-  # AWS region
-  AWS_REGION: ${{ secrets.AWS_REGION }}
-jobs:
-  my-job:
-    name: My Job
-    runs-on: ubuntu-latest
-    steps:
-    - name: Print a greeting
-      env:
-        MY_VAR: Hi there! My name is
-        FIRST_NAME: Mona
-        MIDDLE_NAME: The
-        LAST_NAME: Octocat
-      run: |
-        echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
+region: ${{ secrets.AWS_REGION }}
+
+function_name: my_lambda_function
+handler: service.handler
+description: My first lambda function
+runtime: python2.7
+# role: lambda_basic_execution
+
+# S3 upload requires appropriate role with s3:PutObject permission
+# (ex. basic_s3_upload), a destination bucket, and the key prefix
+# bucket_name: 'example-bucket'
+# s3_key_prefix: 'path/to/file/'
+
+# if access key and secret are left blank, boto will use the credentials
+# defined in the [default] section of ~/.aws/credentials.
+aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+# dist_directory: dist
+# timeout: 15
+# memory_size: 512
+# concurrency: 500
+#
+
+# Experimental Environment variables
+environment_variables:
+    env_1: foo
+    env_2: baz
+
+# If `tags` is uncommented then tags will be set at creation or update
+# time.  During an update all other tags will be removed except the tags
+# listed here.
+#tags:
+#    tag_1: foo
+#    tag_2: bar
+
+# Build options
+build:
+  source_directories: lib # a comma delimited list of directories in your project root that contains source to package.
