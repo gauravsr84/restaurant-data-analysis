@@ -4,7 +4,7 @@ jobs:
 
   deploy_source:
     name: deploy lambda from source
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu-20.04
     steps:
       - name: checkout source code
         uses: actions/checkout@v1
